@@ -1,0 +1,30 @@
+Table FactVentas {
+  TransactionID int [pk]
+  Date date
+  CustomerKey int [ref  DimCliente.CustomerKey]
+  CategoriaKey int [ref  DimProducto.CategoriaKey]
+  FechaKey date [ref  DimTiempo.FechaKey]
+  Quantity int
+  PricePerUnit decimal
+  TotalAmount decimal
+}
+
+Table DimCliente {
+  CustomerKey int [pk]
+  CustomerID varchar
+  Gender varchar
+  Age int
+}
+
+Table DimProducto {
+  CategoriaKey int [pk]
+  ProductCategory varchar
+}
+
+Table DimTiempo {
+  FechaKey date [pk]
+  Anio int
+  Mes int
+  NombreMes varchar
+  Trimestre varchar
+}

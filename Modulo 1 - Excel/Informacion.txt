@@ -1,0 +1,15 @@
+Bienvenidos al Programa Data Analysis Expert y al Módulo 1
+
+Hoy inician un viaje formativo en el que aprenderán a transformar, analizar e interpretar datos para resolver problemas reales de negocios de todo tipo.
+
+Inauguramos este programa con el Módulo 1: Excel para Análisis de Datos. En esta primera etapa, dejaremos atrás el uso básico de la hoja de cálculo para adentrarnos en herramientas de inteligencia de negocios.
+
+Durante estas sesi sesiones, nuestro plan de estudio se enfocará en:
+
+Tablas Dinámicas normales y avanzadas: Análisis profundo y resumido de información.
+Manejo y limpieza de datos (ETL): Preparación fundamental para asegurar la calidad de los datos.
+Power Query: Transformación automatizada y conexión a diversas fuentes.
+Power Pivot y modelo de datos: Creación de modelos relacionales robustos directamente en Excel.
+En nuestra modalidad 100% virtual sincrónica, esta plataforma será su centro de operaciones. Aquí encontrarán su material de apoyo, cronograma y recursos necesarios para cada clase.
+
+¡Mucho éxito en este inicio de este primer módulo!

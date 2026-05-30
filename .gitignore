@@ -1,0 +1,45 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs y temporales
+*.log
+*.tmp
+*.temp
+*.swp
+*.bak
+*.old
+
+# Entornos y dependencias
+venv/
+.venv/
+env/
+ENV/
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Power BI / Office
+*.pptx
+
+# Videos pesados
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.wmv
+*.webm
+
+# Comprimidos
+*.7z
+*.tar
+*.gz
+
+# Cachés de IDE
+.vscode/
+.idea/

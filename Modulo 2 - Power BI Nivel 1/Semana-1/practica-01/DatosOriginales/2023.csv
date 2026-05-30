@@ -1,0 +1,1951 @@
+TicketID;FechaApertura;FechaCierre;Cantidad;NombreCategoria;NombreCliente;TiempoMaximoRespuesta;Tarifa;Estado;Tecnico;PrecioxHora;CategoriaProfesional;Prioridad
+191;2023-06-10;;5;Software;Soluciones Tecnológicas;24;188;En Progreso;Sofía Navarro;70;Senior;Urgente
+200;2023-01-09;;2;Seguridad;Inteligencia de Datos;72;163;En Progreso;Sofía Navarro;70;Senior;Urgente
+351;2023-02-13;;1;Redes;Sostenibilidad y Progreso;48;199;En Progreso;Sofía Navarro;70;Senior;Baja
+435;2023-02-03;;3;Software;Sostenibilidad y Progreso;48;199;En Progreso;Sofía Navarro;70;Senior;Urgente
+470;2023-08-01;;4;Hardware;Visión Futurista;72;176;En Progreso;Sofía Navarro;70;Senior;Media
+643;2023-04-20;;5;Redes;Sistemas Ecológicos;24;147;En Progreso;Sofía Navarro;70;Senior;Baja
+896;2023-07-04;;4;Redes;Servicios Globales;36;106;En Progreso;Sofía Navarro;70;Senior;Media
+1141;2023-05-18;;1;Hardware;Visión Futurista;72;176;En Progreso;Sofía Navarro;70;Senior;Media
+1181;2023-12-30;;5;Software;Redes Seguras;48;132;En Progreso;Sofía Navarro;70;Senior;Media
+1392;2023-08-08;;1;Redes;Innovaciones Creativas;48;138;En Progreso;Sofía Navarro;70;Senior;Baja
+1405;2023-08-26;;4;Redes;Visión Futurista;72;176;En Progreso;Sofía Navarro;70;Senior;Alta
+1576;2023-06-20;;1;Seguridad;Creatividad y Desarrollo;24;116;En Progreso;Sofía Navarro;70;Senior;Alta
+1604;2023-01-17;;5;Hardware;Inteligencia de Datos;72;163;En Progreso;Sofía Navarro;70;Senior;Media
+1755;2023-01-27;;5;Software;Inteligencia de Datos;72;163;En Progreso;Sofía Navarro;70;Senior;Urgente
+1827;2023-10-21;;1;Seguridad;Visión Futurista;72;176;En Progreso;Sofía Navarro;70;Senior;Urgente
+1836;2023-11-16;;2;Hardware;Soluciones Tecnológicas;24;188;En Progreso;Sofía Navarro;70;Senior;Baja
+1846;2023-01-14;;5;Redes;Redes Seguras;48;132;En Progreso;Sofía Navarro;70;Senior;Media
+2088;2023-04-13;;1;Redes;Sistemas Ecológicos;24;147;En Progreso;Sofía Navarro;70;Senior;Baja
+2092;2023-05-26;;4;Seguridad;Sostenibilidad y Progreso;48;199;En Progreso;Sofía Navarro;70;Senior;Media
+2188;2023-02-14;;4;Redes;Creatividad y Desarrollo;24;116;En Progreso;Sofía Navarro;70;Senior;Alta
+2199;2023-09-19;;4;Hardware;Redes Seguras;48;132;En Progreso;Sofía Navarro;70;Senior;Baja
+2294;2023-04-05;;5;Redes;Sostenibilidad y Progreso;48;199;En Progreso;Sofía Navarro;70;Senior;Urgente
+2363;2023-02-01;;1;Seguridad;Creatividad y Desarrollo;24;116;En Progreso;Sofía Navarro;70;Senior;Baja
+2593;2023-12-29;;4;Seguridad;Creatividad y Desarrollo;24;116;En Progreso;Sofía Navarro;70;Senior;Alta
+2716;2023-02-25;;5;Redes;Soluciones Tecnológicas;24;188;En Progreso;Sofía Navarro;70;Senior;Alta
+2797;2023-09-04;;1;Hardware;Innovaciones Creativas;48;138;En Progreso;Sofía Navarro;70;Senior;Media
+2801;2023-02-06;;1;Hardware;Sostenibilidad y Progreso;48;199;En Progreso;Sofía Navarro;70;Senior;Alta
+2830;2023-07-07;;2;Software;Visión Futurista;72;176;En Progreso;Sofía Navarro;70;Senior;Media
+2986;2023-11-05;;4;Seguridad;Visión Futurista;72;176;En Progreso;Sofía Navarro;70;Senior;Baja
+3069;2023-11-06;;3;Hardware;Soluciones Tecnológicas;24;188;En Progreso;Sofía Navarro;70;Senior;Media
+3075;2023-10-27;;1;Hardware;Sistemas Ecológicos;24;147;En Progreso;Sofía Navarro;70;Senior;Baja
+3141;2023-11-25;;3;Redes;Sistemas Ecológicos;24;147;En Progreso;Sofía Navarro;70;Senior;Baja
+3320;2023-09-17;;3;Redes;Innovaciones Creativas;48;138;En Progreso;Sofía Navarro;70;Senior;Media
+3383;2023-05-21;;4;Hardware;Sostenibilidad y Progreso;48;199;En Progreso;Sofía Navarro;70;Senior;Alta
+3390;2023-12-02;;2;Hardware;Soluciones Tecnológicas;24;188;En Progreso;Sofía Navarro;70;Senior;Urgente
+3391;2023-08-10;;3;Redes;Creatividad y Desarrollo;24;116;En Progreso;Sofía Navarro;70;Senior;Media
+3396;2023-12-23;;3;Hardware;Sistemas Ecológicos;24;147;En Progreso;Sofía Navarro;70;Senior;Baja
+3413;2023-02-15;;2;Hardware;Avances Continuos;36;187;En Progreso;Sofía Navarro;70;Senior;Media
+3654;2023-08-06;;1;Redes;Innovaciones Creativas;48;138;En Progreso;Sofía Navarro;70;Senior;Urgente
+3671;2023-07-28;;4;Software;Creatividad y Desarrollo;24;116;En Progreso;Sofía Navarro;70;Senior;Alta
+3705;2023-03-23;;3;Seguridad;Innovaciones Creativas;48;138;En Progreso;Sofía Navarro;70;Senior;Baja
+3753;2023-01-29;;3;Redes;Visión Futurista;72;176;En Progreso;Sofía Navarro;70;Senior;Media
+3773;2023-04-04;;4;Hardware;Redes Seguras;48;132;En Progreso;Sofía Navarro;70;Senior;Alta
+4123;2023-09-28;;1;Redes;Sostenibilidad y Progreso;48;199;En Progreso;Sofía Navarro;70;Senior;Alta
+4163;2023-04-29;;3;Software;Soluciones Tecnológicas;24;188;En Progreso;Sofía Navarro;70;Senior;Urgente
+4194;2023-01-04;;5;Seguridad;Creatividad y Desarrollo;24;116;En Progreso;Sofía Navarro;70;Senior;Urgente
+4555;2023-11-25;;1;Seguridad;Servicios Globales;36;106;En Progreso;Sofía Navarro;70;Senior;Media
+4591;2023-04-13;;4;Redes;Visión Futurista;72;176;En Progreso;Sofía Navarro;70;Senior;Alta
+4860;2023-10-10;;4;Hardware;Servicios Globales;36;106;En Progreso;Sofía Navarro;70;Senior;Alta
+4923;2023-02-09;;5;Seguridad;Avances Continuos;36;187;En Progreso;Sofía Navarro;70;Senior;Alta
+5030;2023-01-14;;5;Software;Servicios Globales;36;106;En Progreso;Sofía Navarro;70;Senior;Media
+5031;2023-05-31;;5;Redes;Sostenibilidad y Progreso;48;199;En Progreso;Sofía Navarro;70;Senior;Alta
+5055;2023-06-24;;1;Hardware;Sostenibilidad y Progreso;48;199;En Progreso;Sofía Navarro;70;Senior;Alta
+5509;2023-05-02;;2;Hardware;Visión Futurista;72;176;En Progreso;Sofía Navarro;70;Senior;Urgente
+5525;2023-08-29;;2;Redes;Inteligencia de Datos;72;163;En Progreso;Sofía Navarro;70;Senior;Baja
+5563;2023-11-12;;2;Software;Servicios Globales;36;106;En Progreso;Sofía Navarro;70;Senior;Alta
+5801;2023-09-01;;2;Software;Visión Futurista;72;176;En Progreso;Sofía Navarro;70;Senior;Baja
+5894;2023-11-25;;2;Redes;Sistemas Ecológicos;24;147;En Progreso;Sofía Navarro;70;Senior;Media
+5952;2023-10-19;;4;Software;Sistemas Ecológicos;24;147;En Progreso;Sofía Navarro;70;Senior;Media
+6062;2023-07-25;;1;Hardware;Sostenibilidad y Progreso;48;199;En Progreso;Sofía Navarro;70;Senior;Media
+6497;2023-10-30;;3;Redes;Soluciones Tecnológicas;24;188;En Progreso;Sofía Navarro;70;Senior;Media
+6599;2023-07-17;;2;Hardware;Creatividad y Desarrollo;24;116;En Progreso;Sofía Navarro;70;Senior;Baja
+6771;2023-05-20;;1;Seguridad;Servicios Globales;36;106;En Progreso;Sofía Navarro;70;Senior;Alta
+6911;2023-08-08;;3;Seguridad;Creatividad y Desarrollo;24;116;En Progreso;Sofía Navarro;70;Senior;Alta
+7049;2023-08-02;;5;Redes;Inteligencia de Datos;72;163;En Progreso;Sofía Navarro;70;Senior;Alta
+7314;2023-01-16;;4;Seguridad;Sistemas Ecológicos;24;147;En Progreso;Sofía Navarro;70;Senior;Urgente
+7497;2023-06-23;;1;Software;Redes Seguras;48;132;En Progreso;Sofía Navarro;70;Senior;Baja
+7744;2023-06-29;;3;Redes;Sostenibilidad y Progreso;48;199;En Progreso;Sofía Navarro;70;Senior;Media
+7796;2023-03-10;;4;Seguridad;Avances Continuos;36;187;En Progreso;Sofía Navarro;70;Senior;Alta
+7889;2023-10-30;;5;Redes;Servicios Globales;36;106;En Progreso;Sofía Navarro;70;Senior;Alta
+8122;2023-01-03;;4;Hardware;Sostenibilidad y Progreso;48;199;En Progreso;Sofía Navarro;70;Senior;Baja
+8300;2023-09-15;;5;Software;Inteligencia de Datos;72;163;En Progreso;Sofía Navarro;70;Senior;Alta
+8322;2023-10-09;;1;Software;Innovaciones Creativas;48;138;En Progreso;Sofía Navarro;70;Senior;Baja
+8341;2023-07-23;;5;Hardware;Avances Continuos;36;187;En Progreso;Sofía Navarro;70;Senior;Media
+8439;2023-10-27;;2;Redes;Inteligencia de Datos;72;163;En Progreso;Sofía Navarro;70;Senior;Urgente
+8486;2023-09-08;;1;Seguridad;Creatividad y Desarrollo;24;116;En Progreso;Sofía Navarro;70;Senior;Baja
+8534;2023-11-01;;2;Hardware;Soluciones Tecnológicas;24;188;En Progreso;Sofía Navarro;70;Senior;Alta
+8599;2023-11-08;;1;Hardware;Sistemas Ecológicos;24;147;En Progreso;Sofía Navarro;70;Senior;Urgente
+8622;2023-06-04;;4;Software;Innovaciones Creativas;48;138;En Progreso;Sofía Navarro;70;Senior;Alta
+8902;2023-08-20;;1;Redes;Soluciones Tecnológicas;24;188;En Progreso;Sofía Navarro;70;Senior;Baja
+8948;2023-06-13;;5;Software;Redes Seguras;48;132;En Progreso;Sofía Navarro;70;Senior;Media
+8993;2023-03-30;;2;Hardware;Sostenibilidad y Progreso;48;199;En Progreso;Sofía Navarro;70;Senior;Media
+9080;2023-01-21;;5;Hardware;Creatividad y Desarrollo;24;116;En Progreso;Sofía Navarro;70;Senior;Alta
+9164;2023-06-26;;3;Seguridad;Innovaciones Creativas;48;138;En Progreso;Sofía Navarro;70;Senior;Alta
+9376;2023-09-29;;1;Seguridad;Sostenibilidad y Progreso;48;199;En Progreso;Sofía Navarro;70;Senior;Media
+9521;2023-05-16;;3;Hardware;Servicios Globales;36;106;En Progreso;Sofía Navarro;70;Senior;Urgente
+9647;2023-08-03;;1;Software;Visión Futurista;72;176;En Progreso;Sofía Navarro;70;Senior;Media
+9688;2023-03-02;;1;Software;Servicios Globales;36;106;En Progreso;Sofía Navarro;70;Senior;Alta
+9716;2023-03-01;;3;Software;Inteligencia de Datos;72;163;En Progreso;Sofía Navarro;70;Senior;Alta
+9830;2023-08-26;;3;Hardware;Sistemas Ecológicos;24;147;En Progreso;Sofía Navarro;70;Senior;Baja
+9974;2023-08-08;;2;Redes;Creatividad y Desarrollo;24;116;En Progreso;Sofía Navarro;70;Senior;Baja
+14;2023-01-28;;3;Hardware;Creatividad y Desarrollo;24;116;Abierto;Sofía Navarro;70;Senior;Urgente
+317;2023-07-30;;4;Seguridad;Sistemas Ecológicos;24;147;Abierto;Sofía Navarro;70;Senior;Media
+333;2023-04-10;;2;Redes;Sistemas Ecológicos;24;147;Abierto;Sofía Navarro;70;Senior;Alta
+334;2023-05-28;;4;Seguridad;Sostenibilidad y Progreso;48;199;Abierto;Sofía Navarro;70;Senior;Urgente
+468;2023-01-14;;5;Seguridad;Sostenibilidad y Progreso;48;199;Abierto;Sofía Navarro;70;Senior;Alta
+587;2023-01-27;;5;Software;Innovaciones Creativas;48;138;Abierto;Sofía Navarro;70;Senior;Media
+619;2023-04-06;;5;Hardware;Creatividad y Desarrollo;24;116;Abierto;Sofía Navarro;70;Senior;Alta
+628;2023-12-16;;4;Hardware;Creatividad y Desarrollo;24;116;Abierto;Sofía Navarro;70;Senior;Media
+637;2023-03-01;;5;Seguridad;Inteligencia de Datos;72;163;Abierto;Sofía Navarro;70;Senior;Urgente
+640;2023-12-09;;1;Software;Visión Futurista;72;176;Abierto;Sofía Navarro;70;Senior;Baja
+685;2023-11-26;;1;Seguridad;Soluciones Tecnológicas;24;188;Abierto;Sofía Navarro;70;Senior;Alta
+956;2023-07-29;;5;Redes;Redes Seguras;48;132;Abierto;Sofía Navarro;70;Senior;Media
+1050;2023-04-03;;4;Hardware;Servicios Globales;36;106;Abierto;Sofía Navarro;70;Senior;Baja
+1105;2023-03-28;;3;Seguridad;Visión Futurista;72;176;Abierto;Sofía Navarro;70;Senior;Baja
+1306;2023-08-01;;3;Software;Innovaciones Creativas;48;138;Abierto;Sofía Navarro;70;Senior;Baja
+1314;2023-11-10;;1;Seguridad;Creatividad y Desarrollo;24;116;Abierto;Sofía Navarro;70;Senior;Alta
+1345;2023-10-14;;2;Seguridad;Creatividad y Desarrollo;24;116;Abierto;Sofía Navarro;70;Senior;Alta
+1579;2023-02-04;;1;Software;Sostenibilidad y Progreso;48;199;Abierto;Sofía Navarro;70;Senior;Baja
+1634;2023-09-01;;2;Software;Sostenibilidad y Progreso;48;199;Abierto;Sofía Navarro;70;Senior;Media
+2124;2023-09-09;;5;Redes;Servicios Globales;36;106;Abierto;Sofía Navarro;70;Senior;Baja
+2276;2023-12-26;;3;Software;Creatividad y Desarrollo;24;116;Abierto;Sofía Navarro;70;Senior;Alta
+2393;2023-05-04;;2;Seguridad;Creatividad y Desarrollo;24;116;Abierto;Sofía Navarro;70;Senior;Urgente
+2705;2023-10-08;;4;Redes;Visión Futurista;72;176;Abierto;Sofía Navarro;70;Senior;Alta
+3139;2023-08-18;;4;Redes;Servicios Globales;36;106;Abierto;Sofía Navarro;70;Senior;Media
+3291;2023-04-28;;5;Software;Innovaciones Creativas;48;138;Abierto;Sofía Navarro;70;Senior;Media
+3337;2023-09-28;;5;Software;Visión Futurista;72;176;Abierto;Sofía Navarro;70;Senior;Media
+3446;2023-10-31;;4;Redes;Creatividad y Desarrollo;24;116;Abierto;Sofía Navarro;70;Senior;Baja
+3631;2023-10-13;;3;Seguridad;Visión Futurista;72;176;Abierto;Sofía Navarro;70;Senior;Media
+3632;2023-01-03;;5;Software;Sistemas Ecológicos;24;147;Abierto;Sofía Navarro;70;Senior;Urgente
+3678;2023-01-02;;2;Seguridad;Avances Continuos;36;187;Abierto;Sofía Navarro;70;Senior;Urgente
+3777;2023-04-11;;1;Software;Servicios Globales;36;106;Abierto;Sofía Navarro;70;Senior;Baja
+3812;2023-04-20;;5;Software;Sistemas Ecológicos;24;147;Abierto;Sofía Navarro;70;Senior;Baja
+3819;2023-04-26;;4;Seguridad;Innovaciones Creativas;48;138;Abierto;Sofía Navarro;70;Senior;Urgente
+3960;2023-07-07;;1;Seguridad;Innovaciones Creativas;48;138;Abierto;Sofía Navarro;70;Senior;Urgente
+3972;2023-06-24;;5;Seguridad;Visión Futurista;72;176;Abierto;Sofía Navarro;70;Senior;Media
+4008;2023-07-12;;1;Software;Creatividad y Desarrollo;24;116;Abierto;Sofía Navarro;70;Senior;Alta
+4134;2023-11-03;;2;Software;Innovaciones Creativas;48;138;Abierto;Sofía Navarro;70;Senior;Urgente
+4161;2023-01-30;;4;Redes;Creatividad y Desarrollo;24;116;Abierto;Sofía Navarro;70;Senior;Baja
+4284;2023-11-27;;3;Software;Avances Continuos;36;187;Abierto;Sofía Navarro;70;Senior;Urgente
+4302;2023-09-03;;5;Seguridad;Inteligencia de Datos;72;163;Abierto;Sofía Navarro;70;Senior;Urgente
+4306;2023-05-12;;4;Redes;Avances Continuos;36;187;Abierto;Sofía Navarro;70;Senior;Alta
+4526;2023-05-21;;4;Software;Innovaciones Creativas;48;138;Abierto;Sofía Navarro;70;Senior;Urgente
+4549;2023-06-16;;4;Hardware;Innovaciones Creativas;48;138;Abierto;Sofía Navarro;70;Senior;Media
+4566;2023-12-08;;5;Software;Servicios Globales;36;106;Abierto;Sofía Navarro;70;Senior;Alta
+4705;2023-07-03;;3;Software;Visión Futurista;72;176;Abierto;Sofía Navarro;70;Senior;Media
+4778;2023-05-30;;4;Hardware;Sostenibilidad y Progreso;48;199;Abierto;Sofía Navarro;70;Senior;Baja
+4851;2023-12-09;;2;Seguridad;Redes Seguras;48;132;Abierto;Sofía Navarro;70;Senior;Media
+4900;2023-09-28;;4;Seguridad;Innovaciones Creativas;48;138;Abierto;Sofía Navarro;70;Senior;Media
+5355;2023-08-18;;1;Redes;Soluciones Tecnológicas;24;188;Abierto;Sofía Navarro;70;Senior;Alta
+5750;2023-04-19;;1;Redes;Soluciones Tecnológicas;24;188;Abierto;Sofía Navarro;70;Senior;Urgente
+5843;2023-11-10;;4;Hardware;Creatividad y Desarrollo;24;116;Abierto;Sofía Navarro;70;Senior;Alta
+6229;2023-05-16;;5;Hardware;Servicios Globales;36;106;Abierto;Sofía Navarro;70;Senior;Urgente
+6383;2023-01-03;;2;Seguridad;Redes Seguras;48;132;Abierto;Sofía Navarro;70;Senior;Baja
+6388;2023-06-02;;5;Hardware;Inteligencia de Datos;72;163;Abierto;Sofía Navarro;70;Senior;Media
+6749;2023-08-14;;4;Redes;Soluciones Tecnológicas;24;188;Abierto;Sofía Navarro;70;Senior;Urgente
+6750;2023-12-29;;2;Software;Servicios Globales;36;106;Abierto;Sofía Navarro;70;Senior;Media
+6815;2023-03-31;;4;Hardware;Visión Futurista;72;176;Abierto;Sofía Navarro;70;Senior;Baja
+7172;2023-08-25;;5;Seguridad;Redes Seguras;48;132;Abierto;Sofía Navarro;70;Senior;Media
+7197;2023-12-16;;2;Redes;Innovaciones Creativas;48;138;Abierto;Sofía Navarro;70;Senior;Baja
+7498;2023-01-12;;2;Seguridad;Servicios Globales;36;106;Abierto;Sofía Navarro;70;Senior;Media
+7556;2023-08-22;;2;Redes;Sistemas Ecológicos;24;147;Abierto;Sofía Navarro;70;Senior;Baja
+7602;2023-05-06;;5;Software;Visión Futurista;72;176;Abierto;Sofía Navarro;70;Senior;Media
+7737;2023-02-05;;4;Hardware;Sistemas Ecológicos;24;147;Abierto;Sofía Navarro;70;Senior;Media
+7765;2023-07-16;;5;Hardware;Sostenibilidad y Progreso;48;199;Abierto;Sofía Navarro;70;Senior;Media
+7861;2023-09-20;;1;Software;Servicios Globales;36;106;Abierto;Sofía Navarro;70;Senior;Alta
+7895;2023-04-27;;1;Software;Visión Futurista;72;176;Abierto;Sofía Navarro;70;Senior;Media
+8006;2023-05-25;;4;Software;Visión Futurista;72;176;Abierto;Sofía Navarro;70;Senior;Baja
+8113;2023-05-15;;2;Hardware;Visión Futurista;72;176;Abierto;Sofía Navarro;70;Senior;Media
+8197;2023-06-06;;3;Software;Servicios Globales;36;106;Abierto;Sofía Navarro;70;Senior;Alta
+8404;2023-07-25;;5;Seguridad;Soluciones Tecnológicas;24;188;Abierto;Sofía Navarro;70;Senior;Alta
+8458;2023-11-30;;3;Redes;Sostenibilidad y Progreso;48;199;Abierto;Sofía Navarro;70;Senior;Media
+8595;2023-04-10;;2;Redes;Sostenibilidad y Progreso;48;199;Abierto;Sofía Navarro;70;Senior;Media
+8676;2023-03-03;;3;Software;Inteligencia de Datos;72;163;Abierto;Sofía Navarro;70;Senior;Media
+8831;2023-05-22;;3;Software;Redes Seguras;48;132;Abierto;Sofía Navarro;70;Senior;Media
+9000;2023-02-10;;2;Hardware;Visión Futurista;72;176;Abierto;Sofía Navarro;70;Senior;Urgente
+9185;2023-04-30;;5;Seguridad;Inteligencia de Datos;72;163;Abierto;Sofía Navarro;70;Senior;Alta
+9296;2023-02-25;;1;Software;Soluciones Tecnológicas;24;188;Abierto;Sofía Navarro;70;Senior;Media
+9398;2023-10-24;;4;Seguridad;Redes Seguras;48;132;Abierto;Sofía Navarro;70;Senior;Urgente
+9513;2023-08-02;;1;Software;Sistemas Ecológicos;24;147;Abierto;Sofía Navarro;70;Senior;Alta
+9549;2023-10-26;;1;Hardware;Inteligencia de Datos;72;163;Abierto;Sofía Navarro;70;Senior;Baja
+9608;2023-10-18;;4;Seguridad;Innovaciones Creativas;48;138;Abierto;Sofía Navarro;70;Senior;Baja
+9651;2023-10-04;;3;Software;Inteligencia de Datos;72;163;Abierto;Sofía Navarro;70;Senior;Baja
+9802;2023-06-07;;5;Seguridad;Innovaciones Creativas;48;138;Abierto;Sofía Navarro;70;Senior;Media
+9828;2023-07-17;;5;Software;Servicios Globales;36;106;Abierto;Sofía Navarro;70;Senior;Urgente
+9832;2023-02-01;;1;Seguridad;Innovaciones Creativas;48;138;Abierto;Sofía Navarro;70;Senior;Media
+60;2023-09-25;;1;Software;Sistemas Ecológicos;24;147;Cerrado;Sofía Navarro;70;Senior;Alta
+146;2023-06-18;;2;Seguridad;Sostenibilidad y Progreso;48;199;Cerrado;Sofía Navarro;70;Senior;Baja
+170;2023-10-03;;4;Software;Creatividad y Desarrollo;24;116;Cerrado;Sofía Navarro;70;Senior;Baja
+445;2023-11-17;;4;Hardware;Avances Continuos;36;187;Cerrado;Sofía Navarro;70;Senior;Urgente
+513;2023-12-21;;2;Seguridad;Servicios Globales;36;106;Cerrado;Sofía Navarro;70;Senior;Urgente
+536;2023-05-04;;5;Software;Avances Continuos;36;187;Cerrado;Sofía Navarro;70;Senior;Alta
+625;2023-05-02;;1;Seguridad;Visión Futurista;72;176;Cerrado;Sofía Navarro;70;Senior;Baja
+666;2023-12-03;;5;Seguridad;Sostenibilidad y Progreso;48;199;Cerrado;Sofía Navarro;70;Senior;Media
+794;2023-08-22;;1;Hardware;Sostenibilidad y Progreso;48;199;Cerrado;Sofía Navarro;70;Senior;Media
+807;2023-06-06;;4;Seguridad;Redes Seguras;48;132;Cerrado;Sofía Navarro;70;Senior;Baja
+813;2023-12-16;;2;Hardware;Redes Seguras;48;132;Cerrado;Sofía Navarro;70;Senior;Urgente
+950;2023-10-24;;2;Software;Creatividad y Desarrollo;24;116;Cerrado;Sofía Navarro;70;Senior;Alta
+999;2023-08-16;;3;Hardware;Innovaciones Creativas;48;138;Cerrado;Sofía Navarro;70;Senior;Urgente
+1111;2023-03-26;;2;Redes;Inteligencia de Datos;72;163;Cerrado;Sofía Navarro;70;Senior;Media
+1153;2023-02-03;;1;Software;Sistemas Ecológicos;24;147;Cerrado;Sofía Navarro;70;Senior;Alta
+1200;2023-04-20;;5;Hardware;Avances Continuos;36;187;Cerrado;Sofía Navarro;70;Senior;Baja
+1217;2023-10-16;;1;Software;Visión Futurista;72;176;Cerrado;Sofía Navarro;70;Senior;Baja
+1479;2023-05-31;;5;Seguridad;Innovaciones Creativas;48;138;Cerrado;Sofía Navarro;70;Senior;Baja
+1602;2023-02-17;;5;Software;Creatividad y Desarrollo;24;116;Cerrado;Sofía Navarro;70;Senior;Media
+1818;2023-09-29;;5;Hardware;Inteligencia de Datos;72;163;Cerrado;Sofía Navarro;70;Senior;Baja
+2494;2023-11-04;;5;Redes;Sistemas Ecológicos;24;147;Cerrado;Sofía Navarro;70;Senior;Baja
+2619;2023-05-28;;4;Hardware;Servicios Globales;36;106;Cerrado;Sofía Navarro;70;Senior;Media
+2673;2023-06-10;;2;Redes;Avances Continuos;36;187;Cerrado;Sofía Navarro;70;Senior;Urgente
+2815;2023-04-21;;3;Software;Sostenibilidad y Progreso;48;199;Cerrado;Sofía Navarro;70;Senior;Baja
+2874;2023-10-19;;2;Redes;Innovaciones Creativas;48;138;Cerrado;Sofía Navarro;70;Senior;Urgente
+2911;2023-12-20;;5;Redes;Sostenibilidad y Progreso;48;199;Cerrado;Sofía Navarro;70;Senior;Urgente
+3227;2023-09-09;;3;Software;Sostenibilidad y Progreso;48;199;Cerrado;Sofía Navarro;70;Senior;Alta
+3855;2023-05-22;;2;Seguridad;Redes Seguras;48;132;Cerrado;Sofía Navarro;70;Senior;Alta
+3883;2023-05-07;;4;Software;Creatividad y Desarrollo;24;116;Cerrado;Sofía Navarro;70;Senior;Baja
+4071;2023-02-06;;1;Hardware;Sistemas Ecológicos;24;147;Cerrado;Sofía Navarro;70;Senior;Media
+4089;2023-04-02;;3;Seguridad;Soluciones Tecnológicas;24;188;Cerrado;Sofía Navarro;70;Senior;Urgente
+4096;2023-04-19;;4;Hardware;Avances Continuos;36;187;Cerrado;Sofía Navarro;70;Senior;Urgente
+4129;2023-12-05;;5;Hardware;Creatividad y Desarrollo;24;116;Cerrado;Sofía Navarro;70;Senior;Media
+4131;2023-04-23;;4;Software;Visión Futurista;72;176;Cerrado;Sofía Navarro;70;Senior;Baja
+4249;2023-04-17;;3;Redes;Sistemas Ecológicos;24;147;Cerrado;Sofía Navarro;70;Senior;Alta
+4279;2023-03-10;;4;Seguridad;Inteligencia de Datos;72;163;Cerrado;Sofía Navarro;70;Senior;Media
+4389;2023-12-03;;1;Hardware;Avances Continuos;36;187;Cerrado;Sofía Navarro;70;Senior;Baja
+4715;2023-03-05;;3;Software;Avances Continuos;36;187;Cerrado;Sofía Navarro;70;Senior;Media
+4819;2023-07-11;;5;Hardware;Servicios Globales;36;106;Cerrado;Sofía Navarro;70;Senior;Baja
+4987;2023-08-25;;3;Software;Inteligencia de Datos;72;163;Cerrado;Sofía Navarro;70;Senior;Alta
+5111;2023-03-01;;1;Hardware;Visión Futurista;72;176;Cerrado;Sofía Navarro;70;Senior;Media
+5225;2023-09-06;;3;Software;Redes Seguras;48;132;Cerrado;Sofía Navarro;70;Senior;Alta
+5274;2023-08-04;;1;Redes;Creatividad y Desarrollo;24;116;Cerrado;Sofía Navarro;70;Senior;Baja
+5321;2023-07-30;;1;Seguridad;Inteligencia de Datos;72;163;Cerrado;Sofía Navarro;70;Senior;Baja
+5328;2023-07-29;;5;Hardware;Soluciones Tecnológicas;24;188;Cerrado;Sofía Navarro;70;Senior;Baja
+5334;2023-03-01;;3;Hardware;Sostenibilidad y Progreso;48;199;Cerrado;Sofía Navarro;70;Senior;Media
+5350;2023-03-12;;4;Seguridad;Soluciones Tecnológicas;24;188;Cerrado;Sofía Navarro;70;Senior;Media
+5672;2023-04-13;;4;Hardware;Sostenibilidad y Progreso;48;199;Cerrado;Sofía Navarro;70;Senior;Urgente
+5716;2023-10-22;;5;Hardware;Inteligencia de Datos;72;163;Cerrado;Sofía Navarro;70;Senior;Media
+5863;2023-03-19;;2;Software;Sistemas Ecológicos;24;147;Cerrado;Sofía Navarro;70;Senior;Alta
+5892;2023-03-11;;3;Hardware;Creatividad y Desarrollo;24;116;Cerrado;Sofía Navarro;70;Senior;Urgente
+6059;2023-09-05;;2;Hardware;Servicios Globales;36;106;Cerrado;Sofía Navarro;70;Senior;Urgente
+6647;2023-05-17;;4;Hardware;Inteligencia de Datos;72;163;Cerrado;Sofía Navarro;70;Senior;Baja
+6787;2023-02-07;;1;Software;Servicios Globales;36;106;Cerrado;Sofía Navarro;70;Senior;Alta
+6811;2023-11-15;;5;Redes;Servicios Globales;36;106;Cerrado;Sofía Navarro;70;Senior;Baja
+6928;2023-04-04;;4;Software;Visión Futurista;72;176;Cerrado;Sofía Navarro;70;Senior;Media
+7215;2023-11-06;;1;Seguridad;Sostenibilidad y Progreso;48;199;Cerrado;Sofía Navarro;70;Senior;Media
+7447;2023-04-08;;4;Software;Servicios Globales;36;106;Cerrado;Sofía Navarro;70;Senior;Baja
+7468;2023-04-06;;3;Seguridad;Sistemas Ecológicos;24;147;Cerrado;Sofía Navarro;70;Senior;Baja
+7535;2023-10-13;;1;Software;Inteligencia de Datos;72;163;Cerrado;Sofía Navarro;70;Senior;Baja
+7582;2023-11-08;;3;Seguridad;Servicios Globales;36;106;Cerrado;Sofía Navarro;70;Senior;Urgente
+7677;2023-03-15;;2;Seguridad;Visión Futurista;72;176;Cerrado;Sofía Navarro;70;Senior;Media
+7711;2023-03-28;;1;Software;Sostenibilidad y Progreso;48;199;Cerrado;Sofía Navarro;70;Senior;Baja
+7965;2023-02-11;;4;Software;Sostenibilidad y Progreso;48;199;Cerrado;Sofía Navarro;70;Senior;Media
+8082;2023-01-10;;4;Redes;Servicios Globales;36;106;Cerrado;Sofía Navarro;70;Senior;Media
+8566;2023-08-07;;4;Seguridad;Servicios Globales;36;106;Cerrado;Sofía Navarro;70;Senior;Baja
+8767;2023-01-06;;5;Software;Inteligencia de Datos;72;163;Cerrado;Sofía Navarro;70;Senior;Media
+8805;2023-06-14;;3;Seguridad;Creatividad y Desarrollo;24;116;Cerrado;Sofía Navarro;70;Senior;Alta
+8812;2023-03-25;;2;Seguridad;Creatividad y Desarrollo;24;116;Cerrado;Sofía Navarro;70;Senior;Alta
+8898;2023-08-06;;2;Seguridad;Creatividad y Desarrollo;24;116;Cerrado;Sofía Navarro;70;Senior;Urgente
+9071;2023-10-30;;1;Software;Innovaciones Creativas;48;138;Cerrado;Sofía Navarro;70;Senior;Media
+9321;2023-10-18;;2;Redes;Avances Continuos;36;187;Cerrado;Sofía Navarro;70;Senior;Alta
+9444;2023-06-23;;2;Hardware;Avances Continuos;36;187;Cerrado;Sofía Navarro;70;Senior;Alta
+9531;2023-04-03;;3;Software;Visión Futurista;72;176;Cerrado;Sofía Navarro;70;Senior;Media
+9533;2023-08-11;;2;Seguridad;Servicios Globales;36;106;Cerrado;Sofía Navarro;70;Senior;Alta
+9654;2023-12-14;;2;Software;Inteligencia de Datos;72;163;Cerrado;Sofía Navarro;70;Senior;Urgente
+9731;2023-02-03;;5;Software;Avances Continuos;36;187;Cerrado;Sofía Navarro;70;Senior;Urgente
+9876;2023-01-04;;4;Hardware;Creatividad y Desarrollo;24;116;Cerrado;Sofía Navarro;70;Senior;Media
+180;2023-07-06;;2;Redes;Avances Continuos;36;187;Cerrado;Carlos Gómez;60;Senior;Baja
+559;2023-10-24;;1;Hardware;Redes Seguras;48;132;Cerrado;Carlos Gómez;60;Senior;Alta
+568;2023-09-27;;1;Software;Redes Seguras;48;132;Cerrado;Carlos Gómez;60;Senior;Baja
+621;2023-11-17;;5;Seguridad;Innovaciones Creativas;48;138;Cerrado;Carlos Gómez;60;Senior;Media
+722;2023-05-09;;5;Hardware;Creatividad y Desarrollo;24;116;Cerrado;Carlos Gómez;60;Senior;Urgente
+859;2023-05-03;;3;Seguridad;Soluciones Tecnológicas;24;188;Cerrado;Carlos Gómez;60;Senior;Baja
+940;2023-11-18;;2;Redes;Visión Futurista;72;176;Cerrado;Carlos Gómez;60;Senior;Media
+1203;2023-04-18;;5;Hardware;Innovaciones Creativas;48;138;Cerrado;Carlos Gómez;60;Senior;Alta
+1324;2023-06-03;;5;Redes;Soluciones Tecnológicas;24;188;Cerrado;Carlos Gómez;60;Senior;Media
+1957;2023-12-12;;4;Software;Sostenibilidad y Progreso;48;199;Cerrado;Carlos Gómez;60;Senior;Media
+2024;2023-02-04;;4;Seguridad;Redes Seguras;48;132;Cerrado;Carlos Gómez;60;Senior;Urgente
+2106;2023-08-03;;3;Software;Inteligencia de Datos;72;163;Cerrado;Carlos Gómez;60;Senior;Baja
+2135;2023-09-29;;1;Hardware;Inteligencia de Datos;72;163;Cerrado;Carlos Gómez;60;Senior;Media
+2209;2023-12-14;;5;Software;Redes Seguras;48;132;Cerrado;Carlos Gómez;60;Senior;Media
+2325;2023-06-07;;2;Software;Innovaciones Creativas;48;138;Cerrado;Carlos Gómez;60;Senior;Baja
+2332;2023-02-27;;1;Redes;Sistemas Ecológicos;24;147;Cerrado;Carlos Gómez;60;Senior;Media
+2410;2023-12-23;;5;Seguridad;Servicios Globales;36;106;Cerrado;Carlos Gómez;60;Senior;Baja
+2546;2023-12-30;;1;Seguridad;Sistemas Ecológicos;24;147;Cerrado;Carlos Gómez;60;Senior;Baja
+2592;2023-11-09;;1;Software;Creatividad y Desarrollo;24;116;Cerrado;Carlos Gómez;60;Senior;Urgente
+2605;2023-11-15;;2;Hardware;Creatividad y Desarrollo;24;116;Cerrado;Carlos Gómez;60;Senior;Urgente
+2676;2023-11-21;;1;Redes;Redes Seguras;48;132;Cerrado;Carlos Gómez;60;Senior;Media
+2721;2023-04-24;;5;Redes;Servicios Globales;36;106;Cerrado;Carlos Gómez;60;Senior;Media
+2731;2023-11-29;;3;Software;Sostenibilidad y Progreso;48;199;Cerrado;Carlos Gómez;60;Senior;Urgente
+2953;2023-02-09;;5;Software;Servicios Globales;36;106;Cerrado;Carlos Gómez;60;Senior;Urgente
+3503;2023-11-09;;2;Hardware;Innovaciones Creativas;48;138;Cerrado;Carlos Gómez;60;Senior;Alta
+3617;2023-02-25;;3;Software;Creatividad y Desarrollo;24;116;Cerrado;Carlos Gómez;60;Senior;Media
+3636;2023-08-06;;4;Software;Sostenibilidad y Progreso;48;199;Cerrado;Carlos Gómez;60;Senior;Media
+4097;2023-06-25;;5;Hardware;Sostenibilidad y Progreso;48;199;Cerrado;Carlos Gómez;60;Senior;Alta
+4244;2023-05-14;;3;Hardware;Visión Futurista;72;176;Cerrado;Carlos Gómez;60;Senior;Baja
+4386;2023-12-13;;5;Seguridad;Inteligencia de Datos;72;163;Cerrado;Carlos Gómez;60;Senior;Baja
+4538;2023-12-20;;2;Redes;Creatividad y Desarrollo;24;116;Cerrado;Carlos Gómez;60;Senior;Media
+4587;2023-11-06;;3;Seguridad;Creatividad y Desarrollo;24;116;Cerrado;Carlos Gómez;60;Senior;Alta
+4675;2023-09-20;;3;Seguridad;Redes Seguras;48;132;Cerrado;Carlos Gómez;60;Senior;Alta
+4719;2023-10-23;;2;Hardware;Sostenibilidad y Progreso;48;199;Cerrado;Carlos Gómez;60;Senior;Media
+4791;2023-05-15;;1;Redes;Sistemas Ecológicos;24;147;Cerrado;Carlos Gómez;60;Senior;Media
+4901;2023-12-19;;3;Hardware;Inteligencia de Datos;72;163;Cerrado;Carlos Gómez;60;Senior;Urgente
+5050;2023-10-10;;4;Seguridad;Redes Seguras;48;132;Cerrado;Carlos Gómez;60;Senior;Baja
+5081;2023-05-26;;4;Redes;Avances Continuos;36;187;Cerrado;Carlos Gómez;60;Senior;Baja
+5114;2023-04-25;;4;Redes;Inteligencia de Datos;72;163;Cerrado;Carlos Gómez;60;Senior;Baja
+5341;2023-11-02;;1;Hardware;Redes Seguras;48;132;Cerrado;Carlos Gómez;60;Senior;Urgente
+5503;2023-04-28;;5;Seguridad;Servicios Globales;36;106;Cerrado;Carlos Gómez;60;Senior;Alta
+5571;2023-08-07;;3;Redes;Creatividad y Desarrollo;24;116;Cerrado;Carlos Gómez;60;Senior;Media
+5587;2023-06-10;;5;Software;Sostenibilidad y Progreso;48;199;Cerrado;Carlos Gómez;60;Senior;Media
+5789;2023-04-09;;2;Redes;Redes Seguras;48;132;Cerrado;Carlos Gómez;60;Senior;Baja
+5840;2023-12-29;;3;Hardware;Innovaciones Creativas;48;138;Cerrado;Carlos Gómez;60;Senior;Baja
+5852;2023-09-25;;5;Seguridad;Avances Continuos;36;187;Cerrado;Carlos Gómez;60;Senior;Media
+6108;2023-07-25;;5;Redes;Soluciones Tecnológicas;24;188;Cerrado;Carlos Gómez;60;Senior;Media
+6687;2023-12-16;;5;Software;Servicios Globales;36;106;Cerrado;Carlos Gómez;60;Senior;Alta
+6954;2023-09-26;;4;Hardware;Creatividad y Desarrollo;24;116;Cerrado;Carlos Gómez;60;Senior;Urgente
+7027;2023-03-03;;2;Hardware;Sostenibilidad y Progreso;48;199;Cerrado;Carlos Gómez;60;Senior;Alta
+7072;2023-07-23;;5;Redes;Creatividad y Desarrollo;24;116;Cerrado;Carlos Gómez;60;Senior;Baja
+7113;2023-08-09;;5;Software;Innovaciones Creativas;48;138;Cerrado;Carlos Gómez;60;Senior;Urgente
+7242;2023-05-21;;3;Redes;Inteligencia de Datos;72;163;Cerrado;Carlos Gómez;60;Senior;Urgente
+7275;2023-07-22;;5;Hardware;Sostenibilidad y Progreso;48;199;Cerrado;Carlos Gómez;60;Senior;Baja
+7315;2023-05-12;;5;Software;Visión Futurista;72;176;Cerrado;Carlos Gómez;60;Senior;Urgente
+7613;2023-02-15;;1;Seguridad;Creatividad y Desarrollo;24;116;Cerrado;Carlos Gómez;60;Senior;Alta
+8124;2023-01-31;;2;Seguridad;Servicios Globales;36;106;Cerrado;Carlos Gómez;60;Senior;Urgente
+8233;2023-06-08;;5;Hardware;Inteligencia de Datos;72;163;Cerrado;Carlos Gómez;60;Senior;Urgente
+8407;2023-02-01;;3;Redes;Avances Continuos;36;187;Cerrado;Carlos Gómez;60;Senior;Media
+8413;2023-11-18;;5;Seguridad;Avances Continuos;36;187;Cerrado;Carlos Gómez;60;Senior;Baja
+8529;2023-04-12;;3;Redes;Avances Continuos;36;187;Cerrado;Carlos Gómez;60;Senior;Media
+8757;2023-06-06;;4;Seguridad;Redes Seguras;48;132;Cerrado;Carlos Gómez;60;Senior;Alta
+8781;2023-03-20;;2;Seguridad;Avances Continuos;36;187;Cerrado;Carlos Gómez;60;Senior;Urgente
+8822;2023-07-09;;4;Seguridad;Avances Continuos;36;187;Cerrado;Carlos Gómez;60;Senior;Baja
+8864;2023-01-31;;5;Redes;Avances Continuos;36;187;Cerrado;Carlos Gómez;60;Senior;Alta
+8868;2023-08-09;;2;Seguridad;Inteligencia de Datos;72;163;Cerrado;Carlos Gómez;60;Senior;Media
+8916;2023-01-02;;2;Seguridad;Avances Continuos;36;187;Cerrado;Carlos Gómez;60;Senior;Urgente
+8969;2023-08-26;;5;Seguridad;Servicios Globales;36;106;Cerrado;Carlos Gómez;60;Senior;Urgente
+9044;2023-06-12;;2;Redes;Redes Seguras;48;132;Cerrado;Carlos Gómez;60;Senior;Alta
+9124;2023-11-06;;4;Redes;Sistemas Ecológicos;24;147;Cerrado;Carlos Gómez;60;Senior;Media
+9285;2023-05-28;;2;Software;Avances Continuos;36;187;Cerrado;Carlos Gómez;60;Senior;Media
+9516;2023-07-17;;3;Redes;Avances Continuos;36;187;Cerrado;Carlos Gómez;60;Senior;Urgente
+9779;2023-09-30;;3;Redes;Creatividad y Desarrollo;24;116;Cerrado;Carlos Gómez;60;Senior;Media
+9952;2023-08-29;;5;Software;Innovaciones Creativas;48;138;Cerrado;Carlos Gómez;60;Senior;Baja
+175;2023-11-01;;3;Seguridad;Soluciones Tecnológicas;24;188;Abierto;Carlos Gómez;60;Senior;Alta
+358;2023-09-08;;4;Seguridad;Sistemas Ecológicos;24;147;Abierto;Carlos Gómez;60;Senior;Urgente
+773;2023-03-14;;4;Software;Avances Continuos;36;187;Abierto;Carlos Gómez;60;Senior;Alta
+881;2023-01-01;;1;Redes;Redes Seguras;48;132;Abierto;Carlos Gómez;60;Senior;Baja
+1055;2023-12-04;;2;Redes;Soluciones Tecnológicas;24;188;Abierto;Carlos Gómez;60;Senior;Media
+1087;2023-06-08;;4;Redes;Servicios Globales;36;106;Abierto;Carlos Gómez;60;Senior;Media
+1160;2023-08-12;;5;Redes;Creatividad y Desarrollo;24;116;Abierto;Carlos Gómez;60;Senior;Baja
+1190;2023-05-18;;5;Seguridad;Creatividad y Desarrollo;24;116;Abierto;Carlos Gómez;60;Senior;Urgente
+1199;2023-04-17;;5;Hardware;Creatividad y Desarrollo;24;116;Abierto;Carlos Gómez;60;Senior;Media
+1226;2023-03-10;;2;Redes;Servicios Globales;36;106;Abierto;Carlos Gómez;60;Senior;Alta
+1332;2023-03-27;;3;Redes;Redes Seguras;48;132;Abierto;Carlos Gómez;60;Senior;Urgente
+1764;2023-02-27;;2;Seguridad;Visión Futurista;72;176;Abierto;Carlos Gómez;60;Senior;Media
+1963;2023-06-23;;2;Redes;Innovaciones Creativas;48;138;Abierto;Carlos Gómez;60;Senior;Urgente
+2062;2023-04-23;;3;Software;Visión Futurista;72;176;Abierto;Carlos Gómez;60;Senior;Baja
+2337;2023-05-17;;5;Hardware;Creatividad y Desarrollo;24;116;Abierto;Carlos Gómez;60;Senior;Media
+2490;2023-07-07;;4;Hardware;Inteligencia de Datos;72;163;Abierto;Carlos Gómez;60;Senior;Baja
+2493;2023-10-14;;5;Hardware;Inteligencia de Datos;72;163;Abierto;Carlos Gómez;60;Senior;Urgente
+2615;2023-09-05;;5;Seguridad;Soluciones Tecnológicas;24;188;Abierto;Carlos Gómez;60;Senior;Alta
+2869;2023-08-29;;3;Hardware;Servicios Globales;36;106;Abierto;Carlos Gómez;60;Senior;Urgente
+3039;2023-02-26;;3;Software;Sostenibilidad y Progreso;48;199;Abierto;Carlos Gómez;60;Senior;Media
+3400;2023-04-26;;1;Seguridad;Creatividad y Desarrollo;24;116;Abierto;Carlos Gómez;60;Senior;Urgente
+3577;2023-09-08;;4;Seguridad;Servicios Globales;36;106;Abierto;Carlos Gómez;60;Senior;Urgente
+3761;2023-06-13;;3;Seguridad;Redes Seguras;48;132;Abierto;Carlos Gómez;60;Senior;Media
+4009;2023-06-24;;5;Redes;Sistemas Ecológicos;24;147;Abierto;Carlos Gómez;60;Senior;Baja
+4114;2023-09-02;;1;Software;Innovaciones Creativas;48;138;Abierto;Carlos Gómez;60;Senior;Alta
+4128;2023-02-09;;3;Seguridad;Sostenibilidad y Progreso;48;199;Abierto;Carlos Gómez;60;Senior;Alta
+4317;2023-08-11;;1;Software;Soluciones Tecnológicas;24;188;Abierto;Carlos Gómez;60;Senior;Baja
+4337;2023-10-07;;2;Seguridad;Redes Seguras;48;132;Abierto;Carlos Gómez;60;Senior;Urgente
+4701;2023-12-08;;3;Hardware;Creatividad y Desarrollo;24;116;Abierto;Carlos Gómez;60;Senior;Media
+4771;2023-10-24;;4;Redes;Sistemas Ecológicos;24;147;Abierto;Carlos Gómez;60;Senior;Urgente
+4981;2023-05-15;;3;Redes;Sistemas Ecológicos;24;147;Abierto;Carlos Gómez;60;Senior;Urgente
+5053;2023-03-14;;1;Redes;Avances Continuos;36;187;Abierto;Carlos Gómez;60;Senior;Media
+5121;2023-12-06;;1;Software;Redes Seguras;48;132;Abierto;Carlos Gómez;60;Senior;Urgente
+5122;2023-06-14;;4;Software;Servicios Globales;36;106;Abierto;Carlos Gómez;60;Senior;Media
+5152;2023-11-30;;2;Seguridad;Servicios Globales;36;106;Abierto;Carlos Gómez;60;Senior;Baja
+5188;2023-01-22;;1;Hardware;Creatividad y Desarrollo;24;116;Abierto;Carlos Gómez;60;Senior;Alta
+5214;2023-01-26;;1;Seguridad;Visión Futurista;72;176;Abierto;Carlos Gómez;60;Senior;Alta
+5479;2023-09-22;;4;Redes;Sistemas Ecológicos;24;147;Abierto;Carlos Gómez;60;Senior;Media
+5504;2023-11-12;;4;Hardware;Innovaciones Creativas;48;138;Abierto;Carlos Gómez;60;Senior;Urgente
+5528;2023-06-07;;4;Software;Sostenibilidad y Progreso;48;199;Abierto;Carlos Gómez;60;Senior;Media
+5711;2023-12-21;;4;Seguridad;Innovaciones Creativas;48;138;Abierto;Carlos Gómez;60;Senior;Baja
+5813;2023-10-29;;5;Software;Soluciones Tecnológicas;24;188;Abierto;Carlos Gómez;60;Senior;Urgente
+5933;2023-09-29;;5;Hardware;Creatividad y Desarrollo;24;116;Abierto;Carlos Gómez;60;Senior;Baja
+5964;2023-01-14;;2;Software;Servicios Globales;36;106;Abierto;Carlos Gómez;60;Senior;Urgente
+6137;2023-06-23;;4;Redes;Avances Continuos;36;187;Abierto;Carlos Gómez;60;Senior;Alta
+6169;2023-01-13;;3;Seguridad;Sistemas Ecológicos;24;147;Abierto;Carlos Gómez;60;Senior;Baja
+6244;2023-04-28;;2;Software;Redes Seguras;48;132;Abierto;Carlos Gómez;60;Senior;Baja
+6294;2023-12-22;;4;Hardware;Redes Seguras;48;132;Abierto;Carlos Gómez;60;Senior;Urgente
+6356;2023-12-26;;2;Redes;Innovaciones Creativas;48;138;Abierto;Carlos Gómez;60;Senior;Media
+6453;2023-01-23;;4;Redes;Inteligencia de Datos;72;163;Abierto;Carlos Gómez;60;Senior;Urgente
+6458;2023-10-21;;4;Seguridad;Soluciones Tecnológicas;24;188;Abierto;Carlos Gómez;60;Senior;Alta
+6491;2023-02-27;;2;Redes;Inteligencia de Datos;72;163;Abierto;Carlos Gómez;60;Senior;Baja
+6552;2023-04-27;;3;Seguridad;Servicios Globales;36;106;Abierto;Carlos Gómez;60;Senior;Urgente
+6584;2023-02-20;;5;Software;Redes Seguras;48;132;Abierto;Carlos Gómez;60;Senior;Media
+6592;2023-12-26;;2;Redes;Sostenibilidad y Progreso;48;199;Abierto;Carlos Gómez;60;Senior;Media
+6612;2023-01-07;;2;Hardware;Visión Futurista;72;176;Abierto;Carlos Gómez;60;Senior;Urgente
+6670;2023-11-14;;1;Redes;Visión Futurista;72;176;Abierto;Carlos Gómez;60;Senior;Urgente
+6773;2023-12-07;;3;Seguridad;Inteligencia de Datos;72;163;Abierto;Carlos Gómez;60;Senior;Alta
+6813;2023-09-12;;5;Redes;Avances Continuos;36;187;Abierto;Carlos Gómez;60;Senior;Media
+6980;2023-01-07;;4;Seguridad;Redes Seguras;48;132;Abierto;Carlos Gómez;60;Senior;Alta
+7066;2023-09-22;;5;Redes;Soluciones Tecnológicas;24;188;Abierto;Carlos Gómez;60;Senior;Media
+7080;2023-09-24;;1;Redes;Creatividad y Desarrollo;24;116;Abierto;Carlos Gómez;60;Senior;Baja
+7084;2023-04-30;;4;Software;Redes Seguras;48;132;Abierto;Carlos Gómez;60;Senior;Urgente
+7149;2023-01-13;;5;Redes;Innovaciones Creativas;48;138;Abierto;Carlos Gómez;60;Senior;Urgente
+7453;2023-03-01;;5;Redes;Sostenibilidad y Progreso;48;199;Abierto;Carlos Gómez;60;Senior;Alta
+7540;2023-05-01;;1;Seguridad;Inteligencia de Datos;72;163;Abierto;Carlos Gómez;60;Senior;Alta
+7693;2023-05-08;;2;Seguridad;Avances Continuos;36;187;Abierto;Carlos Gómez;60;Senior;Baja
+7822;2023-07-15;;1;Redes;Avances Continuos;36;187;Abierto;Carlos Gómez;60;Senior;Baja
+7900;2023-12-20;;2;Seguridad;Redes Seguras;48;132;Abierto;Carlos Gómez;60;Senior;Urgente
+7927;2023-05-11;;2;Software;Visión Futurista;72;176;Abierto;Carlos Gómez;60;Senior;Media
+8115;2023-07-18;;3;Software;Creatividad y Desarrollo;24;116;Abierto;Carlos Gómez;60;Senior;Urgente
+8209;2023-01-02;;1;Hardware;Innovaciones Creativas;48;138;Abierto;Carlos Gómez;60;Senior;Alta
+8304;2023-03-31;;2;Hardware;Sistemas Ecológicos;24;147;Abierto;Carlos Gómez;60;Senior;Urgente
+8313;2023-12-02;;3;Hardware;Creatividad y Desarrollo;24;116;Abierto;Carlos Gómez;60;Senior;Baja
+8454;2023-04-11;;5;Seguridad;Avances Continuos;36;187;Abierto;Carlos Gómez;60;Senior;Baja
+8495;2023-10-17;;1;Seguridad;Innovaciones Creativas;48;138;Abierto;Carlos Gómez;60;Senior;Urgente
+8612;2023-07-27;;2;Seguridad;Visión Futurista;72;176;Abierto;Carlos Gómez;60;Senior;Urgente
+8631;2023-07-26;;5;Hardware;Sistemas Ecológicos;24;147;Abierto;Carlos Gómez;60;Senior;Baja
+8807;2023-11-23;;5;Redes;Innovaciones Creativas;48;138;Abierto;Carlos Gómez;60;Senior;Baja
+8911;2023-11-27;;4;Software;Innovaciones Creativas;48;138;Abierto;Carlos Gómez;60;Senior;Media
+8949;2023-02-24;;4;Software;Innovaciones Creativas;48;138;Abierto;Carlos Gómez;60;Senior;Baja
+9167;2023-11-16;;2;Hardware;Soluciones Tecnológicas;24;188;Abierto;Carlos Gómez;60;Senior;Media
+9426;2023-04-24;;2;Software;Visión Futurista;72;176;Abierto;Carlos Gómez;60;Senior;Baja
+9547;2023-12-10;;2;Redes;Servicios Globales;36;106;Abierto;Carlos Gómez;60;Senior;Alta
+9555;2023-02-27;;5;Hardware;Creatividad y Desarrollo;24;116;Abierto;Carlos Gómez;60;Senior;Baja
+160;2023-01-14;;1;Hardware;Creatividad y Desarrollo;24;116;En Progreso;Carlos Gómez;60;Senior;Media
+190;2023-10-29;;3;Hardware;Soluciones Tecnológicas;24;188;En Progreso;Carlos Gómez;60;Senior;Urgente
+232;2023-09-11;;3;Software;Servicios Globales;36;106;En Progreso;Carlos Gómez;60;Senior;Urgente
+279;2023-12-14;;4;Software;Visión Futurista;72;176;En Progreso;Carlos Gómez;60;Senior;Urgente
+455;2023-06-14;;1;Hardware;Servicios Globales;36;106;En Progreso;Carlos Gómez;60;Senior;Urgente
+541;2023-12-14;;2;Seguridad;Innovaciones Creativas;48;138;En Progreso;Carlos Gómez;60;Senior;Alta
+575;2023-06-10;;4;Software;Soluciones Tecnológicas;24;188;En Progreso;Carlos Gómez;60;Senior;Baja
+636;2023-08-17;;1;Redes;Visión Futurista;72;176;En Progreso;Carlos Gómez;60;Senior;Media
+804;2023-08-19;;5;Software;Avances Continuos;36;187;En Progreso;Carlos Gómez;60;Senior;Urgente
+806;2023-05-15;;5;Redes;Sistemas Ecológicos;24;147;En Progreso;Carlos Gómez;60;Senior;Media
+915;2023-08-28;;2;Hardware;Sostenibilidad y Progreso;48;199;En Progreso;Carlos Gómez;60;Senior;Baja
+932;2023-06-08;;3;Redes;Sostenibilidad y Progreso;48;199;En Progreso;Carlos Gómez;60;Senior;Media
+1223;2023-10-15;;3;Redes;Innovaciones Creativas;48;138;En Progreso;Carlos Gómez;60;Senior;Media
+1393;2023-10-26;;5;Seguridad;Visión Futurista;72;176;En Progreso;Carlos Gómez;60;Senior;Urgente
+1591;2023-01-27;;4;Seguridad;Soluciones Tecnológicas;24;188;En Progreso;Carlos Gómez;60;Senior;Media
+1692;2023-05-31;;1;Redes;Visión Futurista;72;176;En Progreso;Carlos Gómez;60;Senior;Baja
+1718;2023-09-09;;4;Seguridad;Redes Seguras;48;132;En Progreso;Carlos Gómez;60;Senior;Baja
+1831;2023-08-17;;1;Seguridad;Sostenibilidad y Progreso;48;199;En Progreso;Carlos Gómez;60;Senior;Media
+1893;2023-11-14;;1;Redes;Creatividad y Desarrollo;24;116;En Progreso;Carlos Gómez;60;Senior;Alta
+1944;2023-10-19;;2;Hardware;Inteligencia de Datos;72;163;En Progreso;Carlos Gómez;60;Senior;Baja
+1975;2023-08-14;;2;Hardware;Soluciones Tecnológicas;24;188;En Progreso;Carlos Gómez;60;Senior;Baja
+2013;2023-10-16;;1;Seguridad;Sostenibilidad y Progreso;48;199;En Progreso;Carlos Gómez;60;Senior;Media
+2230;2023-01-12;;4;Software;Soluciones Tecnológicas;24;188;En Progreso;Carlos Gómez;60;Senior;Urgente
+2340;2023-07-11;;4;Redes;Visión Futurista;72;176;En Progreso;Carlos Gómez;60;Senior;Alta
+2519;2023-12-17;;2;Seguridad;Inteligencia de Datos;72;163;En Progreso;Carlos Gómez;60;Senior;Alta
+2526;2023-05-21;;4;Software;Sistemas Ecológicos;24;147;En Progreso;Carlos Gómez;60;Senior;Alta
+2620;2023-09-22;;4;Hardware;Soluciones Tecnológicas;24;188;En Progreso;Carlos Gómez;60;Senior;Baja
+2812;2023-10-05;;1;Redes;Soluciones Tecnológicas;24;188;En Progreso;Carlos Gómez;60;Senior;Alta
+2823;2023-08-19;;2;Seguridad;Servicios Globales;36;106;En Progreso;Carlos Gómez;60;Senior;Urgente
+3093;2023-05-26;;3;Seguridad;Redes Seguras;48;132;En Progreso;Carlos Gómez;60;Senior;Urgente
+3102;2023-08-30;;3;Seguridad;Soluciones Tecnológicas;24;188;En Progreso;Carlos Gómez;60;Senior;Baja
+3209;2023-02-24;;5;Seguridad;Redes Seguras;48;132;En Progreso;Carlos Gómez;60;Senior;Media
+3238;2023-12-18;;5;Seguridad;Servicios Globales;36;106;En Progreso;Carlos Gómez;60;Senior;Baja
+3493;2023-02-06;;2;Redes;Creatividad y Desarrollo;24;116;En Progreso;Carlos Gómez;60;Senior;Urgente
+3716;2023-03-26;;3;Seguridad;Innovaciones Creativas;48;138;En Progreso;Carlos Gómez;60;Senior;Alta
+3754;2023-08-20;;2;Redes;Inteligencia de Datos;72;163;En Progreso;Carlos Gómez;60;Senior;Media
+3806;2023-03-07;;4;Seguridad;Sostenibilidad y Progreso;48;199;En Progreso;Carlos Gómez;60;Senior;Urgente
+3933;2023-12-22;;4;Software;Redes Seguras;48;132;En Progreso;Carlos Gómez;60;Senior;Alta
+4075;2023-03-16;;5;Software;Visión Futurista;72;176;En Progreso;Carlos Gómez;60;Senior;Baja
+4173;2023-05-06;;3;Redes;Visión Futurista;72;176;En Progreso;Carlos Gómez;60;Senior;Baja
+4258;2023-07-30;;1;Redes;Visión Futurista;72;176;En Progreso;Carlos Gómez;60;Senior;Media
+4447;2023-10-24;;2;Software;Sostenibilidad y Progreso;48;199;En Progreso;Carlos Gómez;60;Senior;Urgente
+4480;2023-02-26;;5;Seguridad;Soluciones Tecnológicas;24;188;En Progreso;Carlos Gómez;60;Senior;Baja
+4488;2023-09-26;;1;Hardware;Creatividad y Desarrollo;24;116;En Progreso;Carlos Gómez;60;Senior;Urgente
+4621;2023-09-10;;4;Software;Avances Continuos;36;187;En Progreso;Carlos Gómez;60;Senior;Alta
+4795;2023-09-25;;3;Redes;Visión Futurista;72;176;En Progreso;Carlos Gómez;60;Senior;Baja
+4893;2023-03-24;;5;Software;Soluciones Tecnológicas;24;188;En Progreso;Carlos Gómez;60;Senior;Alta
+4971;2023-01-01;;4;Hardware;Inteligencia de Datos;72;163;En Progreso;Carlos Gómez;60;Senior;Alta
+5073;2023-07-18;;2;Software;Avances Continuos;36;187;En Progreso;Carlos Gómez;60;Senior;Alta
+5345;2023-12-27;;5;Software;Redes Seguras;48;132;En Progreso;Carlos Gómez;60;Senior;Urgente
+5447;2023-06-22;;4;Seguridad;Innovaciones Creativas;48;138;En Progreso;Carlos Gómez;60;Senior;Urgente
+6034;2023-04-02;;4;Hardware;Redes Seguras;48;132;En Progreso;Carlos Gómez;60;Senior;Media
+6140;2023-03-30;;5;Hardware;Visión Futurista;72;176;En Progreso;Carlos Gómez;60;Senior;Urgente
+6148;2023-03-04;;2;Seguridad;Sostenibilidad y Progreso;48;199;En Progreso;Carlos Gómez;60;Senior;Alta
+6201;2023-03-16;;4;Software;Soluciones Tecnológicas;24;188;En Progreso;Carlos Gómez;60;Senior;Media
+6242;2023-12-21;;1;Software;Visión Futurista;72;176;En Progreso;Carlos Gómez;60;Senior;Urgente
+6249;2023-01-20;;1;Software;Creatividad y Desarrollo;24;116;En Progreso;Carlos Gómez;60;Senior;Baja
+6466;2023-04-02;;5;Software;Innovaciones Creativas;48;138;En Progreso;Carlos Gómez;60;Senior;Baja
+6478;2023-03-20;;3;Redes;Soluciones Tecnológicas;24;188;En Progreso;Carlos Gómez;60;Senior;Media
+6583;2023-01-15;;1;Hardware;Sostenibilidad y Progreso;48;199;En Progreso;Carlos Gómez;60;Senior;Baja
+7014;2023-04-27;;1;Seguridad;Soluciones Tecnológicas;24;188;En Progreso;Carlos Gómez;60;Senior;Urgente
+7036;2023-09-19;;3;Software;Servicios Globales;36;106;En Progreso;Carlos Gómez;60;Senior;Baja
+7409;2023-11-20;;3;Hardware;Creatividad y Desarrollo;24;116;En Progreso;Carlos Gómez;60;Senior;Baja
+7485;2023-10-24;;5;Software;Creatividad y Desarrollo;24;116;En Progreso;Carlos Gómez;60;Senior;Urgente
+7750;2023-04-17;;2;Seguridad;Avances Continuos;36;187;En Progreso;Carlos Gómez;60;Senior;Alta
+7828;2023-09-21;;4;Redes;Servicios Globales;36;106;En Progreso;Carlos Gómez;60;Senior;Media
+8022;2023-08-18;;4;Software;Avances Continuos;36;187;En Progreso;Carlos Gómez;60;Senior;Urgente
+8030;2023-10-20;;5;Software;Sistemas Ecológicos;24;147;En Progreso;Carlos Gómez;60;Senior;Alta
+8033;2023-09-27;;2;Seguridad;Inteligencia de Datos;72;163;En Progreso;Carlos Gómez;60;Senior;Media
+8161;2023-10-11;;2;Redes;Sistemas Ecológicos;24;147;En Progreso;Carlos Gómez;60;Senior;Media
+8403;2023-01-27;;1;Hardware;Inteligencia de Datos;72;163;En Progreso;Carlos Gómez;60;Senior;Baja
+8533;2023-09-28;;5;Hardware;Servicios Globales;36;106;En Progreso;Carlos Gómez;60;Senior;Alta
+8722;2023-04-20;;1;Seguridad;Redes Seguras;48;132;En Progreso;Carlos Gómez;60;Senior;Media
+8782;2023-03-10;;5;Software;Innovaciones Creativas;48;138;En Progreso;Carlos Gómez;60;Senior;Media
+8874;2023-04-28;;2;Redes;Creatividad y Desarrollo;24;116;En Progreso;Carlos Gómez;60;Senior;Urgente
+8933;2023-05-29;;3;Seguridad;Inteligencia de Datos;72;163;En Progreso;Carlos Gómez;60;Senior;Media
+8950;2023-02-01;;4;Software;Avances Continuos;36;187;En Progreso;Carlos Gómez;60;Senior;Urgente
+9009;2023-07-23;;1;Software;Soluciones Tecnológicas;24;188;En Progreso;Carlos Gómez;60;Senior;Urgente
+9043;2023-12-09;;1;Redes;Inteligencia de Datos;72;163;En Progreso;Carlos Gómez;60;Senior;Urgente
+9090;2023-07-17;;2;Redes;Sistemas Ecológicos;24;147;En Progreso;Carlos Gómez;60;Senior;Baja
+9122;2023-05-12;;2;Seguridad;Avances Continuos;36;187;En Progreso;Carlos Gómez;60;Senior;Baja
+9381;2023-01-07;;1;Seguridad;Creatividad y Desarrollo;24;116;En Progreso;Carlos Gómez;60;Senior;Media
+9454;2023-04-08;;5;Redes;Sostenibilidad y Progreso;48;199;En Progreso;Carlos Gómez;60;Senior;Alta
+9459;2023-03-15;;5;Hardware;Avances Continuos;36;187;En Progreso;Carlos Gómez;60;Senior;Media
+9465;2023-08-03;;3;Hardware;Servicios Globales;36;106;En Progreso;Carlos Gómez;60;Senior;Baja
+9504;2023-03-17;;4;Redes;Sistemas Ecológicos;24;147;En Progreso;Carlos Gómez;60;Senior;Urgente
+9544;2023-12-10;;2;Software;Redes Seguras;48;132;En Progreso;Carlos Gómez;60;Senior;Urgente
+9837;2023-07-28;;2;Software;Sistemas Ecológicos;24;147;En Progreso;Carlos Gómez;60;Senior;Urgente
+62;2023-10-22;;4;Seguridad;Servicios Globales;36;106;Cerrado;Ana Ruiz;50;Senior;Media
+195;2023-07-15;;1;Redes;Sostenibilidad y Progreso;48;199;Cerrado;Ana Ruiz;50;Senior;Urgente
+297;2023-07-24;;5;Software;Avances Continuos;36;187;Cerrado;Ana Ruiz;50;Senior;Media
+373;2023-02-01;;5;Seguridad;Innovaciones Creativas;48;138;Cerrado;Ana Ruiz;50;Senior;Media
+395;2023-01-20;;3;Hardware;Inteligencia de Datos;72;163;Cerrado;Ana Ruiz;50;Senior;Media
+514;2023-07-15;;5;Hardware;Inteligencia de Datos;72;163;Cerrado;Ana Ruiz;50;Senior;Urgente
+540;2023-10-31;;3;Redes;Inteligencia de Datos;72;163;Cerrado;Ana Ruiz;50;Senior;Baja
+543;2023-07-24;;5;Seguridad;Redes Seguras;48;132;Cerrado;Ana Ruiz;50;Senior;Urgente
+601;2023-05-31;;4;Hardware;Sistemas Ecológicos;24;147;Cerrado;Ana Ruiz;50;Senior;Baja
+605;2023-05-23;;1;Hardware;Servicios Globales;36;106;Cerrado;Ana Ruiz;50;Senior;Urgente
+775;2023-01-06;;3;Redes;Servicios Globales;36;106;Cerrado;Ana Ruiz;50;Senior;Media
+785;2023-10-03;;4;Software;Servicios Globales;36;106;Cerrado;Ana Ruiz;50;Senior;Urgente
+872;2023-11-29;;1;Software;Soluciones Tecnológicas;24;188;Cerrado;Ana Ruiz;50;Senior;Alta
+1253;2023-05-30;;5;Redes;Creatividad y Desarrollo;24;116;Cerrado;Ana Ruiz;50;Senior;Urgente
+1277;2023-06-06;;1;Hardware;Inteligencia de Datos;72;163;Cerrado;Ana Ruiz;50;Senior;Baja
+1281;2023-07-11;;5;Hardware;Creatividad y Desarrollo;24;116;Cerrado;Ana Ruiz;50;Senior;Urgente
+1389;2023-10-18;;2;Hardware;Visión Futurista;72;176;Cerrado;Ana Ruiz;50;Senior;Baja
+1495;2023-04-09;;4;Software;Innovaciones Creativas;48;138;Cerrado;Ana Ruiz;50;Senior;Media
+1521;2023-03-10;;2;Hardware;Innovaciones Creativas;48;138;Cerrado;Ana Ruiz;50;Senior;Media
+1714;2023-05-04;;2;Software;Innovaciones Creativas;48;138;Cerrado;Ana Ruiz;50;Senior;Baja
+1910;2023-06-20;;4;Seguridad;Innovaciones Creativas;48;138;Cerrado;Ana Ruiz;50;Senior;Media
+2125;2023-11-05;;1;Software;Inteligencia de Datos;72;163;Cerrado;Ana Ruiz;50;Senior;Alta
+2215;2023-09-30;;3;Redes;Servicios Globales;36;106;Cerrado;Ana Ruiz;50;Senior;Media
+2255;2023-08-09;;5;Seguridad;Avances Continuos;36;187;Cerrado;Ana Ruiz;50;Senior;Alta
+2300;2023-05-26;;4;Software;Visión Futurista;72;176;Cerrado;Ana Ruiz;50;Senior;Urgente
+2312;2023-10-08;;1;Redes;Innovaciones Creativas;48;138;Cerrado;Ana Ruiz;50;Senior;Alta
+2375;2023-03-30;;5;Software;Creatividad y Desarrollo;24;116;Cerrado;Ana Ruiz;50;Senior;Baja
+2761;2023-11-05;;5;Redes;Avances Continuos;36;187;Cerrado;Ana Ruiz;50;Senior;Media
+2779;2023-02-16;;2;Seguridad;Inteligencia de Datos;72;163;Cerrado;Ana Ruiz;50;Senior;Alta
+2854;2023-10-04;;5;Seguridad;Avances Continuos;36;187;Cerrado;Ana Ruiz;50;Senior;Urgente
+2920;2023-02-28;;3;Hardware;Servicios Globales;36;106;Cerrado;Ana Ruiz;50;Senior;Media
+3054;2023-02-26;;5;Software;Servicios Globales;36;106;Cerrado;Ana Ruiz;50;Senior;Urgente
+3063;2023-01-30;;5;Hardware;Inteligencia de Datos;72;163;Cerrado;Ana Ruiz;50;Senior;Media
+3280;2023-12-18;;3;Seguridad;Creatividad y Desarrollo;24;116;Cerrado;Ana Ruiz;50;Senior;Baja
+3315;2023-09-18;;3;Seguridad;Visión Futurista;72;176;Cerrado;Ana Ruiz;50;Senior;Alta
+3318;2023-04-06;;5;Redes;Inteligencia de Datos;72;163;Cerrado;Ana Ruiz;50;Senior;Baja
+3332;2023-06-27;;4;Seguridad;Sostenibilidad y Progreso;48;199;Cerrado;Ana Ruiz;50;Senior;Alta
+3364;2023-02-15;;5;Seguridad;Sostenibilidad y Progreso;48;199;Cerrado;Ana Ruiz;50;Senior;Alta
+3487;2023-11-03;;1;Software;Servicios Globales;36;106;Cerrado;Ana Ruiz;50;Senior;Baja
+3596;2023-08-02;;4;Hardware;Sistemas Ecológicos;24;147;Cerrado;Ana Ruiz;50;Senior;Urgente
+3601;2023-10-25;;2;Hardware;Avances Continuos;36;187;Cerrado;Ana Ruiz;50;Senior;Baja
+3619;2023-02-24;;1;Hardware;Avances Continuos;36;187;Cerrado;Ana Ruiz;50;Senior;Alta
+3863;2023-06-03;;4;Hardware;Servicios Globales;36;106;Cerrado;Ana Ruiz;50;Senior;Urgente
+3867;2023-02-21;;1;Seguridad;Inteligencia de Datos;72;163;Cerrado;Ana Ruiz;50;Senior;Baja
+4034;2023-11-28;;5;Hardware;Visión Futurista;72;176;Cerrado;Ana Ruiz;50;Senior;Alta
+4110;2023-10-12;;5;Software;Servicios Globales;36;106;Cerrado;Ana Ruiz;50;Senior;Urgente
+4294;2023-11-16;;2;Seguridad;Soluciones Tecnológicas;24;188;Cerrado;Ana Ruiz;50;Senior;Urgente
+4396;2023-06-25;;5;Hardware;Sostenibilidad y Progreso;48;199;Cerrado;Ana Ruiz;50;Senior;Media
+4443;2023-01-01;;2;Redes;Inteligencia de Datos;72;163;Cerrado;Ana Ruiz;50;Senior;Alta
+4469;2023-04-23;;3;Hardware;Visión Futurista;72;176;Cerrado;Ana Ruiz;50;Senior;Media
+4716;2023-05-09;;3;Software;Soluciones Tecnológicas;24;188;Cerrado;Ana Ruiz;50;Senior;Urgente
+4808;2023-02-17;;1;Software;Servicios Globales;36;106;Cerrado;Ana Ruiz;50;Senior;Alta
+4864;2023-02-22;;4;Hardware;Soluciones Tecnológicas;24;188;Cerrado;Ana Ruiz;50;Senior;Alta
+4930;2023-02-15;;2;Redes;Innovaciones Creativas;48;138;Cerrado;Ana Ruiz;50;Senior;Urgente
+5018;2023-01-21;;4;Seguridad;Innovaciones Creativas;48;138;Cerrado;Ana Ruiz;50;Senior;Media
+5227;2023-06-09;;5;Hardware;Servicios Globales;36;106;Cerrado;Ana Ruiz;50;Senior;Baja
+5254;2023-02-12;;5;Redes;Avances Continuos;36;187;Cerrado;Ana Ruiz;50;Senior;Media
+5601;2023-06-25;;4;Hardware;Redes Seguras;48;132;Cerrado;Ana Ruiz;50;Senior;Baja
+5646;2023-09-18;;5;Software;Visión Futurista;72;176;Cerrado;Ana Ruiz;50;Senior;Baja
+5776;2023-10-03;;2;Hardware;Servicios Globales;36;106;Cerrado;Ana Ruiz;50;Senior;Baja
+5841;2023-12-02;;2;Hardware;Servicios Globales;36;106;Cerrado;Ana Ruiz;50;Senior;Media
+5851;2023-03-25;;3;Hardware;Avances Continuos;36;187;Cerrado;Ana Ruiz;50;Senior;Media
+5886;2023-02-01;;5;Software;Avances Continuos;36;187;Cerrado;Ana Ruiz;50;Senior;Urgente
+6005;2023-09-02;;1;Software;Sistemas Ecológicos;24;147;Cerrado;Ana Ruiz;50;Senior;Baja
+6213;2023-09-18;;2;Hardware;Servicios Globales;36;106;Cerrado;Ana Ruiz;50;Senior;Media
+6267;2023-12-26;;5;Seguridad;Redes Seguras;48;132;Cerrado;Ana Ruiz;50;Senior;Baja
+6479;2023-05-14;;2;Redes;Sistemas Ecológicos;24;147;Cerrado;Ana Ruiz;50;Senior;Urgente
+6546;2023-02-12;;3;Software;Innovaciones Creativas;48;138;Cerrado;Ana Ruiz;50;Senior;Urgente
+6637;2023-01-10;;3;Seguridad;Soluciones Tecnológicas;24;188;Cerrado;Ana Ruiz;50;Senior;Baja
+6788;2023-07-25;;4;Software;Visión Futurista;72;176;Cerrado;Ana Ruiz;50;Senior;Media
+6848;2023-12-04;;3;Hardware;Innovaciones Creativas;48;138;Cerrado;Ana Ruiz;50;Senior;Baja
+6868;2023-03-23;;1;Redes;Creatividad y Desarrollo;24;116;Cerrado;Ana Ruiz;50;Senior;Urgente
+6915;2023-07-18;;4;Hardware;Sistemas Ecológicos;24;147;Cerrado;Ana Ruiz;50;Senior;Baja
+6932;2023-12-18;;3;Software;Sostenibilidad y Progreso;48;199;Cerrado;Ana Ruiz;50;Senior;Urgente
+7029;2023-09-21;;4;Seguridad;Creatividad y Desarrollo;24;116;Cerrado;Ana Ruiz;50;Senior;Media
+7085;2023-10-11;;5;Hardware;Sistemas Ecológicos;24;147;Cerrado;Ana Ruiz;50;Senior;Alta
+7212;2023-06-25;;4;Seguridad;Innovaciones Creativas;48;138;Cerrado;Ana Ruiz;50;Senior;Urgente
+7350;2023-06-14;;1;Software;Soluciones Tecnológicas;24;188;Cerrado;Ana Ruiz;50;Senior;Baja
+7712;2023-07-26;;1;Seguridad;Sostenibilidad y Progreso;48;199;Cerrado;Ana Ruiz;50;Senior;Baja
+8210;2023-04-09;;3;Software;Avances Continuos;36;187;Cerrado;Ana Ruiz;50;Senior;Urgente
+8266;2023-08-05;;3;Seguridad;Inteligencia de Datos;72;163;Cerrado;Ana Ruiz;50;Senior;Media
+8339;2023-09-14;;1;Software;Redes Seguras;48;132;Cerrado;Ana Ruiz;50;Senior;Alta
+8453;2023-08-09;;1;Software;Visión Futurista;72;176;Cerrado;Ana Ruiz;50;Senior;Alta
+8478;2023-06-09;;5;Seguridad;Visión Futurista;72;176;Cerrado;Ana Ruiz;50;Senior;Baja
+8543;2023-11-13;;4;Software;Servicios Globales;36;106;Cerrado;Ana Ruiz;50;Senior;Urgente
+8607;2023-09-10;;3;Seguridad;Redes Seguras;48;132;Cerrado;Ana Ruiz;50;Senior;Alta
+8611;2023-09-15;;3;Seguridad;Sostenibilidad y Progreso;48;199;Cerrado;Ana Ruiz;50;Senior;Baja
+8784;2023-07-07;;3;Hardware;Redes Seguras;48;132;Cerrado;Ana Ruiz;50;Senior;Alta
+8838;2023-08-29;;5;Redes;Creatividad y Desarrollo;24;116;Cerrado;Ana Ruiz;50;Senior;Media
+9189;2023-09-19;;2;Redes;Visión Futurista;72;176;Cerrado;Ana Ruiz;50;Senior;Alta
+9195;2023-02-01;;2;Software;Visión Futurista;72;176;Cerrado;Ana Ruiz;50;Senior;Baja
+9210;2023-05-20;;3;Seguridad;Visión Futurista;72;176;Cerrado;Ana Ruiz;50;Senior;Urgente
+9218;2023-11-18;;4;Software;Sistemas Ecológicos;24;147;Cerrado;Ana Ruiz;50;Senior;Alta
+9360;2023-02-15;;5;Hardware;Avances Continuos;36;187;Cerrado;Ana Ruiz;50;Senior;Media
+9388;2023-08-05;;5;Hardware;Inteligencia de Datos;72;163;Cerrado;Ana Ruiz;50;Senior;Baja
+9762;2023-09-11;;2;Hardware;Servicios Globales;36;106;Cerrado;Ana Ruiz;50;Senior;Urgente
+9801;2023-02-09;;2;Redes;Inteligencia de Datos;72;163;Cerrado;Ana Ruiz;50;Senior;Baja
+9899;2023-03-12;;3;Seguridad;Soluciones Tecnológicas;24;188;Cerrado;Ana Ruiz;50;Senior;Urgente
+9917;2023-07-15;;3;Redes;Creatividad y Desarrollo;24;116;Cerrado;Ana Ruiz;50;Senior;Media
+9996;2023-03-27;;1;Redes;Creatividad y Desarrollo;24;116;Cerrado;Ana Ruiz;50;Senior;Baja
+17;2023-08-25;;1;Redes;Sistemas Ecológicos;24;147;Abierto;Ana Ruiz;50;Senior;Alta
+64;2023-12-22;;3;Hardware;Servicios Globales;36;106;Abierto;Ana Ruiz;50;Senior;Alta
+69;2023-01-09;;4;Redes;Soluciones Tecnológicas;24;188;Abierto;Ana Ruiz;50;Senior;Alta
+301;2023-05-03;;5;Seguridad;Sostenibilidad y Progreso;48;199;Abierto;Ana Ruiz;50;Senior;Media
+314;2023-10-20;;4;Software;Soluciones Tecnológicas;24;188;Abierto;Ana Ruiz;50;Senior;Alta
+457;2023-07-19;;1;Software;Visión Futurista;72;176;Abierto;Ana Ruiz;50;Senior;Alta
+708;2023-10-03;;3;Hardware;Servicios Globales;36;106;Abierto;Ana Ruiz;50;Senior;Alta
+867;2023-11-27;;3;Hardware;Innovaciones Creativas;48;138;Abierto;Ana Ruiz;50;Senior;Alta
+899;2023-06-30;;1;Hardware;Creatividad y Desarrollo;24;116;Abierto;Ana Ruiz;50;Senior;Media
+1026;2023-09-04;;1;Hardware;Sostenibilidad y Progreso;48;199;Abierto;Ana Ruiz;50;Senior;Alta
+1112;2023-07-08;;5;Seguridad;Inteligencia de Datos;72;163;Abierto;Ana Ruiz;50;Senior;Urgente
+1113;2023-03-26;;1;Seguridad;Sistemas Ecológicos;24;147;Abierto;Ana Ruiz;50;Senior;Urgente
+1486;2023-07-20;;2;Seguridad;Inteligencia de Datos;72;163;Abierto;Ana Ruiz;50;Senior;Baja
+1503;2023-10-04;;2;Hardware;Avances Continuos;36;187;Abierto;Ana Ruiz;50;Senior;Media
+1686;2023-06-01;;4;Software;Servicios Globales;36;106;Abierto;Ana Ruiz;50;Senior;Baja
+1753;2023-08-01;;3;Redes;Avances Continuos;36;187;Abierto;Ana Ruiz;50;Senior;Media
+1769;2023-11-06;;5;Seguridad;Visión Futurista;72;176;Abierto;Ana Ruiz;50;Senior;Baja
+1875;2023-10-14;;5;Redes;Innovaciones Creativas;48;138;Abierto;Ana Ruiz;50;Senior;Baja
+2037;2023-08-09;;4;Seguridad;Sistemas Ecológicos;24;147;Abierto;Ana Ruiz;50;Senior;Urgente
+2108;2023-08-20;;2;Hardware;Avances Continuos;36;187;Abierto;Ana Ruiz;50;Senior;Media
+2165;2023-03-23;;5;Software;Soluciones Tecnológicas;24;188;Abierto;Ana Ruiz;50;Senior;Urgente
+2271;2023-06-03;;3;Hardware;Servicios Globales;36;106;Abierto;Ana Ruiz;50;Senior;Media
+2405;2023-06-16;;5;Seguridad;Redes Seguras;48;132;Abierto;Ana Ruiz;50;Senior;Urgente
+2481;2023-09-14;;4;Hardware;Sistemas Ecológicos;24;147;Abierto;Ana Ruiz;50;Senior;Alta
+2601;2023-06-05;;1;Redes;Visión Futurista;72;176;Abierto;Ana Ruiz;50;Senior;Media
+2723;2023-07-08;;2;Hardware;Inteligencia de Datos;72;163;Abierto;Ana Ruiz;50;Senior;Urgente
+2915;2023-08-29;;5;Seguridad;Servicios Globales;36;106;Abierto;Ana Ruiz;50;Senior;Alta
+3001;2023-12-30;;3;Software;Sostenibilidad y Progreso;48;199;Abierto;Ana Ruiz;50;Senior;Urgente
+3360;2023-07-13;;4;Seguridad;Inteligencia de Datos;72;163;Abierto;Ana Ruiz;50;Senior;Urgente
+3482;2023-04-03;;1;Redes;Redes Seguras;48;132;Abierto;Ana Ruiz;50;Senior;Media
+3514;2023-01-27;;4;Redes;Sistemas Ecológicos;24;147;Abierto;Ana Ruiz;50;Senior;Urgente
+3706;2023-01-24;;5;Redes;Creatividad y Desarrollo;24;116;Abierto;Ana Ruiz;50;Senior;Alta
+3966;2023-07-20;;1;Redes;Soluciones Tecnológicas;24;188;Abierto;Ana Ruiz;50;Senior;Alta
+4055;2023-02-06;;2;Software;Sostenibilidad y Progreso;48;199;Abierto;Ana Ruiz;50;Senior;Urgente
+4333;2023-03-03;;5;Seguridad;Sostenibilidad y Progreso;48;199;Abierto;Ana Ruiz;50;Senior;Alta
+4423;2023-03-30;;4;Redes;Creatividad y Desarrollo;24;116;Abierto;Ana Ruiz;50;Senior;Baja
+4637;2023-11-04;;2;Redes;Servicios Globales;36;106;Abierto;Ana Ruiz;50;Senior;Baja
+4829;2023-01-19;;4;Redes;Visión Futurista;72;176;Abierto;Ana Ruiz;50;Senior;Baja
+4836;2023-11-24;;2;Seguridad;Soluciones Tecnológicas;24;188;Abierto;Ana Ruiz;50;Senior;Media
+5424;2023-05-17;;2;Redes;Inteligencia de Datos;72;163;Abierto;Ana Ruiz;50;Senior;Baja
+5442;2023-06-16;;1;Software;Servicios Globales;36;106;Abierto;Ana Ruiz;50;Senior;Urgente
+5464;2023-11-12;;4;Redes;Servicios Globales;36;106;Abierto;Ana Ruiz;50;Senior;Urgente
+5681;2023-08-09;;5;Software;Servicios Globales;36;106;Abierto;Ana Ruiz;50;Senior;Urgente
+5699;2023-04-02;;2;Redes;Creatividad y Desarrollo;24;116;Abierto;Ana Ruiz;50;Senior;Alta
+5723;2023-09-20;;4;Seguridad;Sistemas Ecológicos;24;147;Abierto;Ana Ruiz;50;Senior;Baja
+5787;2023-08-12;;1;Redes;Creatividad y Desarrollo;24;116;Abierto;Ana Ruiz;50;Senior;Media
+5847;2023-08-01;;5;Hardware;Sostenibilidad y Progreso;48;199;Abierto;Ana Ruiz;50;Senior;Urgente
+5896;2023-08-26;;2;Software;Redes Seguras;48;132;Abierto;Ana Ruiz;50;Senior;Alta
+5921;2023-05-09;;1;Seguridad;Avances Continuos;36;187;Abierto;Ana Ruiz;50;Senior;Baja
+6235;2023-10-23;;3;Hardware;Redes Seguras;48;132;Abierto;Ana Ruiz;50;Senior;Baja
+6245;2023-03-10;;2;Hardware;Innovaciones Creativas;48;138;Abierto;Ana Ruiz;50;Senior;Alta
+6469;2023-07-15;;4;Seguridad;Redes Seguras;48;132;Abierto;Ana Ruiz;50;Senior;Media
+6485;2023-12-28;;2;Software;Soluciones Tecnológicas;24;188;Abierto;Ana Ruiz;50;Senior;Alta
+6570;2023-08-28;;3;Hardware;Soluciones Tecnológicas;24;188;Abierto;Ana Ruiz;50;Senior;Baja
+6648;2023-10-12;;1;Software;Redes Seguras;48;132;Abierto;Ana Ruiz;50;Senior;Media
+7038;2023-03-30;;3;Hardware;Sistemas Ecológicos;24;147;Abierto;Ana Ruiz;50;Senior;Media
+7069;2023-11-04;;5;Software;Sostenibilidad y Progreso;48;199;Abierto;Ana Ruiz;50;Senior;Baja
+7076;2023-07-15;;5;Hardware;Innovaciones Creativas;48;138;Abierto;Ana Ruiz;50;Senior;Alta
+7091;2023-06-23;;3;Software;Sostenibilidad y Progreso;48;199;Abierto;Ana Ruiz;50;Senior;Media
+7266;2023-04-02;;2;Seguridad;Visión Futurista;72;176;Abierto;Ana Ruiz;50;Senior;Baja
+7348;2023-05-29;;5;Redes;Redes Seguras;48;132;Abierto;Ana Ruiz;50;Senior;Urgente
+7562;2023-07-13;;3;Hardware;Servicios Globales;36;106;Abierto;Ana Ruiz;50;Senior;Urgente
+8232;2023-04-10;;4;Software;Inteligencia de Datos;72;163;Abierto;Ana Ruiz;50;Senior;Urgente
+8447;2023-01-19;;3;Redes;Avances Continuos;36;187;Abierto;Ana Ruiz;50;Senior;Urgente
+8502;2023-12-23;;3;Seguridad;Avances Continuos;36;187;Abierto;Ana Ruiz;50;Senior;Baja
+8627;2023-01-07;;1;Hardware;Sistemas Ecológicos;24;147;Abierto;Ana Ruiz;50;Senior;Media
+8639;2023-10-14;;5;Software;Inteligencia de Datos;72;163;Abierto;Ana Ruiz;50;Senior;Urgente
+8778;2023-03-18;;1;Redes;Innovaciones Creativas;48;138;Abierto;Ana Ruiz;50;Senior;Media
+8850;2023-05-14;;5;Software;Creatividad y Desarrollo;24;116;Abierto;Ana Ruiz;50;Senior;Alta
+8938;2023-10-22;;2;Hardware;Visión Futurista;72;176;Abierto;Ana Ruiz;50;Senior;Media
+9053;2023-01-31;;3;Redes;Innovaciones Creativas;48;138;Abierto;Ana Ruiz;50;Senior;Baja
+9194;2023-09-16;;5;Software;Sostenibilidad y Progreso;48;199;Abierto;Ana Ruiz;50;Senior;Urgente
+9497;2023-11-19;;3;Software;Sistemas Ecológicos;24;147;Abierto;Ana Ruiz;50;Senior;Media
+9619;2023-05-09;;4;Hardware;Innovaciones Creativas;48;138;Abierto;Ana Ruiz;50;Senior;Alta
+583;2023-10-22;;5;Hardware;Soluciones Tecnológicas;24;188;En Progreso;Ana Ruiz;50;Senior;Media
+689;2023-03-12;;1;Software;Avances Continuos;36;187;En Progreso;Ana Ruiz;50;Senior;Urgente
+820;2023-09-20;;1;Hardware;Servicios Globales;36;106;En Progreso;Ana Ruiz;50;Senior;Baja
+944;2023-03-15;;4;Software;Inteligencia de Datos;72;163;En Progreso;Ana Ruiz;50;Senior;Baja
+1359;2023-03-15;;4;Redes;Inteligencia de Datos;72;163;En Progreso;Ana Ruiz;50;Senior;Baja
+1367;2023-03-22;;4;Software;Innovaciones Creativas;48;138;En Progreso;Ana Ruiz;50;Senior;Media
+1608;2023-07-14;;4;Seguridad;Soluciones Tecnológicas;24;188;En Progreso;Ana Ruiz;50;Senior;Media
+1610;2023-09-08;;1;Seguridad;Redes Seguras;48;132;En Progreso;Ana Ruiz;50;Senior;Urgente
+1651;2023-07-09;;1;Redes;Servicios Globales;36;106;En Progreso;Ana Ruiz;50;Senior;Urgente
+1732;2023-07-17;;4;Seguridad;Creatividad y Desarrollo;24;116;En Progreso;Ana Ruiz;50;Senior;Baja
+1780;2023-03-31;;3;Redes;Sistemas Ecológicos;24;147;En Progreso;Ana Ruiz;50;Senior;Alta
+2030;2023-10-22;;3;Hardware;Sistemas Ecológicos;24;147;En Progreso;Ana Ruiz;50;Senior;Baja
+2292;2023-10-29;;5;Seguridad;Avances Continuos;36;187;En Progreso;Ana Ruiz;50;Senior;Media
+2391;2023-04-18;;5;Hardware;Sostenibilidad y Progreso;48;199;En Progreso;Ana Ruiz;50;Senior;Urgente
+2663;2023-08-04;;5;Redes;Visión Futurista;72;176;En Progreso;Ana Ruiz;50;Senior;Baja
+2806;2023-02-14;;4;Software;Innovaciones Creativas;48;138;En Progreso;Ana Ruiz;50;Senior;Media
+2994;2023-07-01;;5;Software;Inteligencia de Datos;72;163;En Progreso;Ana Ruiz;50;Senior;Baja
+3095;2023-12-11;;3;Software;Innovaciones Creativas;48;138;En Progreso;Ana Ruiz;50;Senior;Urgente
+3210;2023-07-02;;1;Software;Avances Continuos;36;187;En Progreso;Ana Ruiz;50;Senior;Baja
+3262;2023-03-31;;2;Seguridad;Visión Futurista;72;176;En Progreso;Ana Ruiz;50;Senior;Alta
+3522;2023-07-31;;1;Hardware;Inteligencia de Datos;72;163;En Progreso;Ana Ruiz;50;Senior;Baja
+3529;2023-02-14;;1;Seguridad;Visión Futurista;72;176;En Progreso;Ana Ruiz;50;Senior;Urgente
+3670;2023-08-29;;2;Software;Innovaciones Creativas;48;138;En Progreso;Ana Ruiz;50;Senior;Alta
+3894;2023-10-15;;5;Redes;Innovaciones Creativas;48;138;En Progreso;Ana Ruiz;50;Senior;Alta
+4181;2023-12-12;;5;Software;Innovaciones Creativas;48;138;En Progreso;Ana Ruiz;50;Senior;Urgente
+4216;2023-08-31;;4;Hardware;Sostenibilidad y Progreso;48;199;En Progreso;Ana Ruiz;50;Senior;Baja
+4579;2023-06-11;;3;Redes;Avances Continuos;36;187;En Progreso;Ana Ruiz;50;Senior;Baja
+4698;2023-02-19;;3;Hardware;Innovaciones Creativas;48;138;En Progreso;Ana Ruiz;50;Senior;Baja
+4883;2023-04-29;;5;Hardware;Avances Continuos;36;187;En Progreso;Ana Ruiz;50;Senior;Media
+4911;2023-07-07;;4;Hardware;Creatividad y Desarrollo;24;116;En Progreso;Ana Ruiz;50;Senior;Media
+4921;2023-11-28;;1;Redes;Visión Futurista;72;176;En Progreso;Ana Ruiz;50;Senior;Alta
+4932;2023-05-30;;3;Redes;Innovaciones Creativas;48;138;En Progreso;Ana Ruiz;50;Senior;Urgente
+5247;2023-06-10;;3;Redes;Innovaciones Creativas;48;138;En Progreso;Ana Ruiz;50;Senior;Alta
+5268;2023-05-26;;5;Seguridad;Avances Continuos;36;187;En Progreso;Ana Ruiz;50;Senior;Media
+5276;2023-02-02;;3;Hardware;Avances Continuos;36;187;En Progreso;Ana Ruiz;50;Senior;Urgente
+5283;2023-10-10;;1;Hardware;Visión Futurista;72;176;En Progreso;Ana Ruiz;50;Senior;Baja
+5366;2023-08-19;;2;Software;Servicios Globales;36;106;En Progreso;Ana Ruiz;50;Senior;Alta
+5423;2023-09-20;;3;Software;Servicios Globales;36;106;En Progreso;Ana Ruiz;50;Senior;Urgente
+5680;2023-11-05;;1;Software;Innovaciones Creativas;48;138;En Progreso;Ana Ruiz;50;Senior;Media
+5749;2023-09-24;;3;Software;Sistemas Ecológicos;24;147;En Progreso;Ana Ruiz;50;Senior;Media
+6278;2023-10-25;;3;Software;Soluciones Tecnológicas;24;188;En Progreso;Ana Ruiz;50;Senior;Baja
+6349;2023-01-16;;4;Software;Avances Continuos;36;187;En Progreso;Ana Ruiz;50;Senior;Urgente
+6563;2023-02-09;;5;Hardware;Soluciones Tecnológicas;24;188;En Progreso;Ana Ruiz;50;Senior;Urgente
+6586;2023-08-14;;4;Redes;Servicios Globales;36;106;En Progreso;Ana Ruiz;50;Senior;Alta
+6651;2023-01-21;;1;Hardware;Redes Seguras;48;132;En Progreso;Ana Ruiz;50;Senior;Media
+6899;2023-04-29;;4;Hardware;Inteligencia de Datos;72;163;En Progreso;Ana Ruiz;50;Senior;Alta
+7018;2023-07-13;;2;Software;Creatividad y Desarrollo;24;116;En Progreso;Ana Ruiz;50;Senior;Urgente
+7134;2023-06-15;;4;Seguridad;Sistemas Ecológicos;24;147;En Progreso;Ana Ruiz;50;Senior;Alta
+7207;2023-08-10;;2;Software;Sistemas Ecológicos;24;147;En Progreso;Ana Ruiz;50;Senior;Urgente
+7320;2023-04-26;;4;Software;Soluciones Tecnológicas;24;188;En Progreso;Ana Ruiz;50;Senior;Baja
+7326;2023-09-15;;4;Seguridad;Visión Futurista;72;176;En Progreso;Ana Ruiz;50;Senior;Alta
+7629;2023-10-28;;2;Hardware;Sistemas Ecológicos;24;147;En Progreso;Ana Ruiz;50;Senior;Alta
+7664;2023-01-04;;3;Software;Redes Seguras;48;132;En Progreso;Ana Ruiz;50;Senior;Alta
+7699;2023-11-22;;2;Software;Servicios Globales;36;106;En Progreso;Ana Ruiz;50;Senior;Urgente
+7755;2023-10-12;;5;Hardware;Redes Seguras;48;132;En Progreso;Ana Ruiz;50;Senior;Media
+7784;2023-04-06;;1;Seguridad;Inteligencia de Datos;72;163;En Progreso;Ana Ruiz;50;Senior;Alta
+7963;2023-12-09;;2;Seguridad;Redes Seguras;48;132;En Progreso;Ana Ruiz;50;Senior;Baja
+8078;2023-09-11;;1;Redes;Servicios Globales;36;106;En Progreso;Ana Ruiz;50;Senior;Urgente
+8758;2023-07-21;;2;Hardware;Creatividad y Desarrollo;24;116;En Progreso;Ana Ruiz;50;Senior;Baja
+9047;2023-01-08;;2;Seguridad;Soluciones Tecnológicas;24;188;En Progreso;Ana Ruiz;50;Senior;Urgente
+9136;2023-03-14;;3;Software;Sistemas Ecológicos;24;147;En Progreso;Ana Ruiz;50;Senior;Urgente
+9222;2023-02-05;;2;Software;Creatividad y Desarrollo;24;116;En Progreso;Ana Ruiz;50;Senior;Baja
+9291;2023-01-08;;4;Software;Innovaciones Creativas;48;138;En Progreso;Ana Ruiz;50;Senior;Media
+9298;2023-10-14;;4;Hardware;Creatividad y Desarrollo;24;116;En Progreso;Ana Ruiz;50;Senior;Media
+9539;2023-04-25;;3;Seguridad;Servicios Globales;36;106;En Progreso;Ana Ruiz;50;Senior;Alta
+9755;2023-03-23;;1;Software;Creatividad y Desarrollo;24;116;En Progreso;Ana Ruiz;50;Senior;Media
+9790;2023-12-13;;4;Software;Inteligencia de Datos;72;163;En Progreso;Ana Ruiz;50;Senior;Media
+9913;2023-06-01;;4;Software;Inteligencia de Datos;72;163;En Progreso;Ana Ruiz;50;Senior;Baja
+292;2023-04-01;;1;Seguridad;Inteligencia de Datos;72;163;Cerrado;María López;55;Medio;Media
+343;2023-10-04;;1;Software;Sostenibilidad y Progreso;48;199;Cerrado;María López;55;Medio;Urgente
+451;2023-01-24;;2;Hardware;Redes Seguras;48;132;Cerrado;María López;55;Medio;Media
+471;2023-05-28;;5;Software;Inteligencia de Datos;72;163;Cerrado;María López;55;Medio;Alta
+516;2023-04-06;;4;Redes;Visión Futurista;72;176;Cerrado;María López;55;Medio;Baja
+522;2023-06-30;;4;Seguridad;Innovaciones Creativas;48;138;Cerrado;María López;55;Medio;Alta
+630;2023-10-20;;1;Software;Visión Futurista;72;176;Cerrado;María López;55;Medio;Baja
+639;2023-06-29;;4;Software;Avances Continuos;36;187;Cerrado;María López;55;Medio;Alta
+703;2023-12-02;;5;Hardware;Creatividad y Desarrollo;24;116;Cerrado;María López;55;Medio;Alta
+854;2023-10-29;;2;Software;Inteligencia de Datos;72;163;Cerrado;María López;55;Medio;Urgente
+1040;2023-08-12;;5;Software;Creatividad y Desarrollo;24;116;Cerrado;María López;55;Medio;Urgente
+1178;2023-08-25;;5;Software;Creatividad y Desarrollo;24;116;Cerrado;María López;55;Medio;Media
+1613;2023-05-03;;2;Seguridad;Inteligencia de Datos;72;163;Cerrado;María López;55;Medio;Alta
+1717;2023-06-19;;3;Software;Innovaciones Creativas;48;138;Cerrado;María López;55;Medio;Media
+1953;2023-02-14;;1;Redes;Redes Seguras;48;132;Cerrado;María López;55;Medio;Urgente
+1998;2023-06-06;;4;Hardware;Sostenibilidad y Progreso;48;199;Cerrado;María López;55;Medio;Baja
+2261;2023-05-10;;5;Seguridad;Sostenibilidad y Progreso;48;199;Cerrado;María López;55;Medio;Urgente
+2396;2023-12-13;;4;Redes;Innovaciones Creativas;48;138;Cerrado;María López;55;Medio;Baja
+2429;2023-08-05;;2;Seguridad;Innovaciones Creativas;48;138;Cerrado;María López;55;Medio;Urgente
+2547;2023-12-16;;4;Software;Sistemas Ecológicos;24;147;Cerrado;María López;55;Medio;Baja
+3060;2023-03-31;;2;Seguridad;Avances Continuos;36;187;Cerrado;María López;55;Medio;Urgente
+3106;2023-04-14;;5;Software;Redes Seguras;48;132;Cerrado;María López;55;Medio;Alta
+3373;2023-10-05;;3;Redes;Inteligencia de Datos;72;163;Cerrado;María López;55;Medio;Urgente
+3404;2023-04-10;;1;Software;Visión Futurista;72;176;Cerrado;María López;55;Medio;Alta
+3743;2023-01-29;;1;Hardware;Innovaciones Creativas;48;138;Cerrado;María López;55;Medio;Alta
+3921;2023-11-14;;5;Redes;Creatividad y Desarrollo;24;116;Cerrado;María López;55;Medio;Baja
+4028;2023-01-10;;3;Software;Servicios Globales;36;106;Cerrado;María López;55;Medio;Baja
+4234;2023-01-23;;3;Seguridad;Soluciones Tecnológicas;24;188;Cerrado;María López;55;Medio;Alta
+4380;2023-04-04;;3;Seguridad;Servicios Globales;36;106;Cerrado;María López;55;Medio;Baja
+4963;2023-06-16;;2;Seguridad;Innovaciones Creativas;48;138;Cerrado;María López;55;Medio;Baja
+4968;2023-05-23;;3;Hardware;Soluciones Tecnológicas;24;188;Cerrado;María López;55;Medio;Alta
+5089;2023-05-19;;4;Hardware;Sistemas Ecológicos;24;147;Cerrado;María López;55;Medio;Urgente
+5217;2023-06-14;;3;Seguridad;Sostenibilidad y Progreso;48;199;Cerrado;María López;55;Medio;Alta
+5264;2023-02-16;;4;Hardware;Sistemas Ecológicos;24;147;Cerrado;María López;55;Medio;Alta
+5466;2023-06-26;;2;Software;Innovaciones Creativas;48;138;Cerrado;María López;55;Medio;Media
+5473;2023-11-23;;4;Seguridad;Visión Futurista;72;176;Cerrado;María López;55;Medio;Alta
+5561;2023-11-25;;5;Redes;Visión Futurista;72;176;Cerrado;María López;55;Medio;Alta
+5865;2023-12-14;;1;Redes;Avances Continuos;36;187;Cerrado;María López;55;Medio;Urgente
+6024;2023-05-23;;5;Software;Visión Futurista;72;176;Cerrado;María López;55;Medio;Urgente
+6060;2023-01-15;;3;Seguridad;Redes Seguras;48;132;Cerrado;María López;55;Medio;Media
+6159;2023-01-26;;4;Redes;Redes Seguras;48;132;Cerrado;María López;55;Medio;Media
+6190;2023-09-24;;5;Hardware;Visión Futurista;72;176;Cerrado;María López;55;Medio;Baja
+6318;2023-09-28;;1;Seguridad;Visión Futurista;72;176;Cerrado;María López;55;Medio;Baja
+6475;2023-02-27;;2;Hardware;Innovaciones Creativas;48;138;Cerrado;María López;55;Medio;Media
+6706;2023-02-02;;4;Redes;Visión Futurista;72;176;Cerrado;María López;55;Medio;Baja
+6896;2023-05-17;;4;Hardware;Servicios Globales;36;106;Cerrado;María López;55;Medio;Alta
+6897;2023-01-25;;1;Redes;Sostenibilidad y Progreso;48;199;Cerrado;María López;55;Medio;Urgente
+7092;2023-10-28;;1;Seguridad;Servicios Globales;36;106;Cerrado;María López;55;Medio;Media
+7292;2023-09-24;;5;Hardware;Avances Continuos;36;187;Cerrado;María López;55;Medio;Urgente
+7465;2023-06-16;;1;Software;Soluciones Tecnológicas;24;188;Cerrado;María López;55;Medio;Alta
+7487;2023-02-11;;5;Hardware;Sistemas Ecológicos;24;147;Cerrado;María López;55;Medio;Baja
+7547;2023-03-14;;1;Hardware;Sostenibilidad y Progreso;48;199;Cerrado;María López;55;Medio;Baja
+7592;2023-03-22;;1;Seguridad;Visión Futurista;72;176;Cerrado;María López;55;Medio;Baja
+8029;2023-01-12;;1;Redes;Creatividad y Desarrollo;24;116;Cerrado;María López;55;Medio;Baja
+8036;2023-12-19;;1;Software;Soluciones Tecnológicas;24;188;Cerrado;María López;55;Medio;Urgente
+8048;2023-06-26;;4;Software;Creatividad y Desarrollo;24;116;Cerrado;María López;55;Medio;Media
+8149;2023-02-09;;2;Seguridad;Avances Continuos;36;187;Cerrado;María López;55;Medio;Media
+8194;2023-08-13;;3;Seguridad;Inteligencia de Datos;72;163;Cerrado;María López;55;Medio;Baja
+8340;2023-02-12;;1;Hardware;Innovaciones Creativas;48;138;Cerrado;María López;55;Medio;Alta
+8451;2023-08-13;;2;Software;Soluciones Tecnológicas;24;188;Cerrado;María López;55;Medio;Media
+8701;2023-08-31;;3;Redes;Sostenibilidad y Progreso;48;199;Cerrado;María López;55;Medio;Alta
+8706;2023-12-14;;4;Hardware;Redes Seguras;48;132;Cerrado;María López;55;Medio;Baja
+8756;2023-03-08;;5;Software;Sostenibilidad y Progreso;48;199;Cerrado;María López;55;Medio;Alta
+8985;2023-03-05;;4;Software;Sostenibilidad y Progreso;48;199;Cerrado;María López;55;Medio;Urgente
+9001;2023-05-13;;5;Redes;Soluciones Tecnológicas;24;188;Cerrado;María López;55;Medio;Urgente
+9110;2023-02-06;;2;Hardware;Creatividad y Desarrollo;24;116;Cerrado;María López;55;Medio;Alta
+9140;2023-04-19;;1;Software;Sostenibilidad y Progreso;48;199;Cerrado;María López;55;Medio;Media
+9293;2023-11-20;;4;Redes;Visión Futurista;72;176;Cerrado;María López;55;Medio;Baja
+9457;2023-08-08;;3;Seguridad;Avances Continuos;36;187;Cerrado;María López;55;Medio;Baja
+9511;2023-11-28;;5;Hardware;Visión Futurista;72;176;Cerrado;María López;55;Medio;Baja
+9607;2023-01-10;;5;Software;Redes Seguras;48;132;Cerrado;María López;55;Medio;Baja
+9617;2023-04-14;;2;Seguridad;Innovaciones Creativas;48;138;Cerrado;María López;55;Medio;Media
+9856;2023-02-07;;1;Hardware;Visión Futurista;72;176;Cerrado;María López;55;Medio;Media
+9966;2023-04-14;;4;Redes;Soluciones Tecnológicas;24;188;Cerrado;María López;55;Medio;Alta
+86;2023-06-29;;4;Hardware;Inteligencia de Datos;72;163;En Progreso;María López;55;Medio;Urgente
+104;2023-09-29;;4;Redes;Creatividad y Desarrollo;24;116;En Progreso;María López;55;Medio;Baja
+134;2023-05-26;;5;Software;Avances Continuos;36;187;En Progreso;María López;55;Medio;Alta
+173;2023-06-02;;4;Seguridad;Redes Seguras;48;132;En Progreso;María López;55;Medio;Media
+217;2023-04-22;;2;Seguridad;Avances Continuos;36;187;En Progreso;María López;55;Medio;Baja
+466;2023-12-29;;3;Redes;Creatividad y Desarrollo;24;116;En Progreso;María López;55;Medio;Baja
+616;2023-06-30;;3;Redes;Soluciones Tecnológicas;24;188;En Progreso;María López;55;Medio;Media
+648;2023-02-23;;2;Redes;Visión Futurista;72;176;En Progreso;María López;55;Medio;Media
+817;2023-08-22;;2;Seguridad;Innovaciones Creativas;48;138;En Progreso;María López;55;Medio;Urgente
+980;2023-05-31;;2;Seguridad;Soluciones Tecnológicas;24;188;En Progreso;María López;55;Medio;Alta
+1130;2023-03-03;;5;Hardware;Visión Futurista;72;176;En Progreso;María López;55;Medio;Baja
+1149;2023-09-09;;1;Redes;Soluciones Tecnológicas;24;188;En Progreso;María López;55;Medio;Baja
+1329;2023-07-27;;4;Hardware;Servicios Globales;36;106;En Progreso;María López;55;Medio;Alta
+1414;2023-08-05;;1;Software;Creatividad y Desarrollo;24;116;En Progreso;María López;55;Medio;Media
+1488;2023-03-21;;1;Hardware;Redes Seguras;48;132;En Progreso;María López;55;Medio;Alta
+1567;2023-09-29;;4;Software;Sostenibilidad y Progreso;48;199;En Progreso;María López;55;Medio;Alta
+1597;2023-03-14;;1;Seguridad;Soluciones Tecnológicas;24;188;En Progreso;María López;55;Medio;Alta
+1738;2023-06-04;;4;Hardware;Innovaciones Creativas;48;138;En Progreso;María López;55;Medio;Baja
+1762;2023-01-03;;5;Software;Servicios Globales;36;106;En Progreso;María López;55;Medio;Urgente
+1883;2023-01-12;;3;Seguridad;Redes Seguras;48;132;En Progreso;María López;55;Medio;Media
+1899;2023-02-24;;4;Software;Inteligencia de Datos;72;163;En Progreso;María López;55;Medio;Urgente
+1914;2023-10-11;;2;Software;Redes Seguras;48;132;En Progreso;María López;55;Medio;Media
+2058;2023-06-28;;3;Redes;Sostenibilidad y Progreso;48;199;En Progreso;María López;55;Medio;Baja
+2392;2023-12-01;;2;Seguridad;Avances Continuos;36;187;En Progreso;María López;55;Medio;Alta
+2479;2023-01-27;;2;Redes;Innovaciones Creativas;48;138;En Progreso;María López;55;Medio;Urgente
+2501;2023-06-08;;5;Software;Innovaciones Creativas;48;138;En Progreso;María López;55;Medio;Alta
+2646;2023-08-04;;3;Seguridad;Inteligencia de Datos;72;163;En Progreso;María López;55;Medio;Urgente
+3056;2023-02-06;;1;Redes;Avances Continuos;36;187;En Progreso;María López;55;Medio;Baja
+3079;2023-11-01;;2;Hardware;Sostenibilidad y Progreso;48;199;En Progreso;María López;55;Medio;Media
+3137;2023-08-29;;1;Seguridad;Inteligencia de Datos;72;163;En Progreso;María López;55;Medio;Alta
+3224;2023-07-23;;2;Seguridad;Creatividad y Desarrollo;24;116;En Progreso;María López;55;Medio;Media
+3267;2023-07-09;;5;Redes;Innovaciones Creativas;48;138;En Progreso;María López;55;Medio;Baja
+3452;2023-12-24;;2;Seguridad;Avances Continuos;36;187;En Progreso;María López;55;Medio;Baja
+3569;2023-09-14;;3;Seguridad;Creatividad y Desarrollo;24;116;En Progreso;María López;55;Medio;Media
+3657;2023-05-23;;1;Seguridad;Creatividad y Desarrollo;24;116;En Progreso;María López;55;Medio;Baja
+3786;2023-03-18;;5;Seguridad;Innovaciones Creativas;48;138;En Progreso;María López;55;Medio;Media
+3887;2023-11-18;;2;Software;Inteligencia de Datos;72;163;En Progreso;María López;55;Medio;Baja
+4040;2023-11-25;;4;Redes;Visión Futurista;72;176;En Progreso;María López;55;Medio;Alta
+4058;2023-08-19;;4;Seguridad;Redes Seguras;48;132;En Progreso;María López;55;Medio;Urgente
+4122;2023-04-07;;1;Redes;Creatividad y Desarrollo;24;116;En Progreso;María López;55;Medio;Alta
+4352;2023-08-31;;2;Seguridad;Servicios Globales;36;106;En Progreso;María López;55;Medio;Urgente
+4846;2023-08-20;;4;Software;Soluciones Tecnológicas;24;188;En Progreso;María López;55;Medio;Media
+4887;2023-02-10;;3;Redes;Sostenibilidad y Progreso;48;199;En Progreso;María López;55;Medio;Media
+5011;2023-08-12;;1;Redes;Visión Futurista;72;176;En Progreso;María López;55;Medio;Baja
+5182;2023-08-02;;3;Seguridad;Redes Seguras;48;132;En Progreso;María López;55;Medio;Alta
+5238;2023-12-01;;2;Redes;Avances Continuos;36;187;En Progreso;María López;55;Medio;Media
+5421;2023-12-20;;5;Seguridad;Redes Seguras;48;132;En Progreso;María López;55;Medio;Urgente
+5590;2023-01-11;;4;Seguridad;Servicios Globales;36;106;En Progreso;María López;55;Medio;Baja
+5639;2023-10-19;;4;Seguridad;Inteligencia de Datos;72;163;En Progreso;María López;55;Medio;Alta
+5923;2023-12-03;;2;Redes;Sistemas Ecológicos;24;147;En Progreso;María López;55;Medio;Baja
+5928;2023-06-24;;1;Software;Visión Futurista;72;176;En Progreso;María López;55;Medio;Media
+5996;2023-10-24;;4;Seguridad;Avances Continuos;36;187;En Progreso;María López;55;Medio;Urgente
+6354;2023-03-04;;2;Redes;Redes Seguras;48;132;En Progreso;María López;55;Medio;Media
+6399;2023-02-23;;5;Software;Servicios Globales;36;106;En Progreso;María López;55;Medio;Media
+6508;2023-10-22;;4;Redes;Redes Seguras;48;132;En Progreso;María López;55;Medio;Urgente
+6632;2023-06-13;;1;Hardware;Visión Futurista;72;176;En Progreso;María López;55;Medio;Urgente
+6635;2023-10-04;;4;Software;Redes Seguras;48;132;En Progreso;María López;55;Medio;Baja
+6662;2023-07-20;;2;Redes;Creatividad y Desarrollo;24;116;En Progreso;María López;55;Medio;Alta
+6975;2023-10-31;;4;Hardware;Visión Futurista;72;176;En Progreso;María López;55;Medio;Urgente
+6979;2023-05-13;;4;Software;Creatividad y Desarrollo;24;116;En Progreso;María López;55;Medio;Urgente
+7109;2023-11-11;;3;Software;Visión Futurista;72;176;En Progreso;María López;55;Medio;Media
+7152;2023-03-01;;3;Software;Soluciones Tecnológicas;24;188;En Progreso;María López;55;Medio;Urgente
+7210;2023-02-17;;5;Redes;Sistemas Ecológicos;24;147;En Progreso;María López;55;Medio;Baja
+7505;2023-03-14;;4;Seguridad;Innovaciones Creativas;48;138;En Progreso;María López;55;Medio;Baja
+7603;2023-10-26;;5;Seguridad;Innovaciones Creativas;48;138;En Progreso;María López;55;Medio;Media
+7710;2023-03-19;;3;Software;Servicios Globales;36;106;En Progreso;María López;55;Medio;Alta
+7768;2023-03-07;;2;Redes;Avances Continuos;36;187;En Progreso;María López;55;Medio;Urgente
+8068;2023-02-26;;4;Redes;Inteligencia de Datos;72;163;En Progreso;María López;55;Medio;Urgente
+8090;2023-10-23;;4;Hardware;Sostenibilidad y Progreso;48;199;En Progreso;María López;55;Medio;Urgente
+8549;2023-07-02;;5;Software;Innovaciones Creativas;48;138;En Progreso;María López;55;Medio;Baja
+8741;2023-10-19;;1;Hardware;Servicios Globales;36;106;En Progreso;María López;55;Medio;Urgente
+8839;2023-10-18;;3;Software;Servicios Globales;36;106;En Progreso;María López;55;Medio;Urgente
+9101;2023-11-13;;2;Redes;Inteligencia de Datos;72;163;En Progreso;María López;55;Medio;Baja
+9231;2023-11-03;;5;Software;Innovaciones Creativas;48;138;En Progreso;María López;55;Medio;Media
+9240;2023-05-21;;4;Hardware;Sostenibilidad y Progreso;48;199;En Progreso;María López;55;Medio;Media
+9394;2023-03-21;;3;Hardware;Servicios Globales;36;106;En Progreso;María López;55;Medio;Baja
+9436;2023-02-22;;4;Hardware;Redes Seguras;48;132;En Progreso;María López;55;Medio;Baja
+9460;2023-12-19;;2;Seguridad;Sistemas Ecológicos;24;147;En Progreso;María López;55;Medio;Alta
+9525;2023-09-21;;1;Seguridad;Inteligencia de Datos;72;163;En Progreso;María López;55;Medio;Alta
+9552;2023-06-30;;4;Software;Sostenibilidad y Progreso;48;199;En Progreso;María López;55;Medio;Urgente
+187;2023-06-11;;4;Seguridad;Redes Seguras;48;132;Abierto;María López;55;Medio;Baja
+272;2023-02-28;;2;Redes;Sistemas Ecológicos;24;147;Abierto;María López;55;Medio;Alta
+363;2023-09-08;;4;Software;Servicios Globales;36;106;Abierto;María López;55;Medio;Media
+374;2023-11-17;;1;Software;Servicios Globales;36;106;Abierto;María López;55;Medio;Baja
+665;2023-10-24;;2;Seguridad;Avances Continuos;36;187;Abierto;María López;55;Medio;Media
+828;2023-09-20;;2;Hardware;Creatividad y Desarrollo;24;116;Abierto;María López;55;Medio;Media
+885;2023-02-18;;5;Hardware;Inteligencia de Datos;72;163;Abierto;María López;55;Medio;Media
+1001;2023-12-04;;3;Software;Soluciones Tecnológicas;24;188;Abierto;María López;55;Medio;Urgente
+1048;2023-08-07;;5;Software;Creatividad y Desarrollo;24;116;Abierto;María López;55;Medio;Media
+1095;2023-12-05;;1;Seguridad;Creatividad y Desarrollo;24;116;Abierto;María López;55;Medio;Alta
+1118;2023-12-05;;3;Software;Creatividad y Desarrollo;24;116;Abierto;María López;55;Medio;Baja
+1150;2023-03-02;;5;Hardware;Innovaciones Creativas;48;138;Abierto;María López;55;Medio;Baja
+1161;2023-08-13;;5;Hardware;Avances Continuos;36;187;Abierto;María López;55;Medio;Alta
+1245;2023-10-26;;4;Software;Soluciones Tecnológicas;24;188;Abierto;María López;55;Medio;Media
+1256;2023-07-11;;5;Seguridad;Servicios Globales;36;106;Abierto;María López;55;Medio;Alta
+1304;2023-11-05;;2;Seguridad;Avances Continuos;36;187;Abierto;María López;55;Medio;Alta
+1492;2023-01-26;;1;Redes;Sostenibilidad y Progreso;48;199;Abierto;María López;55;Medio;Baja
+1545;2023-03-11;;3;Redes;Visión Futurista;72;176;Abierto;María López;55;Medio;Urgente
+1565;2023-09-04;;2;Redes;Inteligencia de Datos;72;163;Abierto;María López;55;Medio;Baja
+1625;2023-02-21;;1;Redes;Sistemas Ecológicos;24;147;Abierto;María López;55;Medio;Baja
+1705;2023-06-01;;4;Redes;Sostenibilidad y Progreso;48;199;Abierto;María López;55;Medio;Media
+1835;2023-12-19;;1;Hardware;Creatividad y Desarrollo;24;116;Abierto;María López;55;Medio;Alta
+1923;2023-10-07;;1;Redes;Sistemas Ecológicos;24;147;Abierto;María López;55;Medio;Urgente
+1990;2023-01-12;;4;Redes;Avances Continuos;36;187;Abierto;María López;55;Medio;Baja
+2131;2023-07-26;;1;Hardware;Visión Futurista;72;176;Abierto;María López;55;Medio;Alta
+2164;2023-05-29;;5;Seguridad;Avances Continuos;36;187;Abierto;María López;55;Medio;Media
+2334;2023-04-10;;2;Seguridad;Soluciones Tecnológicas;24;188;Abierto;María López;55;Medio;Urgente
+2401;2023-01-29;;3;Seguridad;Redes Seguras;48;132;Abierto;María López;55;Medio;Baja
+2758;2023-01-29;;3;Hardware;Sistemas Ecológicos;24;147;Abierto;María López;55;Medio;Urgente
+2767;2023-03-23;;5;Hardware;Soluciones Tecnológicas;24;188;Abierto;María López;55;Medio;Media
+2880;2023-12-02;;5;Seguridad;Soluciones Tecnológicas;24;188;Abierto;María López;55;Medio;Alta
+3324;2023-02-06;;5;Redes;Sistemas Ecológicos;24;147;Abierto;María López;55;Medio;Urgente
+3342;2023-09-09;;2;Seguridad;Creatividad y Desarrollo;24;116;Abierto;María López;55;Medio;Media
+3401;2023-10-19;;3;Software;Inteligencia de Datos;72;163;Abierto;María López;55;Medio;Alta
+3492;2023-12-10;;2;Redes;Avances Continuos;36;187;Abierto;María López;55;Medio;Urgente
+3646;2023-10-13;;1;Seguridad;Sostenibilidad y Progreso;48;199;Abierto;María López;55;Medio;Urgente
+3823;2023-03-25;;4;Seguridad;Visión Futurista;72;176;Abierto;María López;55;Medio;Alta
+3830;2023-12-15;;5;Hardware;Soluciones Tecnológicas;24;188;Abierto;María López;55;Medio;Media
+3831;2023-03-03;;3;Seguridad;Innovaciones Creativas;48;138;Abierto;María López;55;Medio;Baja
+3866;2023-01-07;;4;Hardware;Redes Seguras;48;132;Abierto;María López;55;Medio;Media
+3959;2023-11-14;;3;Redes;Servicios Globales;36;106;Abierto;María López;55;Medio;Urgente
+3993;2023-07-02;;3;Software;Soluciones Tecnológicas;24;188;Abierto;María López;55;Medio;Urgente
+4177;2023-11-02;;1;Redes;Servicios Globales;36;106;Abierto;María López;55;Medio;Urgente
+4407;2023-02-08;;5;Software;Avances Continuos;36;187;Abierto;María López;55;Medio;Alta
+4470;2023-05-13;;4;Software;Redes Seguras;48;132;Abierto;María López;55;Medio;Urgente
+4556;2023-06-24;;5;Seguridad;Sistemas Ecológicos;24;147;Abierto;María López;55;Medio;Alta
+4641;2023-01-01;;5;Hardware;Sistemas Ecológicos;24;147;Abierto;María López;55;Medio;Baja
+4862;2023-05-16;;5;Redes;Avances Continuos;36;187;Abierto;María López;55;Medio;Alta
+4929;2023-08-12;;3;Redes;Sistemas Ecológicos;24;147;Abierto;María López;55;Medio;Urgente
+4995;2023-01-26;;3;Software;Creatividad y Desarrollo;24;116;Abierto;María López;55;Medio;Baja
+5223;2023-04-28;;5;Hardware;Creatividad y Desarrollo;24;116;Abierto;María López;55;Medio;Media
+5317;2023-05-19;;1;Seguridad;Servicios Globales;36;106;Abierto;María López;55;Medio;Alta
+5559;2023-02-03;;5;Hardware;Sostenibilidad y Progreso;48;199;Abierto;María López;55;Medio;Media
+5747;2023-04-27;;5;Hardware;Creatividad y Desarrollo;24;116;Abierto;María López;55;Medio;Baja
+5792;2023-05-03;;3;Seguridad;Sostenibilidad y Progreso;48;199;Abierto;María López;55;Medio;Media
+6184;2023-09-15;;2;Hardware;Avances Continuos;36;187;Abierto;María López;55;Medio;Media
+6248;2023-09-04;;1;Hardware;Servicios Globales;36;106;Abierto;María López;55;Medio;Alta
+6368;2023-04-15;;2;Seguridad;Soluciones Tecnológicas;24;188;Abierto;María López;55;Medio;Urgente
+6406;2023-04-20;;3;Software;Inteligencia de Datos;72;163;Abierto;María López;55;Medio;Media
+6593;2023-11-13;;4;Redes;Servicios Globales;36;106;Abierto;María López;55;Medio;Urgente
+6601;2023-10-23;;4;Hardware;Visión Futurista;72;176;Abierto;María López;55;Medio;Alta
+6697;2023-03-01;;4;Software;Creatividad y Desarrollo;24;116;Abierto;María López;55;Medio;Media
+6867;2023-09-19;;4;Seguridad;Soluciones Tecnológicas;24;188;Abierto;María López;55;Medio;Alta
+6877;2023-08-30;;4;Redes;Avances Continuos;36;187;Abierto;María López;55;Medio;Urgente
+6968;2023-12-27;;4;Hardware;Avances Continuos;36;187;Abierto;María López;55;Medio;Alta
+6989;2023-03-23;;2;Software;Creatividad y Desarrollo;24;116;Abierto;María López;55;Medio;Alta
+7024;2023-03-26;;3;Seguridad;Inteligencia de Datos;72;163;Abierto;María López;55;Medio;Urgente
+7064;2023-05-13;;3;Seguridad;Soluciones Tecnológicas;24;188;Abierto;María López;55;Medio;Urgente
+7493;2023-08-27;;1;Hardware;Innovaciones Creativas;48;138;Abierto;María López;55;Medio;Baja
+7520;2023-08-16;;4;Hardware;Inteligencia de Datos;72;163;Abierto;María López;55;Medio;Alta
+7643;2023-03-15;;1;Software;Redes Seguras;48;132;Abierto;María López;55;Medio;Urgente
+7654;2023-09-20;;5;Seguridad;Inteligencia de Datos;72;163;Abierto;María López;55;Medio;Media
+7866;2023-06-16;;2;Redes;Innovaciones Creativas;48;138;Abierto;María López;55;Medio;Urgente
+7871;2023-10-29;;1;Software;Redes Seguras;48;132;Abierto;María López;55;Medio;Urgente
+7896;2023-08-30;;1;Hardware;Sistemas Ecológicos;24;147;Abierto;María López;55;Medio;Media
+7944;2023-12-06;;5;Software;Soluciones Tecnológicas;24;188;Abierto;María López;55;Medio;Urgente
+8144;2023-09-18;;1;Seguridad;Creatividad y Desarrollo;24;116;Abierto;María López;55;Medio;Urgente
+8205;2023-09-22;;3;Software;Redes Seguras;48;132;Abierto;María López;55;Medio;Alta
+8677;2023-07-30;;2;Software;Creatividad y Desarrollo;24;116;Abierto;María López;55;Medio;Baja
+8749;2023-04-04;;3;Software;Creatividad y Desarrollo;24;116;Abierto;María López;55;Medio;Media
+9137;2023-05-16;;5;Software;Sistemas Ecológicos;24;147;Abierto;María López;55;Medio;Media
+9165;2023-09-03;;2;Software;Soluciones Tecnológicas;24;188;Abierto;María López;55;Medio;Baja
+9446;2023-02-03;;2;Redes;Sistemas Ecológicos;24;147;Abierto;María López;55;Medio;Baja
+9466;2023-06-30;;3;Software;Innovaciones Creativas;48;138;Abierto;María López;55;Medio;Alta
+9676;2023-09-28;;1;Software;Creatividad y Desarrollo;24;116;Abierto;María López;55;Medio;Urgente
+9741;2023-09-10;;5;Seguridad;Visión Futurista;72;176;Abierto;María López;55;Medio;Urgente
+9744;2023-04-04;;4;Software;Creatividad y Desarrollo;24;116;Abierto;María López;55;Medio;Media
+9769;2023-04-17;;5;Software;Avances Continuos;36;187;Abierto;María López;55;Medio;Alta
+9834;2023-02-25;;1;Seguridad;Sostenibilidad y Progreso;48;199;Abierto;María López;55;Medio;Alta
+9929;2023-06-23;;2;Hardware;Sistemas Ecológicos;24;147;Abierto;María López;55;Medio;Alta
+9938;2023-05-07;;1;Software;Avances Continuos;36;187;Abierto;María López;55;Medio;Baja
+43;2023-06-21;;3;Redes;Inteligencia de Datos;72;163;Cerrado;Jorge Martín;65;Junior;Media
+50;2023-07-21;;2;Hardware;Sostenibilidad y Progreso;48;199;En Progreso;Jorge Martín;65;Junior;Baja
+70;2023-11-12;;1;Seguridad;Sistemas Ecológicos;24;147;Cerrado;Jorge Martín;65;Junior;Alta
+84;2023-07-18;;2;Seguridad;Servicios Globales;36;106;En Progreso;Jorge Martín;65;Junior;Urgente
+261;2023-08-20;;1;Seguridad;Redes Seguras;48;132;En Progreso;Jorge Martín;65;Junior;Baja
+309;2023-10-30;;1;Hardware;Sistemas Ecológicos;24;147;En Progreso;Jorge Martín;65;Junior;Alta
+677;2023-03-18;;5;Seguridad;Visión Futurista;72;176;Abierto;Jorge Martín;65;Junior;Alta
+688;2023-08-21;;5;Redes;Inteligencia de Datos;72;163;Abierto;Jorge Martín;65;Junior;Urgente
+738;2023-06-19;;2;Hardware;Sostenibilidad y Progreso;48;199;En Progreso;Jorge Martín;65;Junior;Media
+839;2023-11-25;;2;Hardware;Sostenibilidad y Progreso;48;199;Cerrado;Jorge Martín;65;Junior;Media
+880;2023-01-06;;1;Redes;Creatividad y Desarrollo;24;116;Abierto;Jorge Martín;65;Junior;Media
+926;2023-04-30;;2;Redes;Servicios Globales;36;106;Abierto;Jorge Martín;65;Junior;Urgente
+962;2023-12-31;;3;Redes;Redes Seguras;48;132;En Progreso;Jorge Martín;65;Junior;Urgente
+971;2023-03-06;;5;Redes;Sostenibilidad y Progreso;48;199;En Progreso;Jorge Martín;65;Junior;Baja
+1041;2023-09-05;;5;Software;Innovaciones Creativas;48;138;Abierto;Jorge Martín;65;Junior;Media
+1043;2023-10-04;;1;Software;Innovaciones Creativas;48;138;En Progreso;Jorge Martín;65;Junior;Urgente
+1085;2023-08-05;;1;Seguridad;Sistemas Ecológicos;24;147;Abierto;Jorge Martín;65;Junior;Baja
+1092;2023-01-25;;3;Software;Creatividad y Desarrollo;24;116;Abierto;Jorge Martín;65;Junior;Media
+1156;2023-11-02;;2;Hardware;Visión Futurista;72;176;Cerrado;Jorge Martín;65;Junior;Media
+1179;2023-03-06;;3;Redes;Sistemas Ecológicos;24;147;Cerrado;Jorge Martín;65;Junior;Media
+1232;2023-09-03;;5;Software;Avances Continuos;36;187;En Progreso;Jorge Martín;65;Junior;Urgente
+1262;2023-11-04;;1;Seguridad;Soluciones Tecnológicas;24;188;Abierto;Jorge Martín;65;Junior;Urgente
+1276;2023-06-16;;5;Redes;Innovaciones Creativas;48;138;Cerrado;Jorge Martín;65;Junior;Urgente
+1284;2023-01-16;;5;Software;Soluciones Tecnológicas;24;188;En Progreso;Jorge Martín;65;Junior;Alta
+1285;2023-01-06;;2;Software;Avances Continuos;36;187;Abierto;Jorge Martín;65;Junior;Baja
+1346;2023-05-09;;2;Redes;Avances Continuos;36;187;Cerrado;Jorge Martín;65;Junior;Alta
+1347;2023-07-25;;3;Redes;Redes Seguras;48;132;En Progreso;Jorge Martín;65;Junior;Media
+1382;2023-11-25;;2;Hardware;Innovaciones Creativas;48;138;En Progreso;Jorge Martín;65;Junior;Urgente
+1458;2023-01-17;;2;Seguridad;Sistemas Ecológicos;24;147;Cerrado;Jorge Martín;65;Junior;Baja
+1468;2023-01-14;;1;Seguridad;Inteligencia de Datos;72;163;En Progreso;Jorge Martín;65;Junior;Urgente
+1506;2023-11-21;;2;Redes;Servicios Globales;36;106;En Progreso;Jorge Martín;65;Junior;Alta
+1607;2023-10-12;;2;Hardware;Sostenibilidad y Progreso;48;199;Abierto;Jorge Martín;65;Junior;Urgente
+1647;2023-09-08;;2;Seguridad;Redes Seguras;48;132;Abierto;Jorge Martín;65;Junior;Alta
+1664;2023-04-08;;2;Software;Servicios Globales;36;106;Cerrado;Jorge Martín;65;Junior;Urgente
+1751;2023-12-24;;5;Hardware;Creatividad y Desarrollo;24;116;Abierto;Jorge Martín;65;Junior;Alta
+1758;2023-07-18;;5;Redes;Soluciones Tecnológicas;24;188;En Progreso;Jorge Martín;65;Junior;Media
+1777;2023-07-04;;2;Redes;Sistemas Ecológicos;24;147;Abierto;Jorge Martín;65;Junior;Urgente
+1860;2023-04-04;;5;Seguridad;Redes Seguras;48;132;Abierto;Jorge Martín;65;Junior;Urgente
+1965;2023-07-15;;1;Redes;Avances Continuos;36;187;Cerrado;Jorge Martín;65;Junior;Media
+2000;2023-12-18;;2;Seguridad;Creatividad y Desarrollo;24;116;Cerrado;Jorge Martín;65;Junior;Baja
+2004;2023-08-19;;5;Seguridad;Innovaciones Creativas;48;138;Abierto;Jorge Martín;65;Junior;Baja
+2032;2023-06-28;;5;Hardware;Sistemas Ecológicos;24;147;Abierto;Jorge Martín;65;Junior;Baja
+2048;2023-03-30;;1;Hardware;Soluciones Tecnológicas;24;188;Cerrado;Jorge Martín;65;Junior;Alta
+2064;2023-05-31;;2;Seguridad;Redes Seguras;48;132;Cerrado;Jorge Martín;65;Junior;Baja
+2151;2023-07-14;;1;Hardware;Redes Seguras;48;132;Cerrado;Jorge Martín;65;Junior;Urgente
+2172;2023-08-16;;1;Redes;Sostenibilidad y Progreso;48;199;En Progreso;Jorge Martín;65;Junior;Baja
+2231;2023-11-09;;5;Redes;Sistemas Ecológicos;24;147;Abierto;Jorge Martín;65;Junior;Media
+2280;2023-03-29;;2;Redes;Visión Futurista;72;176;Abierto;Jorge Martín;65;Junior;Urgente
+2287;2023-07-01;;3;Software;Soluciones Tecnológicas;24;188;Abierto;Jorge Martín;65;Junior;Baja
+2356;2023-11-24;;2;Seguridad;Redes Seguras;48;132;En Progreso;Jorge Martín;65;Junior;Media
+2360;2023-07-26;;2;Seguridad;Sistemas Ecológicos;24;147;Abierto;Jorge Martín;65;Junior;Alta
+2365;2023-06-25;;5;Seguridad;Sistemas Ecológicos;24;147;En Progreso;Jorge Martín;65;Junior;Urgente
+2718;2023-02-08;;1;Software;Inteligencia de Datos;72;163;Cerrado;Jorge Martín;65;Junior;Alta
+2739;2023-11-17;;5;Seguridad;Sostenibilidad y Progreso;48;199;En Progreso;Jorge Martín;65;Junior;Urgente
+2762;2023-03-01;;3;Redes;Avances Continuos;36;187;En Progreso;Jorge Martín;65;Junior;Alta
+2861;2023-07-07;;5;Hardware;Innovaciones Creativas;48;138;Cerrado;Jorge Martín;65;Junior;Urgente
+2961;2023-01-14;;2;Software;Inteligencia de Datos;72;163;En Progreso;Jorge Martín;65;Junior;Urgente
+2996;2023-01-25;;1;Redes;Visión Futurista;72;176;Abierto;Jorge Martín;65;Junior;Alta
+3023;2023-05-18;;1;Software;Sostenibilidad y Progreso;48;199;Abierto;Jorge Martín;65;Junior;Alta
+3080;2023-11-19;;1;Seguridad;Avances Continuos;36;187;Cerrado;Jorge Martín;65;Junior;Urgente
+3091;2023-07-24;;3;Hardware;Sostenibilidad y Progreso;48;199;Cerrado;Jorge Martín;65;Junior;Baja
+3179;2023-01-01;;3;Software;Creatividad y Desarrollo;24;116;Cerrado;Jorge Martín;65;Junior;Baja
+3189;2023-12-31;;1;Seguridad;Avances Continuos;36;187;Abierto;Jorge Martín;65;Junior;Baja
+3223;2023-08-20;;2;Seguridad;Inteligencia de Datos;72;163;En Progreso;Jorge Martín;65;Junior;Alta
+3266;2023-01-15;;1;Software;Inteligencia de Datos;72;163;Abierto;Jorge Martín;65;Junior;Baja
+3325;2023-07-15;;5;Hardware;Servicios Globales;36;106;En Progreso;Jorge Martín;65;Junior;Media
+3327;2023-06-17;;5;Hardware;Sostenibilidad y Progreso;48;199;Cerrado;Jorge Martín;65;Junior;Media
+3353;2023-11-02;;5;Redes;Soluciones Tecnológicas;24;188;En Progreso;Jorge Martín;65;Junior;Media
+3366;2023-11-01;;3;Hardware;Avances Continuos;36;187;Cerrado;Jorge Martín;65;Junior;Media
+3414;2023-11-04;;3;Redes;Creatividad y Desarrollo;24;116;En Progreso;Jorge Martín;65;Junior;Baja
+3426;2023-05-10;;1;Seguridad;Avances Continuos;36;187;Cerrado;Jorge Martín;65;Junior;Alta
+3429;2023-12-21;;3;Seguridad;Visión Futurista;72;176;Cerrado;Jorge Martín;65;Junior;Alta
+3531;2023-03-09;;1;Software;Avances Continuos;36;187;Cerrado;Jorge Martín;65;Junior;Alta
+3550;2023-06-05;;2;Software;Avances Continuos;36;187;Abierto;Jorge Martín;65;Junior;Baja
+3610;2023-08-08;;2;Hardware;Creatividad y Desarrollo;24;116;En Progreso;Jorge Martín;65;Junior;Urgente
+3662;2023-06-08;;2;Seguridad;Creatividad y Desarrollo;24;116;Abierto;Jorge Martín;65;Junior;Baja
+3693;2023-05-13;;2;Redes;Avances Continuos;36;187;En Progreso;Jorge Martín;65;Junior;Media
+3731;2023-12-15;;3;Seguridad;Sistemas Ecológicos;24;147;Cerrado;Jorge Martín;65;Junior;Baja
+3775;2023-01-28;;1;Software;Soluciones Tecnológicas;24;188;Abierto;Jorge Martín;65;Junior;Baja
+3869;2023-05-26;;1;Hardware;Innovaciones Creativas;48;138;Abierto;Jorge Martín;65;Junior;Urgente
+3871;2023-02-01;;3;Seguridad;Innovaciones Creativas;48;138;Cerrado;Jorge Martín;65;Junior;Alta
+3898;2023-12-06;;3;Software;Soluciones Tecnológicas;24;188;Abierto;Jorge Martín;65;Junior;Baja
+3937;2023-03-30;;2;Seguridad;Visión Futurista;72;176;Abierto;Jorge Martín;65;Junior;Baja
+4041;2023-07-25;;2;Redes;Servicios Globales;36;106;Abierto;Jorge Martín;65;Junior;Urgente
+4171;2023-01-24;;2;Software;Avances Continuos;36;187;En Progreso;Jorge Martín;65;Junior;Urgente
+4229;2023-06-17;;2;Redes;Soluciones Tecnológicas;24;188;En Progreso;Jorge Martín;65;Junior;Baja
+4256;2023-02-23;;3;Seguridad;Creatividad y Desarrollo;24;116;Cerrado;Jorge Martín;65;Junior;Baja
+4280;2023-01-12;;1;Redes;Avances Continuos;36;187;En Progreso;Jorge Martín;65;Junior;Alta
+4311;2023-09-30;;1;Redes;Avances Continuos;36;187;Cerrado;Jorge Martín;65;Junior;Media
+4372;2023-12-14;;3;Software;Redes Seguras;48;132;Cerrado;Jorge Martín;65;Junior;Media
+4373;2023-01-01;;3;Hardware;Sostenibilidad y Progreso;48;199;Cerrado;Jorge Martín;65;Junior;Media
+4388;2023-02-24;;1;Software;Visión Futurista;72;176;Abierto;Jorge Martín;65;Junior;Urgente
+4511;2023-09-04;;5;Seguridad;Creatividad y Desarrollo;24;116;Cerrado;Jorge Martín;65;Junior;Media
+4519;2023-04-15;;5;Software;Soluciones Tecnológicas;24;188;En Progreso;Jorge Martín;65;Junior;Media
+4626;2023-01-31;;2;Redes;Visión Futurista;72;176;En Progreso;Jorge Martín;65;Junior;Urgente
+4722;2023-08-30;;2;Seguridad;Servicios Globales;36;106;Cerrado;Jorge Martín;65;Junior;Urgente
+4730;2023-07-12;;5;Hardware;Avances Continuos;36;187;Abierto;Jorge Martín;65;Junior;Alta
+4760;2023-09-21;;3;Software;Innovaciones Creativas;48;138;Abierto;Jorge Martín;65;Junior;Baja
+4763;2023-04-16;;2;Redes;Soluciones Tecnológicas;24;188;Abierto;Jorge Martín;65;Junior;Alta
+4769;2023-09-03;;5;Redes;Avances Continuos;36;187;Cerrado;Jorge Martín;65;Junior;Alta
+4905;2023-04-20;;3;Redes;Visión Futurista;72;176;Cerrado;Jorge Martín;65;Junior;Urgente
+4935;2023-03-25;;3;Redes;Creatividad y Desarrollo;24;116;En Progreso;Jorge Martín;65;Junior;Urgente
+4970;2023-07-03;;1;Seguridad;Servicios Globales;36;106;Abierto;Jorge Martín;65;Junior;Alta
+5002;2023-10-13;;2;Redes;Soluciones Tecnológicas;24;188;En Progreso;Jorge Martín;65;Junior;Alta
+5032;2023-09-23;;2;Software;Avances Continuos;36;187;Cerrado;Jorge Martín;65;Junior;Urgente
+5068;2023-10-26;;3;Hardware;Innovaciones Creativas;48;138;Abierto;Jorge Martín;65;Junior;Urgente
+5135;2023-05-14;;2;Redes;Innovaciones Creativas;48;138;Cerrado;Jorge Martín;65;Junior;Alta
+5171;2023-02-08;;2;Redes;Creatividad y Desarrollo;24;116;En Progreso;Jorge Martín;65;Junior;Baja
+5189;2023-09-23;;5;Hardware;Sostenibilidad y Progreso;48;199;Cerrado;Jorge Martín;65;Junior;Baja
+5278;2023-06-24;;2;Seguridad;Creatividad y Desarrollo;24;116;Cerrado;Jorge Martín;65;Junior;Alta
+5320;2023-05-03;;1;Software;Inteligencia de Datos;72;163;Cerrado;Jorge Martín;65;Junior;Alta
+5339;2023-06-23;;2;Redes;Sostenibilidad y Progreso;48;199;Abierto;Jorge Martín;65;Junior;Media
+5390;2023-06-14;;2;Software;Creatividad y Desarrollo;24;116;Abierto;Jorge Martín;65;Junior;Baja
+5428;2023-05-16;;1;Redes;Visión Futurista;72;176;Cerrado;Jorge Martín;65;Junior;Media
+5613;2023-10-10;;1;Hardware;Visión Futurista;72;176;Cerrado;Jorge Martín;65;Junior;Alta
+5653;2023-07-10;;3;Redes;Inteligencia de Datos;72;163;En Progreso;Jorge Martín;65;Junior;Baja
+5703;2023-03-15;;5;Software;Soluciones Tecnológicas;24;188;En Progreso;Jorge Martín;65;Junior;Alta
+5763;2023-02-04;;3;Redes;Avances Continuos;36;187;En Progreso;Jorge Martín;65;Junior;Alta
+5818;2023-06-14;;5;Hardware;Creatividad y Desarrollo;24;116;Cerrado;Jorge Martín;65;Junior;Media
+5860;2023-02-25;;1;Redes;Inteligencia de Datos;72;163;Cerrado;Jorge Martín;65;Junior;Media
+5911;2023-10-10;;2;Hardware;Inteligencia de Datos;72;163;Cerrado;Jorge Martín;65;Junior;Baja
+5970;2023-05-08;;2;Redes;Soluciones Tecnológicas;24;188;Abierto;Jorge Martín;65;Junior;Baja
+5984;2023-05-15;;5;Hardware;Creatividad y Desarrollo;24;116;En Progreso;Jorge Martín;65;Junior;Media
+5998;2023-06-09;;1;Seguridad;Innovaciones Creativas;48;138;En Progreso;Jorge Martín;65;Junior;Urgente
+6044;2023-01-21;;3;Software;Visión Futurista;72;176;En Progreso;Jorge Martín;65;Junior;Baja
+6069;2023-08-22;;1;Seguridad;Visión Futurista;72;176;Abierto;Jorge Martín;65;Junior;Media
+6096;2023-12-07;;3;Redes;Sostenibilidad y Progreso;48;199;Abierto;Jorge Martín;65;Junior;Media
+6098;2023-10-10;;5;Hardware;Visión Futurista;72;176;Cerrado;Jorge Martín;65;Junior;Alta
+6157;2023-05-04;;2;Redes;Sistemas Ecológicos;24;147;En Progreso;Jorge Martín;65;Junior;Media
+6171;2023-12-06;;2;Seguridad;Soluciones Tecnológicas;24;188;Cerrado;Jorge Martín;65;Junior;Alta
+6340;2023-10-07;;2;Redes;Servicios Globales;36;106;Abierto;Jorge Martín;65;Junior;Urgente
+6385;2023-04-06;;2;Seguridad;Inteligencia de Datos;72;163;Abierto;Jorge Martín;65;Junior;Alta
+6429;2023-09-14;;2;Hardware;Avances Continuos;36;187;En Progreso;Jorge Martín;65;Junior;Urgente
+6488;2023-04-21;;5;Hardware;Avances Continuos;36;187;Abierto;Jorge Martín;65;Junior;Baja
+6509;2023-09-03;;3;Redes;Innovaciones Creativas;48;138;Abierto;Jorge Martín;65;Junior;Urgente
+6513;2023-10-16;;3;Software;Sostenibilidad y Progreso;48;199;Cerrado;Jorge Martín;65;Junior;Urgente
+6565;2023-09-12;;1;Hardware;Visión Futurista;72;176;Abierto;Jorge Martín;65;Junior;Urgente
+6605;2023-01-23;;5;Software;Visión Futurista;72;176;Abierto;Jorge Martín;65;Junior;Urgente
+6622;2023-10-16;;2;Hardware;Avances Continuos;36;187;Cerrado;Jorge Martín;65;Junior;Media
+6698;2023-07-07;;3;Seguridad;Inteligencia de Datos;72;163;En Progreso;Jorge Martín;65;Junior;Urgente
+6701;2023-07-30;;2;Hardware;Inteligencia de Datos;72;163;Cerrado;Jorge Martín;65;Junior;Urgente
+6845;2023-01-25;;2;Hardware;Soluciones Tecnológicas;24;188;Cerrado;Jorge Martín;65;Junior;Baja
+6846;2023-07-26;;3;Software;Sostenibilidad y Progreso;48;199;En Progreso;Jorge Martín;65;Junior;Media
+6940;2023-02-27;;1;Seguridad;Inteligencia de Datos;72;163;Cerrado;Jorge Martín;65;Junior;Baja
+6943;2023-09-03;;5;Seguridad;Creatividad y Desarrollo;24;116;Cerrado;Jorge Martín;65;Junior;Alta
+6946;2023-09-22;;3;Hardware;Soluciones Tecnológicas;24;188;Cerrado;Jorge Martín;65;Junior;Baja
+6951;2023-01-22;;5;Software;Inteligencia de Datos;72;163;Abierto;Jorge Martín;65;Junior;Alta
+6965;2023-01-10;;1;Hardware;Creatividad y Desarrollo;24;116;Abierto;Jorge Martín;65;Junior;Alta
+7006;2023-10-10;;1;Redes;Servicios Globales;36;106;Abierto;Jorge Martín;65;Junior;Media
+7016;2023-02-26;;3;Seguridad;Sistemas Ecológicos;24;147;Cerrado;Jorge Martín;65;Junior;Urgente
+7050;2023-03-09;;1;Software;Creatividad y Desarrollo;24;116;En Progreso;Jorge Martín;65;Junior;Alta
+7151;2023-02-18;;3;Software;Creatividad y Desarrollo;24;116;En Progreso;Jorge Martín;65;Junior;Baja
+7199;2023-06-23;;3;Software;Sostenibilidad y Progreso;48;199;Cerrado;Jorge Martín;65;Junior;Alta
+7299;2023-07-02;;3;Software;Avances Continuos;36;187;En Progreso;Jorge Martín;65;Junior;Urgente
+7309;2023-07-05;;3;Hardware;Inteligencia de Datos;72;163;Cerrado;Jorge Martín;65;Junior;Baja
+7325;2023-11-21;;5;Seguridad;Sistemas Ecológicos;24;147;Cerrado;Jorge Martín;65;Junior;Urgente
+7338;2023-10-10;;5;Redes;Inteligencia de Datos;72;163;En Progreso;Jorge Martín;65;Junior;Media
+7382;2023-06-03;;5;Hardware;Servicios Globales;36;106;Cerrado;Jorge Martín;65;Junior;Media
+7397;2023-05-08;;3;Seguridad;Sostenibilidad y Progreso;48;199;Abierto;Jorge Martín;65;Junior;Baja
+7496;2023-12-09;;5;Software;Redes Seguras;48;132;Abierto;Jorge Martín;65;Junior;Alta
+7561;2023-11-02;;2;Software;Innovaciones Creativas;48;138;Cerrado;Jorge Martín;65;Junior;Alta
+7601;2023-10-23;;3;Software;Inteligencia de Datos;72;163;Abierto;Jorge Martín;65;Junior;Media
+7662;2023-05-19;;5;Hardware;Visión Futurista;72;176;Cerrado;Jorge Martín;65;Junior;Media
+7687;2023-11-26;;3;Hardware;Servicios Globales;36;106;En Progreso;Jorge Martín;65;Junior;Urgente
+7723;2023-10-06;;5;Redes;Servicios Globales;36;106;Abierto;Jorge Martín;65;Junior;Alta
+7762;2023-01-21;;3;Redes;Visión Futurista;72;176;Abierto;Jorge Martín;65;Junior;Alta
+7791;2023-08-12;;1;Software;Soluciones Tecnológicas;24;188;Abierto;Jorge Martín;65;Junior;Urgente
+7810;2023-10-22;;3;Redes;Soluciones Tecnológicas;24;188;Cerrado;Jorge Martín;65;Junior;Urgente
+7870;2023-04-04;;3;Redes;Inteligencia de Datos;72;163;Cerrado;Jorge Martín;65;Junior;Urgente
+7878;2023-08-16;;5;Seguridad;Sostenibilidad y Progreso;48;199;Abierto;Jorge Martín;65;Junior;Alta
+7890;2023-01-20;;2;Redes;Redes Seguras;48;132;Abierto;Jorge Martín;65;Junior;Urgente
+8146;2023-04-26;;1;Redes;Avances Continuos;36;187;En Progreso;Jorge Martín;65;Junior;Media
+8288;2023-11-17;;3;Software;Soluciones Tecnológicas;24;188;Abierto;Jorge Martín;65;Junior;Urgente
+8314;2023-05-06;;1;Software;Avances Continuos;36;187;Abierto;Jorge Martín;65;Junior;Baja
+8336;2023-07-11;;1;Seguridad;Sostenibilidad y Progreso;48;199;En Progreso;Jorge Martín;65;Junior;Media
+8385;2023-10-24;;1;Software;Servicios Globales;36;106;Cerrado;Jorge Martín;65;Junior;Urgente
+8475;2023-05-23;;5;Seguridad;Avances Continuos;36;187;Abierto;Jorge Martín;65;Junior;Media
+8479;2023-05-03;;3;Software;Soluciones Tecnológicas;24;188;Cerrado;Jorge Martín;65;Junior;Alta
+8488;2023-11-17;;2;Hardware;Avances Continuos;36;187;Abierto;Jorge Martín;65;Junior;Baja
+8516;2023-03-27;;1;Software;Soluciones Tecnológicas;24;188;Cerrado;Jorge Martín;65;Junior;Urgente
+8579;2023-03-30;;1;Redes;Creatividad y Desarrollo;24;116;Cerrado;Jorge Martín;65;Junior;Baja
+8629;2023-03-22;;2;Seguridad;Avances Continuos;36;187;Cerrado;Jorge Martín;65;Junior;Alta
+8742;2023-02-27;;3;Hardware;Inteligencia de Datos;72;163;En Progreso;Jorge Martín;65;Junior;Baja
+8777;2023-01-14;;3;Redes;Creatividad y Desarrollo;24;116;En Progreso;Jorge Martín;65;Junior;Alta
+8797;2023-01-23;;3;Software;Sostenibilidad y Progreso;48;199;Cerrado;Jorge Martín;65;Junior;Alta
+8823;2023-07-30;;2;Redes;Soluciones Tecnológicas;24;188;Cerrado;Jorge Martín;65;Junior;Alta
+9160;2023-04-01;;3;Software;Visión Futurista;72;176;En Progreso;Jorge Martín;65;Junior;Media
+9273;2023-05-17;;3;Hardware;Redes Seguras;48;132;En Progreso;Jorge Martín;65;Junior;Alta
+9309;2023-11-29;;1;Seguridad;Innovaciones Creativas;48;138;Cerrado;Jorge Martín;65;Junior;Alta
+9397;2023-09-04;;3;Software;Innovaciones Creativas;48;138;Cerrado;Jorge Martín;65;Junior;Media
+9594;2023-02-22;;5;Hardware;Visión Futurista;72;176;Abierto;Jorge Martín;65;Junior;Alta
+9640;2023-04-29;;1;Seguridad;Servicios Globales;36;106;Abierto;Jorge Martín;65;Junior;Alta
+9685;2023-07-13;;2;Redes;Visión Futurista;72;176;Cerrado;Jorge Martín;65;Junior;Urgente
+9746;2023-03-08;;5;Seguridad;Servicios Globales;36;106;En Progreso;Jorge Martín;65;Junior;Alta
+9754;2023-10-09;;5;Software;Servicios Globales;36;106;Abierto;Jorge Martín;65;Junior;Urgente
+9765;2023-10-14;;5;Seguridad;Redes Seguras;48;132;Abierto;Jorge Martín;65;Junior;Urgente
+9904;2023-03-27;;5;Seguridad;Creatividad y Desarrollo;24;116;Cerrado;Jorge Martín;65;Junior;Media
+9982;2023-09-06;;2;Software;Visión Futurista;72;176;Cerrado;Jorge Martín;65;Junior;Baja
+20;2023-12-08;;4;Seguridad;Visión Futurista;72;176;Cerrado;Jorge Martín;65;Junior;Alta
+26;2023-03-30;;4;Hardware;Soluciones Tecnológicas;24;188;Abierto;Jorge Martín;65;Junior;Media
+234;2023-10-04;;4;Software;Sostenibilidad y Progreso;48;199;Abierto;Jorge Martín;65;Junior;Baja
+239;2023-10-01;;4;Hardware;Redes Seguras;48;132;Cerrado;Jorge Martín;65;Junior;Alta
+320;2023-07-24;;4;Hardware;Inteligencia de Datos;72;163;Abierto;Jorge Martín;65;Junior;Media
+515;2023-12-11;;4;Hardware;Soluciones Tecnológicas;24;188;Abierto;Jorge Martín;65;Junior;Baja
+960;2023-11-01;;4;Redes;Visión Futurista;72;176;Cerrado;Jorge Martín;65;Junior;Baja
+961;2023-08-05;;4;Redes;Avances Continuos;36;187;Cerrado;Jorge Martín;65;Junior;Media
+1063;2023-08-11;;4;Seguridad;Inteligencia de Datos;72;163;En Progreso;Jorge Martín;65;Junior;Alta
+1098;2023-07-01;;4;Seguridad;Sostenibilidad y Progreso;48;199;Cerrado;Jorge Martín;65;Junior;Baja
+1362;2023-10-11;;4;Hardware;Inteligencia de Datos;72;163;Cerrado;Jorge Martín;65;Junior;Baja
+1452;2023-01-09;;4;Seguridad;Soluciones Tecnológicas;24;188;Abierto;Jorge Martín;65;Junior;Media
+1663;2023-09-30;;4;Redes;Avances Continuos;36;187;En Progreso;Jorge Martín;65;Junior;Media
+1884;2023-09-03;;4;Software;Sistemas Ecológicos;24;147;Cerrado;Jorge Martín;65;Junior;Baja
+1894;2023-08-30;;4;Software;Sostenibilidad y Progreso;48;199;En Progreso;Jorge Martín;65;Junior;Alta
+1997;2023-04-01;;4;Software;Sistemas Ecológicos;24;147;Cerrado;Jorge Martín;65;Junior;Alta
+2140;2023-01-04;;4;Hardware;Servicios Globales;36;106;Abierto;Jorge Martín;65;Junior;Baja
+2400;2023-09-01;;4;Redes;Avances Continuos;36;187;Cerrado;Jorge Martín;65;Junior;Media
+2582;2023-12-10;;4;Software;Redes Seguras;48;132;Abierto;Jorge Martín;65;Junior;Media
+2621;2023-05-31;;4;Software;Sistemas Ecológicos;24;147;En Progreso;Jorge Martín;65;Junior;Alta
+2690;2023-09-30;;4;Hardware;Sostenibilidad y Progreso;48;199;Abierto;Jorge Martín;65;Junior;Alta
+2888;2023-05-28;;4;Hardware;Servicios Globales;36;106;En Progreso;Jorge Martín;65;Junior;Alta
+2892;2023-11-24;;4;Software;Avances Continuos;36;187;Cerrado;Jorge Martín;65;Junior;Media
+2974;2023-03-23;;4;Hardware;Innovaciones Creativas;48;138;En Progreso;Jorge Martín;65;Junior;Alta
+3061;2023-07-07;;4;Software;Soluciones Tecnológicas;24;188;Abierto;Jorge Martín;65;Junior;Alta
+3283;2023-12-26;;4;Seguridad;Soluciones Tecnológicas;24;188;En Progreso;Jorge Martín;65;Junior;Urgente
+3302;2023-10-18;;4;Seguridad;Sistemas Ecológicos;24;147;En Progreso;Jorge Martín;65;Junior;Alta
+3479;2023-07-25;;4;Redes;Avances Continuos;36;187;Cerrado;Jorge Martín;65;Junior;Alta
+3624;2023-02-01;;4;Redes;Visión Futurista;72;176;Abierto;Jorge Martín;65;Junior;Alta
+3950;2023-09-17;;4;Software;Servicios Globales;36;106;Cerrado;Jorge Martín;65;Junior;Baja
+3974;2023-03-10;;4;Seguridad;Avances Continuos;36;187;En Progreso;Jorge Martín;65;Junior;Media
+4035;2023-07-13;;4;Seguridad;Soluciones Tecnológicas;24;188;Abierto;Jorge Martín;65;Junior;Baja
+4221;2023-04-06;;4;Software;Inteligencia de Datos;72;163;Abierto;Jorge Martín;65;Junior;Baja
+4301;2023-12-06;;4;Software;Innovaciones Creativas;48;138;Cerrado;Jorge Martín;65;Junior;Alta
+4472;2023-05-22;;4;Seguridad;Servicios Globales;36;106;Abierto;Jorge Martín;65;Junior;Baja
+4638;2023-03-13;;4;Software;Soluciones Tecnológicas;24;188;Cerrado;Jorge Martín;65;Junior;Media
+4651;2023-05-07;;4;Seguridad;Creatividad y Desarrollo;24;116;Cerrado;Jorge Martín;65;Junior;Alta
+4975;2023-06-11;;4;Hardware;Servicios Globales;36;106;En Progreso;Jorge Martín;65;Junior;Media
+5091;2023-09-12;;4;Redes;Inteligencia de Datos;72;163;Abierto;Jorge Martín;65;Junior;Urgente
+5176;2023-07-19;;4;Seguridad;Creatividad y Desarrollo;24;116;Cerrado;Jorge Martín;65;Junior;Baja
+5272;2023-07-16;;4;Software;Servicios Globales;36;106;En Progreso;Jorge Martín;65;Junior;Baja
+5325;2023-04-01;;4;Redes;Sostenibilidad y Progreso;48;199;En Progreso;Jorge Martín;65;Junior;Media
+5562;2023-01-24;;4;Software;Avances Continuos;36;187;En Progreso;Jorge Martín;65;Junior;Media
+6075;2023-04-26;;4;Hardware;Soluciones Tecnológicas;24;188;En Progreso;Jorge Martín;65;Junior;Alta
+6438;2023-11-12;;4;Hardware;Sistemas Ecológicos;24;147;Cerrado;Jorge Martín;65;Junior;Baja
+6451;2023-09-15;;4;Software;Soluciones Tecnológicas;24;188;En Progreso;Jorge Martín;65;Junior;Urgente
+6499;2023-01-27;;4;Seguridad;Creatividad y Desarrollo;24;116;Cerrado;Jorge Martín;65;Junior;Alta
+6559;2023-05-30;;4;Software;Soluciones Tecnológicas;24;188;En Progreso;Jorge Martín;65;Junior;Baja
+6611;2023-09-20;;4;Software;Redes Seguras;48;132;Cerrado;Jorge Martín;65;Junior;Urgente
+6644;2023-10-02;;4;Seguridad;Soluciones Tecnológicas;24;188;Abierto;Jorge Martín;65;Junior;Baja
+6679;2023-12-20;;4;Hardware;Sistemas Ecológicos;24;147;Cerrado;Jorge Martín;65;Junior;Baja
+6972;2023-09-23;;4;Hardware;Sistemas Ecológicos;24;147;Abierto;Jorge Martín;65;Junior;Urgente
+7031;2023-06-10;;4;Seguridad;Servicios Globales;36;106;En Progreso;Jorge Martín;65;Junior;Baja
+7554;2023-04-09;;4;Hardware;Avances Continuos;36;187;En Progreso;Jorge Martín;65;Junior;Urgente
+7573;2023-10-27;;4;Seguridad;Soluciones Tecnológicas;24;188;Cerrado;Jorge Martín;65;Junior;Media
+7685;2023-03-31;;4;Hardware;Avances Continuos;36;187;Abierto;Jorge Martín;65;Junior;Media
+7694;2023-07-02;;4;Seguridad;Servicios Globales;36;106;Abierto;Jorge Martín;65;Junior;Alta
+7928;2023-12-05;;4;Hardware;Visión Futurista;72;176;Cerrado;Jorge Martín;65;Junior;Alta
+8128;2023-05-23;;4;Seguridad;Avances Continuos;36;187;En Progreso;Jorge Martín;65;Junior;Urgente
+8578;2023-02-01;;4;Hardware;Redes Seguras;48;132;En Progreso;Jorge Martín;65;Junior;Baja
+8655;2023-05-10;;4;Hardware;Visión Futurista;72;176;Abierto;Jorge Martín;65;Junior;Alta
+8659;2023-05-26;;4;Seguridad;Servicios Globales;36;106;Abierto;Jorge Martín;65;Junior;Urgente
+8860;2023-08-21;;4;Redes;Visión Futurista;72;176;En Progreso;Jorge Martín;65;Junior;Media
+9477;2023-05-11;;4;Seguridad;Innovaciones Creativas;48;138;En Progreso;Jorge Martín;65;Junior;Baja
+9563;2023-11-17;;4;Software;Inteligencia de Datos;72;163;En Progreso;Jorge Martín;65;Junior;Baja
+9639;2023-03-31;;4;Redes;Sostenibilidad y Progreso;48;199;Abierto;Jorge Martín;65;Junior;Urgente
+9701;2023-09-05;;4;Software;Sistemas Ecológicos;24;147;Cerrado;Jorge Martín;65;Junior;Media
+5;2023-02-04;2023-08-16;5;Software;Servicios Globales;36;106;Abierto;María López;55;Medio;Urgente
+57;2023-10-01;2023-12-13;4;Hardware;Inteligencia de Datos;72;163;En Progreso;María López;55;Medio;Alta
+230;2023-02-21;2023-05-21;5;Software;Sostenibilidad y Progreso;48;199;Abierto;María López;55;Medio;Urgente
+252;2023-08-14;2023-12-07;1;Hardware;Soluciones Tecnológicas;24;188;Cerrado;María López;55;Medio;Baja
+276;2023-02-17;2023-05-15;2;Hardware;Sistemas Ecológicos;24;147;Cerrado;María López;55;Medio;Alta
+348;2023-01-27;2023-04-14;1;Seguridad;Soluciones Tecnológicas;24;188;Cerrado;María López;55;Medio;Alta
+366;2023-08-04;2023-12-03;1;Hardware;Inteligencia de Datos;72;163;Abierto;María López;55;Medio;Baja
+376;2023-04-14;2023-06-15;1;Redes;Servicios Globales;36;106;En Progreso;María López;55;Medio;Baja
+440;2023-10-01;2023-11-08;4;Hardware;Inteligencia de Datos;72;163;Cerrado;María López;55;Medio;Media
+452;2023-02-15;2023-03-20;4;Seguridad;Servicios Globales;36;106;Abierto;María López;55;Medio;Media
+538;2023-01-03;2023-05-03;5;Redes;Redes Seguras;48;132;Cerrado;María López;55;Medio;Baja
+604;2023-04-01;2023-09-23;2;Redes;Avances Continuos;36;187;Cerrado;María López;55;Medio;Media
+634;2023-09-12;2023-09-15;5;Hardware;Soluciones Tecnológicas;24;188;Abierto;María López;55;Medio;Alta
+664;2023-04-29;2023-05-14;4;Software;Soluciones Tecnológicas;24;188;Cerrado;María López;55;Medio;Urgente
+713;2023-04-16;2023-07-16;3;Software;Servicios Globales;36;106;Cerrado;María López;55;Medio;Alta
+748;2023-06-16;2023-08-16;2;Redes;Redes Seguras;48;132;Abierto;María López;55;Medio;Urgente
+938;2023-05-20;2023-06-09;3;Redes;Inteligencia de Datos;72;163;En Progreso;María López;55;Medio;Media
+982;2023-09-07;2023-10-24;5;Software;Inteligencia de Datos;72;163;Cerrado;María López;55;Medio;Media
+1037;2023-03-06;2023-10-16;4;Software;Inteligencia de Datos;72;163;Cerrado;María López;55;Medio;Baja
+1246;2023-04-13;2023-07-12;5;Seguridad;Soluciones Tecnológicas;24;188;Abierto;María López;55;Medio;Media
+1287;2023-02-17;2023-04-12;4;Hardware;Avances Continuos;36;187;Abierto;María López;55;Medio;Urgente
+1302;2023-01-13;2023-01-25;5;Hardware;Sistemas Ecológicos;24;147;En Progreso;María López;55;Medio;Media
+1317;2023-02-16;2023-07-26;1;Seguridad;Redes Seguras;48;132;En Progreso;María López;55;Medio;Urgente
+1338;2023-02-12;2023-03-08;1;Software;Avances Continuos;36;187;En Progreso;María López;55;Medio;Baja
+1369;2023-11-02;2023-12-18;1;Seguridad;Creatividad y Desarrollo;24;116;Cerrado;María López;55;Medio;Urgente
+1397;2023-08-12;2023-11-07;5;Redes;Sostenibilidad y Progreso;48;199;Abierto;María López;55;Medio;Urgente
+1404;2023-06-04;2023-10-18;2;Redes;Soluciones Tecnológicas;24;188;Abierto;María López;55;Medio;Media
+1462;2023-08-04;2023-10-21;2;Seguridad;Servicios Globales;36;106;En Progreso;María López;55;Medio;Urgente
+1487;2023-03-28;2023-05-18;1;Software;Creatividad y Desarrollo;24;116;Cerrado;María López;55;Medio;Baja
+1558;2023-03-09;2023-10-17;5;Seguridad;Innovaciones Creativas;48;138;Abierto;María López;55;Medio;Alta
+1571;2023-03-22;2023-05-21;3;Seguridad;Sistemas Ecológicos;24;147;Cerrado;María López;55;Medio;Alta
+1630;2023-04-14;2023-09-08;3;Seguridad;Innovaciones Creativas;48;138;Abierto;María López;55;Medio;Urgente
+1689;2023-06-10;2023-06-27;4;Software;Servicios Globales;36;106;En Progreso;María López;55;Medio;Baja
+1791;2023-08-25;2023-09-07;1;Redes;Servicios Globales;36;106;Cerrado;María López;55;Medio;Alta
+1845;2023-08-26;2023-12-20;2;Hardware;Innovaciones Creativas;48;138;Cerrado;María López;55;Medio;Media
+1858;2023-01-31;2023-12-01;3;Software;Sistemas Ecológicos;24;147;Abierto;María López;55;Medio;Alta
+1882;2023-09-03;2023-10-28;4;Seguridad;Creatividad y Desarrollo;24;116;Abierto;María López;55;Medio;Baja
+1890;2023-01-12;2023-05-26;5;Hardware;Creatividad y Desarrollo;24;116;Abierto;María López;55;Medio;Baja
+1909;2023-08-17;2023-12-13;5;Software;Redes Seguras;48;132;Abierto;María López;55;Medio;Alta
+1912;2023-03-16;2023-05-06;5;Redes;Creatividad y Desarrollo;24;116;Abierto;María López;55;Medio;Urgente
+1966;2023-06-14;2023-06-27;2;Software;Visión Futurista;72;176;Abierto;María López;55;Medio;Baja
+2084;2023-10-07;2023-12-25;5;Software;Sostenibilidad y Progreso;48;199;Abierto;María López;55;Medio;Media
+2115;2023-03-30;2023-06-01;1;Seguridad;Servicios Globales;36;106;Abierto;María López;55;Medio;Alta
+2168;2023-03-02;2023-12-24;5;Hardware;Soluciones Tecnológicas;24;188;Cerrado;María López;55;Medio;Media
+2260;2023-04-05;2023-10-30;2;Software;Servicios Globales;36;106;Cerrado;María López;55;Medio;Urgente
+2613;2023-10-07;2023-11-17;3;Hardware;Inteligencia de Datos;72;163;Cerrado;María López;55;Medio;Baja
+2726;2023-02-01;2023-07-29;1;Seguridad;Innovaciones Creativas;48;138;Abierto;María López;55;Medio;Urgente
+2727;2023-06-01;2023-07-27;2;Software;Redes Seguras;48;132;Abierto;María López;55;Medio;Baja
+2782;2023-05-29;2023-11-19;2;Hardware;Sostenibilidad y Progreso;48;199;Abierto;María López;55;Medio;Urgente
+2802;2023-01-04;2023-07-26;4;Redes;Sostenibilidad y Progreso;48;199;Cerrado;María López;55;Medio;Baja
+2919;2023-01-10;2023-11-14;3;Redes;Sostenibilidad y Progreso;48;199;Abierto;María López;55;Medio;Baja
+3152;2023-10-09;2023-12-14;3;Redes;Avances Continuos;36;187;Abierto;María López;55;Medio;Baja
+3173;2023-07-22;2023-11-03;5;Redes;Avances Continuos;36;187;En Progreso;María López;55;Medio;Media
+3187;2023-02-17;2023-07-22;1;Seguridad;Creatividad y Desarrollo;24;116;En Progreso;María López;55;Medio;Alta
+3350;2023-01-12;2023-05-25;4;Hardware;Redes Seguras;48;132;Cerrado;María López;55;Medio;Media
+3410;2023-01-03;2023-02-18;2;Software;Soluciones Tecnológicas;24;188;En Progreso;María López;55;Medio;Baja
+3599;2023-04-01;2023-08-23;1;Redes;Creatividad y Desarrollo;24;116;Cerrado;María López;55;Medio;Alta
+3639;2023-02-20;2023-09-23;5;Redes;Sistemas Ecológicos;24;147;En Progreso;María López;55;Medio;Alta
+3647;2023-04-26;2023-11-21;1;Software;Redes Seguras;48;132;Abierto;María López;55;Medio;Baja
+3768;2023-01-28;2023-09-19;3;Redes;Redes Seguras;48;132;Cerrado;María López;55;Medio;Alta
+3803;2023-01-30;2023-06-12;4;Seguridad;Sostenibilidad y Progreso;48;199;Cerrado;María López;55;Medio;Media
+3844;2023-06-05;2023-11-03;5;Software;Innovaciones Creativas;48;138;Abierto;María López;55;Medio;Urgente
+3878;2023-03-12;2023-03-29;2;Redes;Innovaciones Creativas;48;138;Cerrado;María López;55;Medio;Media
+3908;2023-06-19;2023-08-09;4;Seguridad;Avances Continuos;36;187;En Progreso;María López;55;Medio;Urgente
+4027;2023-01-19;2023-07-28;5;Software;Redes Seguras;48;132;Cerrado;María López;55;Medio;Baja
+4203;2023-02-25;2023-04-14;4;Redes;Creatividad y Desarrollo;24;116;Cerrado;María López;55;Medio;Urgente
+4325;2023-02-05;2023-12-25;3;Software;Innovaciones Creativas;48;138;Abierto;María López;55;Medio;Urgente
+4351;2023-01-07;2023-09-11;2;Hardware;Creatividad y Desarrollo;24;116;Cerrado;María López;55;Medio;Baja
+4422;2023-08-30;2023-09-01;4;Redes;Innovaciones Creativas;48;138;Cerrado;María López;55;Medio;Baja
+4503;2023-02-26;2023-02-28;3;Seguridad;Innovaciones Creativas;48;138;En Progreso;María López;55;Medio;Baja
+4584;2023-02-24;2023-10-03;2;Software;Redes Seguras;48;132;Cerrado;María López;55;Medio;Urgente
+4744;2023-07-16;2023-07-28;5;Hardware;Redes Seguras;48;132;Abierto;María López;55;Medio;Urgente
+4784;2023-11-02;2023-11-30;2;Redes;Inteligencia de Datos;72;163;Abierto;María López;55;Medio;Urgente
+4980;2023-07-11;2023-10-28;1;Hardware;Innovaciones Creativas;48;138;En Progreso;María López;55;Medio;Urgente
+4988;2023-07-15;2023-09-01;2;Hardware;Avances Continuos;36;187;En Progreso;María López;55;Medio;Urgente
+5143;2023-07-02;2023-07-27;5;Hardware;Redes Seguras;48;132;Cerrado;María López;55;Medio;Media
+5261;2023-03-16;2023-05-05;5;Seguridad;Innovaciones Creativas;48;138;Abierto;María López;55;Medio;Baja
+5323;2023-02-10;2023-08-30;5;Seguridad;Creatividad y Desarrollo;24;116;Cerrado;María López;55;Medio;Media
+5364;2023-02-09;2023-05-03;2;Seguridad;Inteligencia de Datos;72;163;Cerrado;María López;55;Medio;Baja
+5487;2023-09-12;2023-09-23;3;Hardware;Creatividad y Desarrollo;24;116;Abierto;María López;55;Medio;Media
+5552;2023-05-10;2023-12-30;1;Hardware;Avances Continuos;36;187;En Progreso;María López;55;Medio;Baja
+5553;2023-05-20;2023-11-24;3;Redes;Creatividad y Desarrollo;24;116;Cerrado;María López;55;Medio;Alta
+5580;2023-09-01;2023-09-08;1;Software;Redes Seguras;48;132;Abierto;María López;55;Medio;Baja
+5678;2023-04-18;2023-04-25;2;Seguridad;Innovaciones Creativas;48;138;Abierto;María López;55;Medio;Baja
+5780;2023-04-19;2023-06-17;4;Software;Creatividad y Desarrollo;24;116;Abierto;María López;55;Medio;Media
+5975;2023-01-05;2023-11-08;1;Software;Redes Seguras;48;132;Abierto;María López;55;Medio;Urgente
+6109;2023-05-11;2023-05-19;3;Software;Innovaciones Creativas;48;138;Abierto;María López;55;Medio;Baja
+6114;2023-01-18;2023-10-07;1;Redes;Creatividad y Desarrollo;24;116;Abierto;María López;55;Medio;Urgente
+6196;2023-11-20;2023-12-28;3;Redes;Servicios Globales;36;106;Abierto;María López;55;Medio;Alta
+6214;2023-05-03;2023-10-14;1;Hardware;Avances Continuos;36;187;Abierto;María López;55;Medio;Baja
+6412;2023-11-26;2023-12-14;4;Redes;Sostenibilidad y Progreso;48;199;En Progreso;María López;55;Medio;Baja
+6444;2023-07-08;2023-08-16;2;Redes;Sostenibilidad y Progreso;48;199;Cerrado;María López;55;Medio;Alta
+6462;2023-02-14;2023-08-30;3;Redes;Sostenibilidad y Progreso;48;199;En Progreso;María López;55;Medio;Alta
+6503;2023-04-30;2023-11-14;3;Redes;Sostenibilidad y Progreso;48;199;Cerrado;María López;55;Medio;Alta
+6558;2023-04-22;2023-11-27;5;Software;Innovaciones Creativas;48;138;Abierto;María López;55;Medio;Urgente
+6626;2023-05-30;2023-07-14;5;Hardware;Innovaciones Creativas;48;138;En Progreso;María López;55;Medio;Media
+6636;2023-01-26;2023-04-03;4;Seguridad;Soluciones Tecnológicas;24;188;Cerrado;María López;55;Medio;Media
+6677;2023-04-03;2023-06-27;5;Redes;Innovaciones Creativas;48;138;Cerrado;María López;55;Medio;Baja
+6725;2023-01-07;2023-09-07;2;Seguridad;Servicios Globales;36;106;En Progreso;María López;55;Medio;Alta
+6752;2023-05-06;2023-06-22;5;Software;Servicios Globales;36;106;Abierto;María López;55;Medio;Baja
+6753;2023-02-25;2023-08-28;5;Seguridad;Innovaciones Creativas;48;138;Cerrado;María López;55;Medio;Alta
+6829;2023-01-09;2023-01-11;1;Seguridad;Sostenibilidad y Progreso;48;199;Abierto;María López;55;Medio;Baja
+6887;2023-01-31;2023-08-22;2;Software;Soluciones Tecnológicas;24;188;Abierto;María López;55;Medio;Baja
+6890;2023-01-18;2023-03-28;5;Redes;Sistemas Ecológicos;24;147;En Progreso;María López;55;Medio;Alta
+6927;2023-02-14;2023-11-06;4;Software;Sostenibilidad y Progreso;48;199;Cerrado;María López;55;Medio;Media
+6934;2023-02-17;2023-09-21;2;Redes;Creatividad y Desarrollo;24;116;Cerrado;María López;55;Medio;Media
+6947;2023-07-20;2023-11-10;4;Seguridad;Redes Seguras;48;132;Cerrado;María López;55;Medio;Urgente
+7063;2023-01-07;2023-05-05;2;Software;Visión Futurista;72;176;Abierto;María López;55;Medio;Baja
+7075;2023-04-21;2023-05-05;4;Redes;Sostenibilidad y Progreso;48;199;Cerrado;María López;55;Medio;Baja
+7136;2023-04-07;2023-10-26;5;Hardware;Inteligencia de Datos;72;163;Cerrado;María López;55;Medio;Alta
+7278;2023-06-28;2023-08-25;1;Redes;Visión Futurista;72;176;En Progreso;María López;55;Medio;Media
+7328;2023-04-07;2023-05-26;3;Software;Redes Seguras;48;132;Abierto;María López;55;Medio;Urgente
+7377;2023-08-28;2023-11-07;3;Hardware;Redes Seguras;48;132;Abierto;María López;55;Medio;Urgente
+7396;2023-02-02;2023-12-06;2;Redes;Redes Seguras;48;132;Abierto;María López;55;Medio;Baja
+7523;2023-02-14;2023-03-05;2;Seguridad;Creatividad y Desarrollo;24;116;En Progreso;María López;55;Medio;Urgente
+7609;2023-09-07;2023-11-14;2;Redes;Inteligencia de Datos;72;163;Abierto;María López;55;Medio;Baja
+7811;2023-02-04;2023-04-27;1;Hardware;Redes Seguras;48;132;En Progreso;María López;55;Medio;Media
+7902;2023-04-25;2023-10-03;1;Seguridad;Innovaciones Creativas;48;138;Cerrado;María López;55;Medio;Alta
+8003;2023-01-18;2023-09-26;1;Software;Visión Futurista;72;176;Cerrado;María López;55;Medio;Media
+8037;2023-01-21;2023-10-06;3;Redes;Inteligencia de Datos;72;163;En Progreso;María López;55;Medio;Alta
+8056;2023-05-29;2023-06-03;3;Hardware;Innovaciones Creativas;48;138;Abierto;María López;55;Medio;Baja
+8057;2023-11-13;2023-11-20;1;Redes;Servicios Globales;36;106;En Progreso;María López;55;Medio;Media
+8066;2023-01-01;2023-12-18;3;Seguridad;Inteligencia de Datos;72;163;En Progreso;María López;55;Medio;Alta
+8154;2023-09-10;2023-09-22;5;Hardware;Visión Futurista;72;176;En Progreso;María López;55;Medio;Alta
+8157;2023-02-06;2023-06-10;3;Seguridad;Servicios Globales;36;106;En Progreso;María López;55;Medio;Media
+8177;2023-04-26;2023-05-18;1;Hardware;Soluciones Tecnológicas;24;188;Cerrado;María López;55;Medio;Urgente
+8180;2023-01-01;2023-03-07;3;Hardware;Soluciones Tecnológicas;24;188;Cerrado;María López;55;Medio;Alta
+8220;2023-02-11;2023-06-23;5;Redes;Sostenibilidad y Progreso;48;199;Cerrado;María López;55;Medio;Baja
+8369;2023-07-29;2023-10-05;5;Software;Visión Futurista;72;176;Cerrado;María López;55;Medio;Urgente
+8728;2023-06-12;2023-12-09;5;Hardware;Servicios Globales;36;106;En Progreso;María López;55;Medio;Urgente
+8988;2023-05-27;2023-08-03;2;Hardware;Sistemas Ecológicos;24;147;En Progreso;María López;55;Medio;Baja
+9123;2023-06-15;2023-08-11;1;Hardware;Avances Continuos;36;187;Cerrado;María López;55;Medio;Urgente
+9292;2023-10-08;2023-12-30;4;Redes;Servicios Globales;36;106;Abierto;María López;55;Medio;Alta
+9294;2023-08-06;2023-11-23;4;Hardware;Creatividad y Desarrollo;24;116;En Progreso;María López;55;Medio;Urgente
+9312;2023-01-05;2023-06-24;2;Redes;Innovaciones Creativas;48;138;Cerrado;María López;55;Medio;Baja
+9474;2023-09-08;2023-11-22;2;Redes;Redes Seguras;48;132;Abierto;María López;55;Medio;Urgente
+9480;2023-03-07;2023-11-06;3;Hardware;Inteligencia de Datos;72;163;En Progreso;María López;55;Medio;Alta
+9530;2023-04-01;2023-09-18;2;Redes;Inteligencia de Datos;72;163;En Progreso;María López;55;Medio;Media
+9579;2023-04-05;2023-07-03;2;Hardware;Avances Continuos;36;187;En Progreso;María López;55;Medio;Media
+9714;2023-02-27;2023-12-05;1;Seguridad;Sistemas Ecológicos;24;147;Abierto;María López;55;Medio;Alta
+9728;2023-07-25;2023-08-23;4;Seguridad;Visión Futurista;72;176;En Progreso;María López;55;Medio;Baja
+9742;2023-02-11;2023-07-14;5;Redes;Avances Continuos;36;187;Cerrado;María López;55;Medio;Media
+9823;2023-06-30;2023-11-23;1;Software;Servicios Globales;36;106;Abierto;María López;55;Medio;Alta
+9932;2023-09-17;2023-10-11;1;Seguridad;Avances Continuos;36;187;Abierto;María López;55;Medio;Alta
+9951;2023-01-16;2023-10-22;4;Redes;Redes Seguras;48;132;Cerrado;María López;55;Medio;Baja
+9961;2023-03-02;2023-10-15;2;Software;Servicios Globales;36;106;Abierto;María López;55;Medio;Baja
+9971;2023-02-28;2023-08-08;2;Redes;Creatividad y Desarrollo;24;116;Abierto;María López;55;Medio;Media
+28;2023-08-30;2023-12-13;2;Seguridad;Sostenibilidad y Progreso;48;199;Cerrado;Jorge Martín;65;Junior;Urgente
+229;2023-05-09;2023-11-29;3;Redes;Redes Seguras;48;132;Cerrado;Jorge Martín;65;Junior;Alta
+265;2023-03-29;2023-10-04;5;Software;Sostenibilidad y Progreso;48;199;Cerrado;Jorge Martín;65;Junior;Urgente
+269;2023-01-27;2023-12-06;3;Seguridad;Innovaciones Creativas;48;138;Abierto;Jorge Martín;65;Junior;Baja
+421;2023-05-04;2023-09-30;5;Redes;Redes Seguras;48;132;Cerrado;Jorge Martín;65;Junior;Alta
+464;2023-01-04;2023-12-03;5;Hardware;Soluciones Tecnológicas;24;188;Cerrado;Jorge Martín;65;Junior;Media
+487;2023-07-01;2023-10-19;1;Seguridad;Visión Futurista;72;176;En Progreso;Jorge Martín;65;Junior;Baja
+603;2023-03-02;2023-08-15;5;Seguridad;Visión Futurista;72;176;Cerrado;Jorge Martín;65;Junior;Urgente
+680;2023-05-21;2023-08-08;5;Hardware;Redes Seguras;48;132;Cerrado;Jorge Martín;65;Junior;Alta
+753;2023-05-25;2023-08-15;2;Redes;Visión Futurista;72;176;En Progreso;Jorge Martín;65;Junior;Alta
+1002;2023-02-15;2023-05-25;5;Hardware;Avances Continuos;36;187;Abierto;Jorge Martín;65;Junior;Media
+1024;2023-04-06;2023-04-20;2;Redes;Redes Seguras;48;132;Cerrado;Jorge Martín;65;Junior;Urgente
+1032;2023-01-23;2023-08-30;5;Seguridad;Visión Futurista;72;176;En Progreso;Jorge Martín;65;Junior;Media
+1251;2023-02-10;2023-05-23;2;Hardware;Servicios Globales;36;106;En Progreso;Jorge Martín;65;Junior;Alta
+1456;2023-05-08;2023-09-20;4;Redes;Inteligencia de Datos;72;163;En Progreso;Jorge Martín;65;Junior;Urgente
+1574;2023-08-26;2023-11-29;2;Seguridad;Creatividad y Desarrollo;24;116;Cerrado;Jorge Martín;65;Junior;Alta
+1683;2023-07-05;2023-08-10;2;Hardware;Redes Seguras;48;132;Abierto;Jorge Martín;65;Junior;Urgente
+1710;2023-05-30;2023-12-01;4;Seguridad;Sistemas Ecológicos;24;147;En Progreso;Jorge Martín;65;Junior;Alta
+1839;2023-01-16;2023-11-12;5;Seguridad;Servicios Globales;36;106;Cerrado;Jorge Martín;65;Junior;Urgente
+2061;2023-08-22;2023-10-04;1;Seguridad;Soluciones Tecnológicas;24;188;Cerrado;Jorge Martín;65;Junior;Alta
+2105;2023-03-16;2023-12-29;3;Software;Sistemas Ecológicos;24;147;Abierto;Jorge Martín;65;Junior;Urgente
+2170;2023-08-09;2023-12-21;3;Redes;Sistemas Ecológicos;24;147;En Progreso;Jorge Martín;65;Junior;Baja
+2189;2023-02-21;2023-08-14;4;Software;Inteligencia de Datos;72;163;Abierto;Jorge Martín;65;Junior;Baja
+2290;2023-09-05;2023-10-03;1;Hardware;Sostenibilidad y Progreso;48;199;Abierto;Jorge Martín;65;Junior;Alta
+2304;2023-04-05;2023-09-30;5;Redes;Avances Continuos;36;187;Abierto;Jorge Martín;65;Junior;Urgente
+2443;2023-02-14;2023-12-27;1;Software;Innovaciones Creativas;48;138;En Progreso;Jorge Martín;65;Junior;Media
+2450;2023-01-07;2023-11-17;2;Hardware;Sostenibilidad y Progreso;48;199;Cerrado;Jorge Martín;65;Junior;Urgente
+2486;2023-01-08;2023-06-06;4;Seguridad;Soluciones Tecnológicas;24;188;Abierto;Jorge Martín;65;Junior;Baja
+2560;2023-02-27;2023-07-21;4;Hardware;Sistemas Ecológicos;24;147;Abierto;Jorge Martín;65;Junior;Baja
+2648;2023-06-03;2023-08-05;5;Seguridad;Servicios Globales;36;106;En Progreso;Jorge Martín;65;Junior;Media
+2817;2023-03-15;2023-12-05;4;Hardware;Innovaciones Creativas;48;138;Cerrado;Jorge Martín;65;Junior;Media
+2857;2023-01-02;2023-12-29;3;Redes;Inteligencia de Datos;72;163;En Progreso;Jorge Martín;65;Junior;Media
+2885;2023-05-28;2023-07-22;1;Seguridad;Inteligencia de Datos;72;163;Abierto;Jorge Martín;65;Junior;Media
+2893;2023-04-20;2023-04-29;3;Redes;Creatividad y Desarrollo;24;116;Cerrado;Jorge Martín;65;Junior;Alta
+3022;2023-02-01;2023-05-21;1;Software;Innovaciones Creativas;48;138;Abierto;Jorge Martín;65;Junior;Media
+3145;2023-05-15;2023-08-19;4;Software;Redes Seguras;48;132;En Progreso;Jorge Martín;65;Junior;Alta
+3351;2023-02-10;2023-10-30;3;Seguridad;Creatividad y Desarrollo;24;116;En Progreso;Jorge Martín;65;Junior;Media
+3376;2023-01-09;2023-03-02;3;Software;Avances Continuos;36;187;Abierto;Jorge Martín;65;Junior;Media
+3386;2023-02-24;2023-07-24;5;Seguridad;Redes Seguras;48;132;Abierto;Jorge Martín;65;Junior;Urgente
+3528;2023-01-19;2023-06-06;1;Software;Avances Continuos;36;187;Abierto;Jorge Martín;65;Junior;Media
+3598;2023-08-19;2023-09-18;2;Software;Avances Continuos;36;187;Cerrado;Jorge Martín;65;Junior;Alta
+3633;2023-10-10;2023-12-24;4;Seguridad;Redes Seguras;48;132;Abierto;Jorge Martín;65;Junior;Media
+3710;2023-01-16;2023-03-19;5;Redes;Creatividad y Desarrollo;24;116;Cerrado;Jorge Martín;65;Junior;Alta
+3726;2023-01-11;2023-02-17;3;Seguridad;Sostenibilidad y Progreso;48;199;Abierto;Jorge Martín;65;Junior;Media
+3795;2023-08-29;2023-09-20;4;Seguridad;Innovaciones Creativas;48;138;En Progreso;Jorge Martín;65;Junior;Baja
+3918;2023-02-19;2023-10-11;2;Hardware;Redes Seguras;48;132;Cerrado;Jorge Martín;65;Junior;Media
+3928;2023-05-31;2023-08-23;5;Redes;Avances Continuos;36;187;Abierto;Jorge Martín;65;Junior;Urgente
+3992;2023-03-25;2023-10-10;5;Hardware;Inteligencia de Datos;72;163;Abierto;Jorge Martín;65;Junior;Urgente
+4233;2023-01-17;2023-02-27;4;Hardware;Creatividad y Desarrollo;24;116;Abierto;Jorge Martín;65;Junior;Media
+4237;2023-03-20;2023-07-15;2;Software;Soluciones Tecnológicas;24;188;Cerrado;Jorge Martín;65;Junior;Media
+4253;2023-02-21;2023-08-14;3;Hardware;Visión Futurista;72;176;En Progreso;Jorge Martín;65;Junior;Urgente
+4300;2023-09-10;2023-10-09;5;Software;Sistemas Ecológicos;24;147;Cerrado;Jorge Martín;65;Junior;Baja
+4430;2023-04-02;2023-12-18;3;Redes;Creatividad y Desarrollo;24;116;En Progreso;Jorge Martín;65;Junior;Urgente
+4453;2023-04-25;2023-10-18;3;Seguridad;Inteligencia de Datos;72;163;En Progreso;Jorge Martín;65;Junior;Alta
+4459;2023-04-26;2023-12-13;4;Software;Sostenibilidad y Progreso;48;199;Cerrado;Jorge Martín;65;Junior;Media
+4514;2023-08-27;2023-11-26;4;Seguridad;Creatividad y Desarrollo;24;116;Cerrado;Jorge Martín;65;Junior;Media
+4548;2023-08-01;2023-10-05;1;Software;Servicios Globales;36;106;Abierto;Jorge Martín;65;Junior;Baja
+4592;2023-08-05;2023-10-09;3;Seguridad;Servicios Globales;36;106;Cerrado;Jorge Martín;65;Junior;Media
+4825;2023-07-23;2023-11-10;2;Hardware;Sistemas Ecológicos;24;147;Abierto;Jorge Martín;65;Junior;Baja
+4884;2023-08-31;2023-09-02;3;Hardware;Redes Seguras;48;132;Cerrado;Jorge Martín;65;Junior;Urgente
+4967;2023-04-19;2023-10-23;3;Hardware;Avances Continuos;36;187;Abierto;Jorge Martín;65;Junior;Media
+5046;2023-07-13;2023-12-02;2;Seguridad;Avances Continuos;36;187;Cerrado;Jorge Martín;65;Junior;Baja
+5048;2023-02-25;2023-03-22;3;Redes;Sostenibilidad y Progreso;48;199;Abierto;Jorge Martín;65;Junior;Alta
+5164;2023-07-20;2023-08-31;4;Redes;Inteligencia de Datos;72;163;En Progreso;Jorge Martín;65;Junior;Baja
+5253;2023-03-18;2023-10-15;1;Hardware;Inteligencia de Datos;72;163;Cerrado;Jorge Martín;65;Junior;Alta
+5277;2023-06-05;2023-11-02;2;Seguridad;Sistemas Ecológicos;24;147;Abierto;Jorge Martín;65;Junior;Alta
+5375;2023-06-19;2023-11-09;3;Redes;Avances Continuos;36;187;En Progreso;Jorge Martín;65;Junior;Alta
+5378;2023-04-18;2023-11-03;1;Hardware;Sistemas Ecológicos;24;147;En Progreso;Jorge Martín;65;Junior;Baja
+5524;2023-02-22;2023-06-07;4;Hardware;Servicios Globales;36;106;En Progreso;Jorge Martín;65;Junior;Alta
+5548;2023-03-15;2023-08-19;2;Redes;Inteligencia de Datos;72;163;En Progreso;Jorge Martín;65;Junior;Urgente
+5572;2023-05-01;2023-10-06;5;Software;Creatividad y Desarrollo;24;116;Cerrado;Jorge Martín;65;Junior;Urgente
+5596;2023-07-03;2023-11-19;4;Software;Visión Futurista;72;176;Abierto;Jorge Martín;65;Junior;Media
+5600;2023-06-14;2023-10-29;4;Redes;Sostenibilidad y Progreso;48;199;Cerrado;Jorge Martín;65;Junior;Media
+5679;2023-02-21;2023-05-12;2;Hardware;Soluciones Tecnológicas;24;188;Cerrado;Jorge Martín;65;Junior;Baja
+5721;2023-02-13;2023-04-16;5;Seguridad;Sostenibilidad y Progreso;48;199;Abierto;Jorge Martín;65;Junior;Baja
+5740;2023-03-16;2023-03-25;5;Seguridad;Soluciones Tecnológicas;24;188;En Progreso;Jorge Martín;65;Junior;Urgente
+5743;2023-03-28;2023-07-02;2;Seguridad;Sostenibilidad y Progreso;48;199;En Progreso;Jorge Martín;65;Junior;Media
+5764;2023-01-16;2023-06-06;2;Software;Visión Futurista;72;176;En Progreso;Jorge Martín;65;Junior;Media
+5845;2023-01-06;2023-10-29;4;Hardware;Soluciones Tecnológicas;24;188;En Progreso;Jorge Martín;65;Junior;Alta
+5873;2023-01-24;2023-11-05;5;Redes;Servicios Globales;36;106;Abierto;Jorge Martín;65;Junior;Urgente
+5958;2023-01-30;2023-04-09;5;Hardware;Inteligencia de Datos;72;163;Abierto;Jorge Martín;65;Junior;Baja
+6185;2023-06-28;2023-08-05;5;Software;Innovaciones Creativas;48;138;En Progreso;Jorge Martín;65;Junior;Media
+6211;2023-03-05;2023-09-06;5;Redes;Visión Futurista;72;176;Abierto;Jorge Martín;65;Junior;Urgente
+6283;2023-02-11;2023-11-10;4;Hardware;Servicios Globales;36;106;Abierto;Jorge Martín;65;Junior;Alta
+6311;2023-04-15;2023-06-03;1;Seguridad;Visión Futurista;72;176;Abierto;Jorge Martín;65;Junior;Media
+6343;2023-06-02;2023-06-24;4;Software;Soluciones Tecnológicas;24;188;Cerrado;Jorge Martín;65;Junior;Alta
+6390;2023-06-18;2023-08-14;2;Hardware;Redes Seguras;48;132;Abierto;Jorge Martín;65;Junior;Alta
+6465;2023-08-14;2023-12-24;4;Seguridad;Innovaciones Creativas;48;138;En Progreso;Jorge Martín;65;Junior;Alta
+6471;2023-01-02;2023-04-19;4;Software;Creatividad y Desarrollo;24;116;Cerrado;Jorge Martín;65;Junior;Baja
+6496;2023-02-03;2023-08-10;1;Redes;Sistemas Ecológicos;24;147;Abierto;Jorge Martín;65;Junior;Urgente
+6580;2023-06-07;2023-09-28;2;Hardware;Sostenibilidad y Progreso;48;199;Cerrado;Jorge Martín;65;Junior;Baja
+6790;2023-02-11;2023-04-10;1;Redes;Servicios Globales;36;106;Cerrado;Jorge Martín;65;Junior;Urgente
+6885;2023-04-18;2023-05-13;3;Redes;Sostenibilidad y Progreso;48;199;Cerrado;Jorge Martín;65;Junior;Urgente
+7124;2023-07-14;2023-12-16;5;Seguridad;Avances Continuos;36;187;En Progreso;Jorge Martín;65;Junior;Media
+7265;2023-05-26;2023-08-08;5;Software;Sostenibilidad y Progreso;48;199;En Progreso;Jorge Martín;65;Junior;Alta
+7293;2023-07-06;2023-11-15;3;Hardware;Creatividad y Desarrollo;24;116;Abierto;Jorge Martín;65;Junior;Baja
+7302;2023-02-05;2023-09-02;1;Seguridad;Servicios Globales;36;106;Abierto;Jorge Martín;65;Junior;Baja
+7389;2023-01-03;2023-12-20;2;Redes;Sostenibilidad y Progreso;48;199;Cerrado;Jorge Martín;65;Junior;Media
+7422;2023-08-25;2023-10-12;3;Hardware;Creatividad y Desarrollo;24;116;Cerrado;Jorge Martín;65;Junior;Alta
+7433;2023-05-15;2023-09-27;5;Seguridad;Inteligencia de Datos;72;163;Cerrado;Jorge Martín;65;Junior;Baja
+7441;2023-04-05;2023-10-09;4;Software;Inteligencia de Datos;72;163;Abierto;Jorge Martín;65;Junior;Alta
+7583;2023-05-01;2023-09-14;2;Hardware;Inteligencia de Datos;72;163;Cerrado;Jorge Martín;65;Junior;Urgente
+7657;2023-07-12;2023-09-06;4;Seguridad;Sistemas Ecológicos;24;147;Cerrado;Jorge Martín;65;Junior;Urgente
+7663;2023-10-20;2023-12-15;3;Redes;Sostenibilidad y Progreso;48;199;En Progreso;Jorge Martín;65;Junior;Media
+7672;2023-01-24;2023-11-20;5;Seguridad;Sistemas Ecológicos;24;147;En Progreso;Jorge Martín;65;Junior;Baja
+7695;2023-04-17;2023-09-10;4;Seguridad;Sistemas Ecológicos;24;147;Cerrado;Jorge Martín;65;Junior;Urgente
+7753;2023-01-06;2023-02-08;2;Software;Sistemas Ecológicos;24;147;Cerrado;Jorge Martín;65;Junior;Urgente
+7838;2023-02-13;2023-04-11;1;Seguridad;Servicios Globales;36;106;En Progreso;Jorge Martín;65;Junior;Alta
+7855;2023-01-19;2023-05-11;5;Software;Soluciones Tecnológicas;24;188;Abierto;Jorge Martín;65;Junior;Media
+7884;2023-10-13;2023-12-10;5;Redes;Avances Continuos;36;187;Abierto;Jorge Martín;65;Junior;Media
+7932;2023-01-30;2023-09-19;4;Hardware;Innovaciones Creativas;48;138;Abierto;Jorge Martín;65;Junior;Urgente
+7937;2023-02-08;2023-05-23;3;Hardware;Inteligencia de Datos;72;163;Abierto;Jorge Martín;65;Junior;Baja
+7998;2023-08-27;2023-11-05;5;Redes;Sostenibilidad y Progreso;48;199;Cerrado;Jorge Martín;65;Junior;Media
+8091;2023-05-20;2023-11-14;1;Hardware;Sostenibilidad y Progreso;48;199;Cerrado;Jorge Martín;65;Junior;Media
+8189;2023-01-27;2023-11-03;5;Seguridad;Sistemas Ecológicos;24;147;En Progreso;Jorge Martín;65;Junior;Media
+8249;2023-08-29;2023-10-03;3;Software;Inteligencia de Datos;72;163;En Progreso;Jorge Martín;65;Junior;Alta
+8471;2023-04-30;2023-12-04;1;Hardware;Sistemas Ecológicos;24;147;En Progreso;Jorge Martín;65;Junior;Alta
+8481;2023-09-19;2023-12-14;2;Redes;Avances Continuos;36;187;En Progreso;Jorge Martín;65;Junior;Baja
+8490;2023-03-18;2023-07-29;3;Software;Inteligencia de Datos;72;163;Cerrado;Jorge Martín;65;Junior;Alta
+8512;2023-06-25;2023-08-09;4;Hardware;Redes Seguras;48;132;Abierto;Jorge Martín;65;Junior;Urgente
+8519;2023-01-13;2023-11-10;3;Software;Innovaciones Creativas;48;138;Abierto;Jorge Martín;65;Junior;Baja
+8569;2023-05-13;2023-10-04;4;Redes;Innovaciones Creativas;48;138;Abierto;Jorge Martín;65;Junior;Baja
+8713;2023-04-25;2023-05-24;2;Redes;Soluciones Tecnológicas;24;188;Cerrado;Jorge Martín;65;Junior;Media
+8773;2023-04-09;2023-12-31;4;Software;Sistemas Ecológicos;24;147;Abierto;Jorge Martín;65;Junior;Baja
+8815;2023-03-27;2023-08-03;1;Hardware;Sostenibilidad y Progreso;48;199;Cerrado;Jorge Martín;65;Junior;Media
+8880;2023-02-09;2023-10-14;4;Seguridad;Visión Futurista;72;176;Cerrado;Jorge Martín;65;Junior;Urgente
+9086;2023-07-23;2023-10-02;2;Software;Sistemas Ecológicos;24;147;Abierto;Jorge Martín;65;Junior;Media
+9171;2023-01-14;2023-09-27;2;Redes;Avances Continuos;36;187;Abierto;Jorge Martín;65;Junior;Baja
+9191;2023-08-09;2023-08-19;2;Seguridad;Creatividad y Desarrollo;24;116;En Progreso;Jorge Martín;65;Junior;Media
+9315;2023-08-13;2023-12-20;5;Seguridad;Redes Seguras;48;132;Abierto;Jorge Martín;65;Junior;Media
+9383;2023-05-10;2023-10-14;2;Seguridad;Servicios Globales;36;106;En Progreso;Jorge Martín;65;Junior;Baja
+9403;2023-03-25;2023-07-02;2;Hardware;Visión Futurista;72;176;Cerrado;Jorge Martín;65;Junior;Media
+9469;2023-06-07;2023-11-21;4;Seguridad;Sistemas Ecológicos;24;147;Cerrado;Jorge Martín;65;Junior;Urgente
+9538;2023-03-07;2023-06-18;5;Redes;Visión Futurista;72;176;En Progreso;Jorge Martín;65;Junior;Urgente
+9637;2023-07-28;2023-12-11;5;Seguridad;Inteligencia de Datos;72;163;Abierto;Jorge Martín;65;Junior;Urgente
+9729;2023-02-27;2023-05-11;1;Seguridad;Servicios Globales;36;106;En Progreso;Jorge Martín;65;Junior;Media
+9803;2023-01-24;2023-12-20;5;Redes;Inteligencia de Datos;72;163;Cerrado;Jorge Martín;65;Junior;Alta
+9807;2023-03-25;2023-09-14;3;Hardware;Inteligencia de Datos;72;163;En Progreso;Jorge Martín;65;Junior;Alta
+9822;2023-09-16;2023-10-17;4;Hardware;Visión Futurista;72;176;Abierto;Jorge Martín;65;Junior;Media
+9824;2023-08-01;2023-12-18;5;Hardware;Sistemas Ecológicos;24;147;Abierto;Jorge Martín;65;Junior;Media
+9875;2023-01-01;2023-10-29;3;Redes;Visión Futurista;72;176;Abierto;Jorge Martín;65;Junior;Urgente
+10000;2023-04-05;2023-11-28;5;Redes;Visión Futurista;72;176;Cerrado;Jorge Martín;65;Junior;Urgente
+13;2023-10-28;2023-11-07;3;Redes;Creatividad y Desarrollo;24;116;En Progreso;Sofía Navarro;70;Senior;Media
+75;2023-02-03;2023-09-04;1;Seguridad;Inteligencia de Datos;72;163;En Progreso;Sofía Navarro;70;Senior;Media
+100;2023-03-26;2023-12-13;5;Redes;Soluciones Tecnológicas;24;188;Cerrado;Sofía Navarro;70;Senior;Urgente
+108;2023-03-08;2023-05-20;5;Seguridad;Sostenibilidad y Progreso;48;199;En Progreso;Sofía Navarro;70;Senior;Baja
+154;2023-04-09;2023-06-27;1;Seguridad;Inteligencia de Datos;72;163;Abierto;Sofía Navarro;70;Senior;Baja
+283;2023-06-04;2023-07-21;2;Seguridad;Soluciones Tecnológicas;24;188;Cerrado;Sofía Navarro;70;Senior;Media
+420;2023-01-31;2023-05-08;4;Redes;Avances Continuos;36;187;En Progreso;Sofía Navarro;70;Senior;Media
+444;2023-02-24;2023-04-03;2;Hardware;Soluciones Tecnológicas;24;188;Abierto;Sofía Navarro;70;Senior;Urgente
+552;2023-01-27;2023-03-25;1;Hardware;Creatividad y Desarrollo;24;116;Cerrado;Sofía Navarro;70;Senior;Alta
+687;2023-06-10;2023-09-23;4;Redes;Redes Seguras;48;132;Abierto;Sofía Navarro;70;Senior;Alta
+742;2023-02-16;2023-10-08;5;Redes;Redes Seguras;48;132;En Progreso;Sofía Navarro;70;Senior;Alta
+1045;2023-06-06;2023-12-28;1;Seguridad;Visión Futurista;72;176;Cerrado;Sofía Navarro;70;Senior;Media
+1122;2023-08-08;2023-12-29;4;Seguridad;Innovaciones Creativas;48;138;Abierto;Sofía Navarro;70;Senior;Alta
+1127;2023-07-01;2023-09-23;4;Software;Innovaciones Creativas;48;138;Cerrado;Sofía Navarro;70;Senior;Media
+1205;2023-03-30;2023-08-20;2;Redes;Sostenibilidad y Progreso;48;199;Cerrado;Sofía Navarro;70;Senior;Alta
+1339;2023-05-17;2023-12-19;3;Redes;Sistemas Ecológicos;24;147;Cerrado;Sofía Navarro;70;Senior;Media
+1512;2023-02-05;2023-04-27;4;Software;Innovaciones Creativas;48;138;En Progreso;Sofía Navarro;70;Senior;Alta
+1616;2023-09-17;2023-11-30;1;Software;Innovaciones Creativas;48;138;En Progreso;Sofía Navarro;70;Senior;Alta
+1653;2023-03-16;2023-04-23;4;Seguridad;Visión Futurista;72;176;En Progreso;Sofía Navarro;70;Senior;Baja
+1704;2023-06-10;2023-10-03;5;Hardware;Avances Continuos;36;187;Abierto;Sofía Navarro;70;Senior;Alta
+1804;2023-03-22;2023-04-27;2;Redes;Creatividad y Desarrollo;24;116;Cerrado;Sofía Navarro;70;Senior;Alta
+2057;2023-05-24;2023-12-06;4;Software;Inteligencia de Datos;72;163;Cerrado;Sofía Navarro;70;Senior;Baja
+2075;2023-09-21;2023-10-07;3;Software;Servicios Globales;36;106;Cerrado;Sofía Navarro;70;Senior;Urgente
+2089;2023-05-01;2023-11-02;4;Redes;Sistemas Ecológicos;24;147;Cerrado;Sofía Navarro;70;Senior;Media
+2217;2023-07-10;2023-10-05;1;Seguridad;Sostenibilidad y Progreso;48;199;Abierto;Sofía Navarro;70;Senior;Baja
+2239;2023-02-15;2023-08-17;2;Hardware;Servicios Globales;36;106;En Progreso;Sofía Navarro;70;Senior;Media
+2344;2023-08-19;2023-11-12;3;Seguridad;Sostenibilidad y Progreso;48;199;Cerrado;Sofía Navarro;70;Senior;Baja
+2411;2023-03-27;2023-06-12;3;Hardware;Creatividad y Desarrollo;24;116;En Progreso;Sofía Navarro;70;Senior;Urgente
+2451;2023-04-11;2023-07-14;2;Redes;Sistemas Ecológicos;24;147;Cerrado;Sofía Navarro;70;Senior;Media
+2463;2023-02-27;2023-06-27;4;Hardware;Innovaciones Creativas;48;138;En Progreso;Sofía Navarro;70;Senior;Media
+2474;2023-06-30;2023-10-07;3;Hardware;Redes Seguras;48;132;En Progreso;Sofía Navarro;70;Senior;Urgente
+2496;2023-05-29;2023-09-30;2;Redes;Servicios Globales;36;106;Cerrado;Sofía Navarro;70;Senior;Urgente
+2826;2023-02-15;2023-11-12;1;Redes;Visión Futurista;72;176;Abierto;Sofía Navarro;70;Senior;Alta
+2851;2023-08-18;2023-12-16;1;Seguridad;Avances Continuos;36;187;En Progreso;Sofía Navarro;70;Senior;Alta
+3087;2023-02-28;2023-05-25;1;Seguridad;Servicios Globales;36;106;En Progreso;Sofía Navarro;70;Senior;Alta
+3103;2023-01-03;2023-02-27;5;Redes;Sistemas Ecológicos;24;147;Abierto;Sofía Navarro;70;Senior;Urgente
+3147;2023-02-12;2023-07-16;5;Seguridad;Sostenibilidad y Progreso;48;199;En Progreso;Sofía Navarro;70;Senior;Media
+3177;2023-09-12;2023-10-16;1;Seguridad;Soluciones Tecnológicas;24;188;Abierto;Sofía Navarro;70;Senior;Alta
+3334;2023-03-22;2023-11-09;4;Software;Sistemas Ecológicos;24;147;Cerrado;Sofía Navarro;70;Senior;Baja
+3382;2023-10-12;2023-12-03;4;Hardware;Soluciones Tecnológicas;24;188;Abierto;Sofía Navarro;70;Senior;Urgente
+3467;2023-01-15;2023-10-25;4;Software;Avances Continuos;36;187;Cerrado;Sofía Navarro;70;Senior;Urgente
+3700;2023-01-03;2023-11-19;4;Redes;Sostenibilidad y Progreso;48;199;Abierto;Sofía Navarro;70;Senior;Urgente
+3703;2023-06-18;2023-12-28;1;Redes;Creatividad y Desarrollo;24;116;Abierto;Sofía Navarro;70;Senior;Baja
+3818;2023-11-02;2023-12-19;5;Seguridad;Avances Continuos;36;187;En Progreso;Sofía Navarro;70;Senior;Baja
+3882;2023-01-18;2023-10-26;2;Redes;Sistemas Ecológicos;24;147;Cerrado;Sofía Navarro;70;Senior;Urgente
+3902;2023-01-30;2023-09-05;3;Software;Inteligencia de Datos;72;163;Cerrado;Sofía Navarro;70;Senior;Media
+3931;2023-01-21;2023-06-06;3;Seguridad;Avances Continuos;36;187;En Progreso;Sofía Navarro;70;Senior;Media
+3944;2023-06-29;2023-10-01;1;Seguridad;Sostenibilidad y Progreso;48;199;Cerrado;Sofía Navarro;70;Senior;Baja
+4002;2023-03-24;2023-07-09;5;Seguridad;Inteligencia de Datos;72;163;En Progreso;Sofía Navarro;70;Senior;Media
+4005;2023-04-11;2023-11-01;3;Hardware;Redes Seguras;48;132;En Progreso;Sofía Navarro;70;Senior;Urgente
+4113;2023-01-13;2023-01-24;4;Seguridad;Inteligencia de Datos;72;163;En Progreso;Sofía Navarro;70;Senior;Baja
+4168;2023-01-16;2023-04-10;5;Software;Sistemas Ecológicos;24;147;Abierto;Sofía Navarro;70;Senior;Media
+4304;2023-01-10;2023-12-19;2;Hardware;Visión Futurista;72;176;En Progreso;Sofía Navarro;70;Senior;Media
+4358;2023-06-25;2023-11-15;2;Seguridad;Creatividad y Desarrollo;24;116;Cerrado;Sofía Navarro;70;Senior;Media
+4643;2023-01-21;2023-11-24;2;Seguridad;Sistemas Ecológicos;24;147;Cerrado;Sofía Navarro;70;Senior;Urgente
+4702;2023-06-12;2023-12-01;2;Seguridad;Soluciones Tecnológicas;24;188;Abierto;Sofía Navarro;70;Senior;Baja
+4729;2023-01-20;2023-11-21;5;Software;Visión Futurista;72;176;En Progreso;Sofía Navarro;70;Senior;Media
+4751;2023-06-14;2023-12-10;3;Hardware;Sostenibilidad y Progreso;48;199;Abierto;Sofía Navarro;70;Senior;Urgente
+4818;2023-07-05;2023-10-02;4;Hardware;Creatividad y Desarrollo;24;116;En Progreso;Sofía Navarro;70;Senior;Baja
+4897;2023-01-03;2023-05-12;2;Software;Creatividad y Desarrollo;24;116;Cerrado;Sofía Navarro;70;Senior;Media
+4938;2023-01-22;2023-07-17;1;Redes;Sistemas Ecológicos;24;147;Cerrado;Sofía Navarro;70;Senior;Urgente
+4945;2023-03-19;2023-10-11;3;Software;Sistemas Ecológicos;24;147;Abierto;Sofía Navarro;70;Senior;Urgente
+4977;2023-05-31;2023-09-12;2;Redes;Soluciones Tecnológicas;24;188;En Progreso;Sofía Navarro;70;Senior;Baja
+5051;2023-02-09;2023-10-17;2;Redes;Inteligencia de Datos;72;163;Cerrado;Sofía Navarro;70;Senior;Media
+5065;2023-01-17;2023-07-23;1;Seguridad;Avances Continuos;36;187;En Progreso;Sofía Navarro;70;Senior;Alta
+5199;2023-04-18;2023-09-14;2;Software;Inteligencia de Datos;72;163;Cerrado;Sofía Navarro;70;Senior;Alta
+5210;2023-10-22;2023-12-22;3;Redes;Servicios Globales;36;106;Abierto;Sofía Navarro;70;Senior;Urgente
+5215;2023-07-12;2023-12-29;1;Software;Sostenibilidad y Progreso;48;199;Cerrado;Sofía Navarro;70;Senior;Urgente
+5224;2023-07-15;2023-09-26;3;Redes;Redes Seguras;48;132;Cerrado;Sofía Navarro;70;Senior;Urgente
+5410;2023-06-24;2023-09-03;4;Software;Innovaciones Creativas;48;138;Abierto;Sofía Navarro;70;Senior;Alta
+5493;2023-04-02;2023-07-20;4;Hardware;Visión Futurista;72;176;Abierto;Sofía Navarro;70;Senior;Baja
+5544;2023-01-21;2023-04-29;2;Redes;Sostenibilidad y Progreso;48;199;Abierto;Sofía Navarro;70;Senior;Baja
+5592;2023-04-13;2023-10-11;2;Software;Visión Futurista;72;176;Abierto;Sofía Navarro;70;Senior;Urgente
+5693;2023-08-27;2023-11-18;4;Redes;Avances Continuos;36;187;Cerrado;Sofía Navarro;70;Senior;Baja
+5775;2023-06-02;2023-06-26;1;Redes;Innovaciones Creativas;48;138;En Progreso;Sofía Navarro;70;Senior;Media
+5915;2023-02-07;2023-08-19;3;Seguridad;Servicios Globales;36;106;Abierto;Sofía Navarro;70;Senior;Urgente
+5944;2023-09-11;2023-10-14;2;Redes;Visión Futurista;72;176;Cerrado;Sofía Navarro;70;Senior;Baja
+6122;2023-01-18;2023-08-21;3;Hardware;Visión Futurista;72;176;En Progreso;Sofía Navarro;70;Senior;Urgente
+6132;2023-06-06;2023-07-20;5;Seguridad;Creatividad y Desarrollo;24;116;En Progreso;Sofía Navarro;70;Senior;Urgente
+6301;2023-07-22;2023-09-22;4;Seguridad;Innovaciones Creativas;48;138;En Progreso;Sofía Navarro;70;Senior;Alta
+6310;2023-02-23;2023-05-27;3;Seguridad;Servicios Globales;36;106;Cerrado;Sofía Navarro;70;Senior;Media
+6315;2023-04-06;2023-09-06;2;Redes;Sistemas Ecológicos;24;147;Cerrado;Sofía Navarro;70;Senior;Media
+6365;2023-01-18;2023-10-09;4;Seguridad;Sistemas Ecológicos;24;147;En Progreso;Sofía Navarro;70;Senior;Alta
+6436;2023-03-06;2023-04-29;3;Redes;Innovaciones Creativas;48;138;En Progreso;Sofía Navarro;70;Senior;Baja
+6533;2023-03-24;2023-05-25;3;Software;Redes Seguras;48;132;Abierto;Sofía Navarro;70;Senior;Alta
+6777;2023-03-27;2023-11-14;4;Seguridad;Avances Continuos;36;187;Cerrado;Sofía Navarro;70;Senior;Alta
+6819;2023-05-14;2023-11-10;3;Seguridad;Visión Futurista;72;176;Abierto;Sofía Navarro;70;Senior;Alta
+6832;2023-03-19;2023-07-22;5;Hardware;Redes Seguras;48;132;Abierto;Sofía Navarro;70;Senior;Media
+7019;2023-02-15;2023-06-25;5;Software;Servicios Globales;36;106;En Progreso;Sofía Navarro;70;Senior;Media
+7098;2023-03-24;2023-10-11;3;Redes;Sostenibilidad y Progreso;48;199;Abierto;Sofía Navarro;70;Senior;Media
+7158;2023-01-09;2023-04-11;4;Redes;Creatividad y Desarrollo;24;116;Abierto;Sofía Navarro;70;Senior;Alta
+7198;2023-08-10;2023-10-14;1;Redes;Sistemas Ecológicos;24;147;En Progreso;Sofía Navarro;70;Senior;Media
+7267;2023-03-30;2023-12-21;4;Seguridad;Soluciones Tecnológicas;24;188;Cerrado;Sofía Navarro;70;Senior;Alta
+7317;2023-03-20;2023-05-14;5;Hardware;Redes Seguras;48;132;En Progreso;Sofía Navarro;70;Senior;Alta
+7430;2023-07-02;2023-12-30;2;Hardware;Sostenibilidad y Progreso;48;199;Abierto;Sofía Navarro;70;Senior;Alta
+7536;2023-02-25;2023-08-07;2;Software;Innovaciones Creativas;48;138;Abierto;Sofía Navarro;70;Senior;Media
+7538;2023-11-29;2023-12-09;5;Hardware;Soluciones Tecnológicas;24;188;En Progreso;Sofía Navarro;70;Senior;Baja
+7823;2023-02-17;2023-10-15;2;Hardware;Sostenibilidad y Progreso;48;199;En Progreso;Sofía Navarro;70;Senior;Baja
+7865;2023-08-05;2023-10-02;5;Software;Servicios Globales;36;106;Abierto;Sofía Navarro;70;Senior;Urgente
+7942;2023-08-07;2023-12-07;2;Software;Sistemas Ecológicos;24;147;Cerrado;Sofía Navarro;70;Senior;Baja
+7966;2023-01-04;2023-12-07;5;Redes;Soluciones Tecnológicas;24;188;Cerrado;Sofía Navarro;70;Senior;Alta
+8010;2023-05-07;2023-07-24;5;Seguridad;Inteligencia de Datos;72;163;En Progreso;Sofía Navarro;70;Senior;Alta
+8047;2023-01-01;2023-12-12;3;Redes;Soluciones Tecnológicas;24;188;Abierto;Sofía Navarro;70;Senior;Urgente
+8150;2023-08-26;2023-12-20;1;Software;Creatividad y Desarrollo;24;116;Abierto;Sofía Navarro;70;Senior;Alta
+8254;2023-01-20;2023-11-10;2;Redes;Creatividad y Desarrollo;24;116;Cerrado;Sofía Navarro;70;Senior;Baja
+8355;2023-01-11;2023-02-01;1;Hardware;Creatividad y Desarrollo;24;116;En Progreso;Sofía Navarro;70;Senior;Alta
+8452;2023-02-27;2023-03-02;4;Hardware;Visión Futurista;72;176;Abierto;Sofía Navarro;70;Senior;Alta
+8644;2023-01-01;2023-08-01;3;Software;Visión Futurista;72;176;En Progreso;Sofía Navarro;70;Senior;Alta
+8688;2023-05-06;2023-08-17;4;Software;Creatividad y Desarrollo;24;116;Cerrado;Sofía Navarro;70;Senior;Baja
+8775;2023-05-19;2023-11-09;1;Software;Sostenibilidad y Progreso;48;199;Cerrado;Sofía Navarro;70;Senior;Alta
+8821;2023-09-29;2023-11-29;2;Seguridad;Innovaciones Creativas;48;138;Abierto;Sofía Navarro;70;Senior;Baja
+8867;2023-07-29;2023-11-10;4;Hardware;Soluciones Tecnológicas;24;188;Cerrado;Sofía Navarro;70;Senior;Media
+8920;2023-03-16;2023-06-19;2;Hardware;Avances Continuos;36;187;Abierto;Sofía Navarro;70;Senior;Alta
+9111;2023-02-16;2023-07-11;3;Redes;Innovaciones Creativas;48;138;Cerrado;Sofía Navarro;70;Senior;Alta
+9186;2023-11-03;2023-12-31;5;Software;Soluciones Tecnológicas;24;188;Abierto;Sofía Navarro;70;Senior;Alta
+9437;2023-01-07;2023-01-24;1;Redes;Sostenibilidad y Progreso;48;199;Cerrado;Sofía Navarro;70;Senior;Urgente
+9447;2023-05-01;2023-06-23;1;Hardware;Sistemas Ecológicos;24;147;Abierto;Sofía Navarro;70;Senior;Media
+9458;2023-03-10;2023-08-20;2;Seguridad;Servicios Globales;36;106;Cerrado;Sofía Navarro;70;Senior;Media
+9503;2023-05-21;2023-07-13;5;Hardware;Soluciones Tecnológicas;24;188;Cerrado;Sofía Navarro;70;Senior;Urgente
+9668;2023-02-03;2023-11-08;3;Hardware;Innovaciones Creativas;48;138;Abierto;Sofía Navarro;70;Senior;Alta
+9724;2023-05-23;2023-10-20;5;Hardware;Inteligencia de Datos;72;163;Cerrado;Sofía Navarro;70;Senior;Alta
+9758;2023-02-12;2023-11-24;3;Seguridad;Avances Continuos;36;187;En Progreso;Sofía Navarro;70;Senior;Media
+9812;2023-03-01;2023-11-19;3;Software;Servicios Globales;36;106;En Progreso;Sofía Navarro;70;Senior;Urgente
+9825;2023-07-21;2023-11-18;4;Seguridad;Sistemas Ecológicos;24;147;Abierto;Sofía Navarro;70;Senior;Baja
+9844;2023-06-13;2023-11-08;4;Seguridad;Inteligencia de Datos;72;163;Abierto;Sofía Navarro;70;Senior;Alta
+9887;2023-01-05;2023-08-27;3;Software;Inteligencia de Datos;72;163;Cerrado;Sofía Navarro;70;Senior;Media
+1;2023-01-31;2023-02-23;4;Software;Soluciones Tecnológicas;24;188;Cerrado;Ana Ruiz;50;Senior;Urgente
+10;2023-05-23;2023-12-05;4;Seguridad;Creatividad y Desarrollo;24;116;Abierto;Ana Ruiz;50;Senior;Alta
+23;2023-04-30;2023-07-28;3;Redes;Sistemas Ecológicos;24;147;Abierto;Ana Ruiz;50;Senior;Alta
+73;2023-11-14;2023-12-21;4;Hardware;Soluciones Tecnológicas;24;188;Abierto;Ana Ruiz;50;Senior;Baja
+168;2023-09-25;2023-09-27;1;Hardware;Inteligencia de Datos;72;163;Cerrado;Ana Ruiz;50;Senior;Baja
+192;2023-02-10;2023-09-24;5;Seguridad;Visión Futurista;72;176;Abierto;Ana Ruiz;50;Senior;Baja
+198;2023-02-10;2023-03-20;1;Hardware;Sostenibilidad y Progreso;48;199;Abierto;Ana Ruiz;50;Senior;Urgente
+207;2023-06-02;2023-08-30;4;Software;Sostenibilidad y Progreso;48;199;Abierto;Ana Ruiz;50;Senior;Media
+210;2023-02-27;2023-07-24;3;Redes;Servicios Globales;36;106;En Progreso;Ana Ruiz;50;Senior;Alta
+241;2023-03-17;2023-06-05;4;Software;Soluciones Tecnológicas;24;188;Abierto;Ana Ruiz;50;Senior;Baja
+268;2023-06-10;2023-10-14;5;Seguridad;Sostenibilidad y Progreso;48;199;En Progreso;Ana Ruiz;50;Senior;Alta
+284;2023-02-09;2023-05-27;4;Seguridad;Inteligencia de Datos;72;163;Abierto;Ana Ruiz;50;Senior;Media
+356;2023-03-30;2023-06-05;2;Redes;Redes Seguras;48;132;Abierto;Ana Ruiz;50;Senior;Baja
+394;2023-03-12;2023-03-21;1;Software;Inteligencia de Datos;72;163;En Progreso;Ana Ruiz;50;Senior;Baja
+402;2023-04-28;2023-09-29;1;Software;Servicios Globales;36;106;Cerrado;Ana Ruiz;50;Senior;Urgente
+403;2023-02-22;2023-11-13;3;Software;Sostenibilidad y Progreso;48;199;Abierto;Ana Ruiz;50;Senior;Urgente
+479;2023-05-12;2023-05-19;5;Software;Avances Continuos;36;187;Cerrado;Ana Ruiz;50;Senior;Baja
+491;2023-01-28;2023-04-15;3;Hardware;Sistemas Ecológicos;24;147;Cerrado;Ana Ruiz;50;Senior;Media
+774;2023-01-13;2023-04-28;4;Hardware;Creatividad y Desarrollo;24;116;En Progreso;Ana Ruiz;50;Senior;Urgente
+860;2023-05-03;2023-11-11;5;Redes;Inteligencia de Datos;72;163;Abierto;Ana Ruiz;50;Senior;Urgente
+1103;2023-02-15;2023-09-24;5;Hardware;Innovaciones Creativas;48;138;Abierto;Ana Ruiz;50;Senior;Alta
+1400;2023-02-10;2023-10-19;5;Seguridad;Soluciones Tecnológicas;24;188;Abierto;Ana Ruiz;50;Senior;Baja
+1516;2023-04-08;2023-05-31;4;Hardware;Innovaciones Creativas;48;138;Abierto;Ana Ruiz;50;Senior;Urgente
+1620;2023-07-08;2023-10-02;4;Redes;Soluciones Tecnológicas;24;188;En Progreso;Ana Ruiz;50;Senior;Baja
+1655;2023-04-06;2023-11-07;4;Redes;Soluciones Tecnológicas;24;188;En Progreso;Ana Ruiz;50;Senior;Baja
+1729;2023-02-17;2023-12-12;2;Hardware;Servicios Globales;36;106;Abierto;Ana Ruiz;50;Senior;Baja
+1766;2023-01-12;2023-12-23;2;Software;Soluciones Tecnológicas;24;188;Cerrado;Ana Ruiz;50;Senior;Urgente
+1874;2023-01-01;2023-08-01;1;Software;Visión Futurista;72;176;Cerrado;Ana Ruiz;50;Senior;Urgente
+1881;2023-07-11;2023-11-02;4;Hardware;Redes Seguras;48;132;Cerrado;Ana Ruiz;50;Senior;Baja
+1932;2023-05-15;2023-12-06;5;Seguridad;Creatividad y Desarrollo;24;116;En Progreso;Ana Ruiz;50;Senior;Media
+1993;2023-03-14;2023-03-28;3;Seguridad;Avances Continuos;36;187;Cerrado;Ana Ruiz;50;Senior;Alta
+2023;2023-02-18;2023-09-07;4;Seguridad;Creatividad y Desarrollo;24;116;Abierto;Ana Ruiz;50;Senior;Baja
+2065;2023-04-22;2023-08-06;3;Seguridad;Inteligencia de Datos;72;163;Cerrado;Ana Ruiz;50;Senior;Media
+2096;2023-03-14;2023-07-11;2;Seguridad;Sistemas Ecológicos;24;147;Cerrado;Ana Ruiz;50;Senior;Media
+2207;2023-03-13;2023-07-11;1;Software;Redes Seguras;48;132;Abierto;Ana Ruiz;50;Senior;Media
+2219;2023-02-05;2023-10-21;5;Redes;Visión Futurista;72;176;En Progreso;Ana Ruiz;50;Senior;Urgente
+2225;2023-06-18;2023-10-04;2;Hardware;Servicios Globales;36;106;Cerrado;Ana Ruiz;50;Senior;Urgente
+2240;2023-07-24;2023-10-04;5;Redes;Creatividad y Desarrollo;24;116;Abierto;Ana Ruiz;50;Senior;Alta
+2242;2023-05-28;2023-12-28;3;Seguridad;Visión Futurista;72;176;Cerrado;Ana Ruiz;50;Senior;Baja
+2253;2023-03-23;2023-11-12;4;Redes;Servicios Globales;36;106;Cerrado;Ana Ruiz;50;Senior;Alta
+2284;2023-01-05;2023-02-01;3;Software;Visión Futurista;72;176;Abierto;Ana Ruiz;50;Senior;Media
+2330;2023-07-06;2023-12-21;4;Software;Inteligencia de Datos;72;163;Cerrado;Ana Ruiz;50;Senior;Urgente
+2563;2023-01-25;2023-05-03;3;Redes;Innovaciones Creativas;48;138;Cerrado;Ana Ruiz;50;Senior;Alta
+2589;2023-05-08;2023-11-04;5;Hardware;Avances Continuos;36;187;Cerrado;Ana Ruiz;50;Senior;Baja
+2610;2023-07-08;2023-12-03;5;Redes;Soluciones Tecnológicas;24;188;Abierto;Ana Ruiz;50;Senior;Alta
+2654;2023-11-26;2023-12-14;1;Redes;Avances Continuos;36;187;Cerrado;Ana Ruiz;50;Senior;Media
+2794;2023-04-26;2023-05-07;1;Seguridad;Sostenibilidad y Progreso;48;199;En Progreso;Ana Ruiz;50;Senior;Urgente
+2872;2023-04-20;2023-08-13;5;Seguridad;Sostenibilidad y Progreso;48;199;Cerrado;Ana Ruiz;50;Senior;Media
+2929;2023-04-16;2023-08-09;1;Hardware;Avances Continuos;36;187;En Progreso;Ana Ruiz;50;Senior;Baja
+2958;2023-03-13;2023-09-01;5;Software;Inteligencia de Datos;72;163;En Progreso;Ana Ruiz;50;Senior;Media
+3226;2023-05-09;2023-07-14;2;Software;Soluciones Tecnológicas;24;188;Abierto;Ana Ruiz;50;Senior;Alta
+3368;2023-01-12;2023-10-10;2;Hardware;Servicios Globales;36;106;En Progreso;Ana Ruiz;50;Senior;Media
+3389;2023-07-26;2023-07-30;5;Software;Inteligencia de Datos;72;163;En Progreso;Ana Ruiz;50;Senior;Urgente
+3587;2023-10-04;2023-10-17;4;Redes;Soluciones Tecnológicas;24;188;Abierto;Ana Ruiz;50;Senior;Baja
+3665;2023-06-10;2023-11-01;3;Software;Servicios Globales;36;106;Cerrado;Ana Ruiz;50;Senior;Baja
+3697;2023-08-06;2023-08-19;5;Hardware;Avances Continuos;36;187;Cerrado;Ana Ruiz;50;Senior;Baja
+3947;2023-01-18;2023-03-11;3;Hardware;Sostenibilidad y Progreso;48;199;Cerrado;Ana Ruiz;50;Senior;Alta
+4039;2023-05-01;2023-10-12;4;Software;Avances Continuos;36;187;Abierto;Ana Ruiz;50;Senior;Media
+4157;2023-02-08;2023-03-01;5;Redes;Visión Futurista;72;176;En Progreso;Ana Ruiz;50;Senior;Alta
+4165;2023-01-09;2023-10-29;3;Hardware;Servicios Globales;36;106;Abierto;Ana Ruiz;50;Senior;Urgente
+4262;2023-01-25;2023-09-08;2;Redes;Sistemas Ecológicos;24;147;Abierto;Ana Ruiz;50;Senior;Urgente
+4412;2023-10-21;2023-11-11;3;Seguridad;Avances Continuos;36;187;Abierto;Ana Ruiz;50;Senior;Urgente
+4617;2023-07-29;2023-12-27;3;Redes;Redes Seguras;48;132;En Progreso;Ana Ruiz;50;Senior;Baja
+4620;2023-07-16;2023-07-25;2;Redes;Sostenibilidad y Progreso;48;199;En Progreso;Ana Ruiz;50;Senior;Urgente
+4859;2023-06-12;2023-08-07;2;Hardware;Inteligencia de Datos;72;163;Abierto;Ana Ruiz;50;Senior;Urgente
+5083;2023-01-10;2023-07-14;2;Hardware;Sostenibilidad y Progreso;48;199;Cerrado;Ana Ruiz;50;Senior;Urgente
+5117;2023-12-16;2023-12-19;3;Redes;Servicios Globales;36;106;Cerrado;Ana Ruiz;50;Senior;Baja
+5166;2023-09-13;2023-12-12;1;Seguridad;Servicios Globales;36;106;Abierto;Ana Ruiz;50;Senior;Baja
+5494;2023-03-10;2023-04-19;5;Software;Redes Seguras;48;132;Abierto;Ana Ruiz;50;Senior;Alta
+5583;2023-07-17;2023-08-27;2;Software;Sostenibilidad y Progreso;48;199;Cerrado;Ana Ruiz;50;Senior;Urgente
+5607;2023-08-30;2023-10-15;2;Redes;Innovaciones Creativas;48;138;En Progreso;Ana Ruiz;50;Senior;Baja
+5753;2023-03-07;2023-05-10;5;Hardware;Innovaciones Creativas;48;138;Abierto;Ana Ruiz;50;Senior;Urgente
+5826;2023-03-29;2023-05-16;2;Software;Sostenibilidad y Progreso;48;199;Abierto;Ana Ruiz;50;Senior;Urgente
+5830;2023-01-01;2023-12-24;4;Seguridad;Innovaciones Creativas;48;138;Cerrado;Ana Ruiz;50;Senior;Media
+5890;2023-09-22;2023-11-15;3;Redes;Creatividad y Desarrollo;24;116;Abierto;Ana Ruiz;50;Senior;Urgente
+6128;2023-01-29;2023-03-17;4;Seguridad;Soluciones Tecnológicas;24;188;Cerrado;Ana Ruiz;50;Senior;Alta
+6151;2023-04-24;2023-04-28;2;Hardware;Avances Continuos;36;187;En Progreso;Ana Ruiz;50;Senior;Media
+6162;2023-04-10;2023-05-28;1;Redes;Redes Seguras;48;132;Abierto;Ana Ruiz;50;Senior;Urgente
+6198;2023-08-10;2023-10-06;3;Redes;Sistemas Ecológicos;24;147;Cerrado;Ana Ruiz;50;Senior;Baja
+6284;2023-02-08;2023-08-07;3;Redes;Visión Futurista;72;176;Abierto;Ana Ruiz;50;Senior;Media
+6285;2023-03-16;2023-04-23;4;Seguridad;Sostenibilidad y Progreso;48;199;En Progreso;Ana Ruiz;50;Senior;Alta
+6550;2023-01-03;2023-02-26;5;Software;Visión Futurista;72;176;En Progreso;Ana Ruiz;50;Senior;Media
+6569;2023-05-08;2023-11-29;5;Hardware;Soluciones Tecnológicas;24;188;Abierto;Ana Ruiz;50;Senior;Urgente
+6659;2023-02-25;2023-12-20;3;Software;Servicios Globales;36;106;Cerrado;Ana Ruiz;50;Senior;Alta
+6761;2023-11-08;2023-12-07;1;Redes;Visión Futurista;72;176;En Progreso;Ana Ruiz;50;Senior;Urgente
+6863;2023-02-27;2023-09-29;5;Software;Visión Futurista;72;176;Cerrado;Ana Ruiz;50;Senior;Urgente
+7083;2023-03-03;2023-10-20;1;Software;Soluciones Tecnológicas;24;188;Cerrado;Ana Ruiz;50;Senior;Alta
+7176;2023-02-09;2023-03-15;1;Redes;Servicios Globales;36;106;En Progreso;Ana Ruiz;50;Senior;Baja
+7227;2023-04-18;2023-05-06;1;Hardware;Sostenibilidad y Progreso;48;199;Abierto;Ana Ruiz;50;Senior;Baja
+7240;2023-06-09;2023-09-26;2;Hardware;Avances Continuos;36;187;Abierto;Ana Ruiz;50;Senior;Alta
+7248;2023-06-03;2023-06-22;2;Seguridad;Visión Futurista;72;176;Cerrado;Ana Ruiz;50;Senior;Baja
+7264;2023-04-24;2023-06-11;1;Software;Avances Continuos;36;187;En Progreso;Ana Ruiz;50;Senior;Baja
+7290;2023-04-20;2023-09-10;5;Software;Innovaciones Creativas;48;138;Abierto;Ana Ruiz;50;Senior;Media
+7357;2023-03-13;2023-12-20;4;Seguridad;Sostenibilidad y Progreso;48;199;Cerrado;Ana Ruiz;50;Senior;Media
+7367;2023-12-03;2023-12-30;4;Hardware;Servicios Globales;36;106;Cerrado;Ana Ruiz;50;Senior;Baja
+7448;2023-01-18;2023-10-09;2;Seguridad;Innovaciones Creativas;48;138;En Progreso;Ana Ruiz;50;Senior;Urgente
+7474;2023-01-08;2023-11-28;3;Software;Redes Seguras;48;132;Cerrado;Ana Ruiz;50;Senior;Baja
+7543;2023-01-06;2023-08-05;5;Software;Servicios Globales;36;106;Abierto;Ana Ruiz;50;Senior;Alta
+7571;2023-06-15;2023-08-12;1;Hardware;Soluciones Tecnológicas;24;188;Cerrado;Ana Ruiz;50;Senior;Urgente
+7632;2023-01-09;2023-06-04;3;Software;Inteligencia de Datos;72;163;En Progreso;Ana Ruiz;50;Senior;Alta
+7800;2023-06-18;2023-06-26;3;Redes;Servicios Globales;36;106;Abierto;Ana Ruiz;50;Senior;Alta
+7912;2023-03-16;2023-08-16;5;Hardware;Sostenibilidad y Progreso;48;199;En Progreso;Ana Ruiz;50;Senior;Alta
+7960;2023-04-26;2023-08-28;1;Hardware;Creatividad y Desarrollo;24;116;En Progreso;Ana Ruiz;50;Senior;Alta
+8005;2023-04-12;2023-10-04;5;Seguridad;Creatividad y Desarrollo;24;116;En Progreso;Ana Ruiz;50;Senior;Alta
+8053;2023-05-28;2023-11-24;1;Hardware;Sistemas Ecológicos;24;147;En Progreso;Ana Ruiz;50;Senior;Baja
+8119;2023-08-15;2023-12-06;1;Hardware;Sistemas Ecológicos;24;147;Abierto;Ana Ruiz;50;Senior;Alta
+8196;2023-02-20;2023-08-02;1;Seguridad;Visión Futurista;72;176;Abierto;Ana Ruiz;50;Senior;Baja
+8258;2023-01-26;2023-08-15;5;Redes;Creatividad y Desarrollo;24;116;Cerrado;Ana Ruiz;50;Senior;Urgente
+8260;2023-10-29;2023-11-14;1;Hardware;Visión Futurista;72;176;Abierto;Ana Ruiz;50;Senior;Urgente
+8298;2023-02-03;2023-03-26;1;Redes;Visión Futurista;72;176;Cerrado;Ana Ruiz;50;Senior;Urgente
+8380;2023-03-13;2023-06-30;4;Software;Sistemas Ecológicos;24;147;En Progreso;Ana Ruiz;50;Senior;Urgente
+8422;2023-04-24;2023-12-29;5;Redes;Creatividad y Desarrollo;24;116;En Progreso;Ana Ruiz;50;Senior;Urgente
+8436;2023-05-18;2023-05-30;1;Seguridad;Visión Futurista;72;176;Abierto;Ana Ruiz;50;Senior;Baja
+8457;2023-01-27;2023-07-17;1;Hardware;Sistemas Ecológicos;24;147;Abierto;Ana Ruiz;50;Senior;Alta
+8461;2023-04-12;2023-07-17;4;Hardware;Soluciones Tecnológicas;24;188;En Progreso;Ana Ruiz;50;Senior;Urgente
+8535;2023-02-27;2023-03-16;5;Redes;Innovaciones Creativas;48;138;Cerrado;Ana Ruiz;50;Senior;Alta
+8609;2023-05-16;2023-09-08;4;Hardware;Creatividad y Desarrollo;24;116;Abierto;Ana Ruiz;50;Senior;Media
+8617;2023-01-18;2023-07-13;1;Seguridad;Creatividad y Desarrollo;24;116;En Progreso;Ana Ruiz;50;Senior;Alta
+8620;2023-08-27;2023-08-30;2;Software;Soluciones Tecnológicas;24;188;Abierto;Ana Ruiz;50;Senior;Media
+8903;2023-02-12;2023-08-19;3;Seguridad;Sistemas Ecológicos;24;147;Abierto;Ana Ruiz;50;Senior;Media
+9072;2023-08-08;2023-12-21;5;Software;Inteligencia de Datos;72;163;En Progreso;Ana Ruiz;50;Senior;Media
+9126;2023-03-05;2023-08-22;2;Hardware;Sistemas Ecológicos;24;147;Abierto;Ana Ruiz;50;Senior;Media
+9144;2023-09-17;2023-11-28;1;Seguridad;Soluciones Tecnológicas;24;188;Cerrado;Ana Ruiz;50;Senior;Baja
+9212;2023-02-10;2023-10-21;3;Seguridad;Servicios Globales;36;106;Cerrado;Ana Ruiz;50;Senior;Baja
+9330;2023-02-24;2023-09-09;1;Seguridad;Servicios Globales;36;106;Cerrado;Ana Ruiz;50;Senior;Alta
+9512;2023-01-10;2023-03-10;3;Seguridad;Inteligencia de Datos;72;163;En Progreso;Ana Ruiz;50;Senior;Urgente
+9749;2023-07-23;2023-10-13;3;Software;Sostenibilidad y Progreso;48;199;Abierto;Ana Ruiz;50;Senior;Urgente
+9776;2023-02-25;2023-03-24;2;Hardware;Innovaciones Creativas;48;138;En Progreso;Ana Ruiz;50;Senior;Alta
+9897;2023-10-23;2023-12-20;3;Software;Redes Seguras;48;132;En Progreso;Ana Ruiz;50;Senior;Baja
+9920;2023-09-19;2023-11-22;3;Hardware;Soluciones Tecnológicas;24;188;Abierto;Ana Ruiz;50;Senior;Alta
+9934;2023-07-02;2023-09-02;3;Seguridad;Redes Seguras;48;132;Abierto;Ana Ruiz;50;Senior;Alta
+105;2023-02-26;2023-05-16;2;Redes;Servicios Globales;36;106;En Progreso;Carlos Gómez;60;Senior;Baja
+299;2023-11-16;2023-12-07;1;Software;Soluciones Tecnológicas;24;188;Abierto;Carlos Gómez;60;Senior;Urgente
+300;2023-03-04;2023-08-22;1;Hardware;Redes Seguras;48;132;Abierto;Carlos Gómez;60;Senior;Media
+458;2023-04-27;2023-10-17;3;Redes;Creatividad y Desarrollo;24;116;Abierto;Carlos Gómez;60;Senior;Alta
+493;2023-04-18;2023-06-24;5;Redes;Sistemas Ecológicos;24;147;Cerrado;Carlos Gómez;60;Senior;Urgente
+494;2023-05-31;2023-11-10;5;Seguridad;Soluciones Tecnológicas;24;188;Cerrado;Carlos Gómez;60;Senior;Urgente
+592;2023-03-20;2023-11-10;4;Hardware;Soluciones Tecnológicas;24;188;Abierto;Carlos Gómez;60;Senior;Media
+593;2023-03-13;2023-03-31;2;Software;Soluciones Tecnológicas;24;188;Cerrado;Carlos Gómez;60;Senior;Alta
+612;2023-01-02;2023-09-15;4;Redes;Sostenibilidad y Progreso;48;199;Cerrado;Carlos Gómez;60;Senior;Urgente
+618;2023-04-12;2023-12-03;5;Redes;Avances Continuos;36;187;Cerrado;Carlos Gómez;60;Senior;Baja
+627;2023-04-03;2023-08-15;1;Redes;Servicios Globales;36;106;Cerrado;Carlos Gómez;60;Senior;Urgente
+683;2023-06-06;2023-07-05;4;Redes;Redes Seguras;48;132;Cerrado;Carlos Gómez;60;Senior;Baja
+684;2023-06-04;2023-12-28;2;Redes;Visión Futurista;72;176;Abierto;Carlos Gómez;60;Senior;Media
+707;2023-02-19;2023-07-27;5;Software;Sostenibilidad y Progreso;48;199;Abierto;Carlos Gómez;60;Senior;Urgente
+721;2023-03-14;2023-08-10;2;Hardware;Creatividad y Desarrollo;24;116;En Progreso;Carlos Gómez;60;Senior;Media
+758;2023-01-27;2023-02-22;5;Software;Innovaciones Creativas;48;138;Abierto;Carlos Gómez;60;Senior;Alta
+832;2023-02-03;2023-12-07;2;Software;Soluciones Tecnológicas;24;188;Abierto;Carlos Gómez;60;Senior;Baja
+1165;2023-11-29;2023-12-14;3;Seguridad;Sostenibilidad y Progreso;48;199;En Progreso;Carlos Gómez;60;Senior;Urgente
+1216;2023-01-12;2023-06-23;4;Software;Sistemas Ecológicos;24;147;Abierto;Carlos Gómez;60;Senior;Media
+1267;2023-10-04;2023-10-16;3;Redes;Sostenibilidad y Progreso;48;199;Cerrado;Carlos Gómez;60;Senior;Media
+1434;2023-06-06;2023-06-19;4;Software;Inteligencia de Datos;72;163;Cerrado;Carlos Gómez;60;Senior;Media
+1508;2023-03-30;2023-12-19;2;Seguridad;Visión Futurista;72;176;Abierto;Carlos Gómez;60;Senior;Alta
+1623;2023-06-03;2023-09-23;3;Redes;Avances Continuos;36;187;En Progreso;Carlos Gómez;60;Senior;Alta
+1650;2023-08-05;2023-11-24;3;Hardware;Servicios Globales;36;106;En Progreso;Carlos Gómez;60;Senior;Alta
+1688;2023-02-10;2023-12-29;2;Hardware;Creatividad y Desarrollo;24;116;Abierto;Carlos Gómez;60;Senior;Media
+1781;2023-04-01;2023-05-28;4;Redes;Soluciones Tecnológicas;24;188;En Progreso;Carlos Gómez;60;Senior;Alta
+2091;2023-02-16;2023-07-20;3;Redes;Innovaciones Creativas;48;138;Cerrado;Carlos Gómez;60;Senior;Alta
+2111;2023-05-28;2023-09-09;5;Seguridad;Redes Seguras;48;132;En Progreso;Carlos Gómez;60;Senior;Baja
+2116;2023-01-17;2023-11-17;2;Hardware;Sostenibilidad y Progreso;48;199;En Progreso;Carlos Gómez;60;Senior;Alta
+2126;2023-01-30;2023-08-03;1;Redes;Sostenibilidad y Progreso;48;199;En Progreso;Carlos Gómez;60;Senior;Alta
+2232;2023-04-10;2023-08-09;3;Software;Sostenibilidad y Progreso;48;199;Cerrado;Carlos Gómez;60;Senior;Urgente
+2270;2023-02-05;2023-12-15;4;Software;Innovaciones Creativas;48;138;En Progreso;Carlos Gómez;60;Senior;Urgente
+2301;2023-01-30;2023-07-21;2;Hardware;Soluciones Tecnológicas;24;188;En Progreso;Carlos Gómez;60;Senior;Urgente
+2370;2023-01-12;2023-07-06;1;Seguridad;Visión Futurista;72;176;Abierto;Carlos Gómez;60;Senior;Urgente
+2556;2023-02-17;2023-09-09;3;Hardware;Sostenibilidad y Progreso;48;199;Cerrado;Carlos Gómez;60;Senior;Urgente
+2568;2023-07-31;2023-09-29;3;Seguridad;Avances Continuos;36;187;Cerrado;Carlos Gómez;60;Senior;Media
+2662;2023-04-10;2023-06-13;2;Seguridad;Soluciones Tecnológicas;24;188;En Progreso;Carlos Gómez;60;Senior;Alta
+2908;2023-03-17;2023-12-18;4;Redes;Inteligencia de Datos;72;163;Cerrado;Carlos Gómez;60;Senior;Urgente
+2940;2023-10-09;2023-10-19;5;Seguridad;Avances Continuos;36;187;Cerrado;Carlos Gómez;60;Senior;Baja
+3134;2023-04-29;2023-07-16;5;Seguridad;Sistemas Ecológicos;24;147;En Progreso;Carlos Gómez;60;Senior;Media
+3149;2023-06-28;2023-08-17;2;Hardware;Creatividad y Desarrollo;24;116;Abierto;Carlos Gómez;60;Senior;Baja
+3200;2023-05-11;2023-08-30;1;Redes;Soluciones Tecnológicas;24;188;Abierto;Carlos Gómez;60;Senior;Alta
+3222;2023-09-10;2023-09-11;2;Software;Sostenibilidad y Progreso;48;199;Cerrado;Carlos Gómez;60;Senior;Alta
+3265;2023-10-16;2023-11-22;2;Hardware;Innovaciones Creativas;48;138;Cerrado;Carlos Gómez;60;Senior;Urgente
+3393;2023-02-04;2023-02-20;1;Redes;Redes Seguras;48;132;En Progreso;Carlos Gómez;60;Senior;Alta
+3425;2023-03-17;2023-10-19;2;Software;Servicios Globales;36;106;Abierto;Carlos Gómez;60;Senior;Urgente
+3451;2023-03-24;2023-05-03;5;Redes;Soluciones Tecnológicas;24;188;En Progreso;Carlos Gómez;60;Senior;Baja
+3455;2023-06-11;2023-09-03;4;Seguridad;Inteligencia de Datos;72;163;Cerrado;Carlos Gómez;60;Senior;Urgente
+3507;2023-02-08;2023-12-09;2;Redes;Creatividad y Desarrollo;24;116;En Progreso;Carlos Gómez;60;Senior;Baja
+3536;2023-04-22;2023-12-07;2;Seguridad;Creatividad y Desarrollo;24;116;Abierto;Carlos Gómez;60;Senior;Urgente
+3551;2023-01-30;2023-10-17;4;Seguridad;Sistemas Ecológicos;24;147;Abierto;Carlos Gómez;60;Senior;Alta
+3584;2023-02-11;2023-06-19;3;Seguridad;Innovaciones Creativas;48;138;En Progreso;Carlos Gómez;60;Senior;Media
+3593;2023-05-12;2023-09-30;4;Seguridad;Visión Futurista;72;176;Cerrado;Carlos Gómez;60;Senior;Baja
+3683;2023-04-16;2023-10-31;2;Redes;Innovaciones Creativas;48;138;Abierto;Carlos Gómez;60;Senior;Baja
+3865;2023-05-13;2023-06-20;3;Software;Soluciones Tecnológicas;24;188;Cerrado;Carlos Gómez;60;Senior;Media
+3935;2023-06-12;2023-08-30;1;Software;Creatividad y Desarrollo;24;116;En Progreso;Carlos Gómez;60;Senior;Baja
+3951;2023-03-08;2023-03-09;5;Redes;Inteligencia de Datos;72;163;Abierto;Carlos Gómez;60;Senior;Baja
+4169;2023-05-02;2023-12-24;4;Hardware;Creatividad y Desarrollo;24;116;Abierto;Carlos Gómez;60;Senior;Baja
+4192;2023-09-22;2023-10-21;4;Hardware;Avances Continuos;36;187;En Progreso;Carlos Gómez;60;Senior;Baja
+4201;2023-01-28;2023-09-30;4;Hardware;Inteligencia de Datos;72;163;En Progreso;Carlos Gómez;60;Senior;Urgente
+4225;2023-09-21;2023-11-24;5;Software;Sistemas Ecológicos;24;147;En Progreso;Carlos Gómez;60;Senior;Media
+4348;2023-03-23;2023-08-06;2;Software;Creatividad y Desarrollo;24;116;Cerrado;Carlos Gómez;60;Senior;Media
+4370;2023-04-02;2023-07-23;4;Hardware;Inteligencia de Datos;72;163;En Progreso;Carlos Gómez;60;Senior;Alta
+4463;2023-06-29;2023-10-14;1;Seguridad;Sistemas Ecológicos;24;147;Abierto;Carlos Gómez;60;Senior;Baja
+4601;2023-10-09;2023-10-23;3;Software;Visión Futurista;72;176;Cerrado;Carlos Gómez;60;Senior;Baja
+4710;2023-02-21;2023-07-30;4;Redes;Creatividad y Desarrollo;24;116;Abierto;Carlos Gómez;60;Senior;Baja
+4723;2023-10-10;2023-11-15;1;Seguridad;Creatividad y Desarrollo;24;116;En Progreso;Carlos Gómez;60;Senior;Media
+4759;2023-05-15;2023-11-06;1;Redes;Servicios Globales;36;106;En Progreso;Carlos Gómez;60;Senior;Baja
+4821;2023-04-20;2023-11-01;5;Redes;Sostenibilidad y Progreso;48;199;Cerrado;Carlos Gómez;60;Senior;Baja
+4857;2023-10-11;2023-11-28;4;Hardware;Creatividad y Desarrollo;24;116;Abierto;Carlos Gómez;60;Senior;Baja
+4936;2023-04-22;2023-05-20;4;Seguridad;Avances Continuos;36;187;Abierto;Carlos Gómez;60;Senior;Baja
+4956;2023-03-13;2023-07-21;3;Software;Avances Continuos;36;187;En Progreso;Carlos Gómez;60;Senior;Alta
+5009;2023-01-12;2023-10-23;4;Software;Creatividad y Desarrollo;24;116;Abierto;Carlos Gómez;60;Senior;Urgente
+5042;2023-04-28;2023-09-28;5;Hardware;Inteligencia de Datos;72;163;En Progreso;Carlos Gómez;60;Senior;Baja
+5052;2023-09-28;2023-11-20;5;Seguridad;Innovaciones Creativas;48;138;En Progreso;Carlos Gómez;60;Senior;Alta
+5139;2023-01-04;2023-11-04;3;Hardware;Innovaciones Creativas;48;138;Cerrado;Carlos Gómez;60;Senior;Media
+5140;2023-04-15;2023-08-01;2;Redes;Sostenibilidad y Progreso;48;199;Cerrado;Carlos Gómez;60;Senior;Urgente
+5146;2023-02-24;2023-04-05;5;Hardware;Inteligencia de Datos;72;163;Cerrado;Carlos Gómez;60;Senior;Alta
+5198;2023-05-09;2023-11-29;1;Redes;Redes Seguras;48;132;Cerrado;Carlos Gómez;60;Senior;Urgente
+5267;2023-06-21;2023-09-07;1;Hardware;Soluciones Tecnológicas;24;188;Abierto;Carlos Gómez;60;Senior;Alta
+5307;2023-06-27;2023-12-23;2;Redes;Servicios Globales;36;106;En Progreso;Carlos Gómez;60;Senior;Urgente
+5312;2023-01-01;2023-01-20;1;Redes;Visión Futurista;72;176;Abierto;Carlos Gómez;60;Senior;Baja
+5496;2023-02-25;2023-05-04;1;Hardware;Servicios Globales;36;106;Abierto;Carlos Gómez;60;Senior;Alta
+5531;2023-05-05;2023-10-22;5;Seguridad;Redes Seguras;48;132;Abierto;Carlos Gómez;60;Senior;Media
+5536;2023-11-06;2023-12-08;3;Redes;Sistemas Ecológicos;24;147;En Progreso;Carlos Gómez;60;Senior;Baja
+5784;2023-02-05;2023-02-26;4;Software;Innovaciones Creativas;48;138;Abierto;Carlos Gómez;60;Senior;Baja
+5846;2023-05-02;2023-05-22;1;Software;Soluciones Tecnológicas;24;188;Abierto;Carlos Gómez;60;Senior;Baja
+5956;2023-01-01;2023-10-16;5;Software;Inteligencia de Datos;72;163;En Progreso;Carlos Gómez;60;Senior;Media
+6018;2023-01-03;2023-05-22;5;Software;Soluciones Tecnológicas;24;188;En Progreso;Carlos Gómez;60;Senior;Urgente
+6048;2023-05-25;2023-11-11;3;Seguridad;Inteligencia de Datos;72;163;Cerrado;Carlos Gómez;60;Senior;Baja
+6053;2023-04-19;2023-09-25;5;Software;Creatividad y Desarrollo;24;116;En Progreso;Carlos Gómez;60;Senior;Media
+6142;2023-02-14;2023-02-24;4;Software;Sistemas Ecológicos;24;147;En Progreso;Carlos Gómez;60;Senior;Media
+6168;2023-04-23;2023-07-21;4;Hardware;Avances Continuos;36;187;Cerrado;Carlos Gómez;60;Senior;Alta
+6434;2023-04-06;2023-06-04;5;Seguridad;Soluciones Tecnológicas;24;188;Abierto;Carlos Gómez;60;Senior;Urgente
+6439;2023-05-17;2023-10-17;4;Software;Sistemas Ecológicos;24;147;En Progreso;Carlos Gómez;60;Senior;Baja
+6452;2023-04-27;2023-05-21;3;Redes;Inteligencia de Datos;72;163;En Progreso;Carlos Gómez;60;Senior;Urgente
+6524;2023-03-13;2023-09-14;3;Redes;Inteligencia de Datos;72;163;En Progreso;Carlos Gómez;60;Senior;Urgente
+6541;2023-02-23;2023-07-13;3;Redes;Redes Seguras;48;132;Abierto;Carlos Gómez;60;Senior;Alta
+6543;2023-03-21;2023-04-08;3;Redes;Redes Seguras;48;132;Abierto;Carlos Gómez;60;Senior;Baja
+6548;2023-07-31;2023-09-23;3;Hardware;Sistemas Ecológicos;24;147;Abierto;Carlos Gómez;60;Senior;Alta
+6551;2023-04-04;2023-10-18;3;Redes;Sostenibilidad y Progreso;48;199;En Progreso;Carlos Gómez;60;Senior;Baja
+6625;2023-07-03;2023-11-14;5;Hardware;Avances Continuos;36;187;En Progreso;Carlos Gómez;60;Senior;Urgente
+6667;2023-03-01;2023-06-17;4;Hardware;Innovaciones Creativas;48;138;Cerrado;Carlos Gómez;60;Senior;Alta
+6700;2023-01-10;2023-08-28;1;Hardware;Sistemas Ecológicos;24;147;En Progreso;Carlos Gómez;60;Senior;Media
+6728;2023-04-20;2023-06-09;5;Software;Sostenibilidad y Progreso;48;199;Abierto;Carlos Gómez;60;Senior;Alta
+6786;2023-05-15;2023-12-26;3;Seguridad;Redes Seguras;48;132;En Progreso;Carlos Gómez;60;Senior;Media
+6860;2023-05-27;2023-11-28;5;Seguridad;Redes Seguras;48;132;Abierto;Carlos Gómez;60;Senior;Alta
+6994;2023-02-28;2023-08-07;5;Hardware;Servicios Globales;36;106;En Progreso;Carlos Gómez;60;Senior;Alta
+7032;2023-09-19;2023-11-04;2;Seguridad;Avances Continuos;36;187;En Progreso;Carlos Gómez;60;Senior;Urgente
+7119;2023-03-23;2023-11-04;5;Redes;Creatividad y Desarrollo;24;116;Abierto;Carlos Gómez;60;Senior;Media
+7195;2023-02-26;2023-08-08;3;Redes;Avances Continuos;36;187;Abierto;Carlos Gómez;60;Senior;Urgente
+7223;2023-08-14;2023-10-08;1;Software;Visión Futurista;72;176;Cerrado;Carlos Gómez;60;Senior;Alta
+7298;2023-06-27;2023-09-04;4;Redes;Soluciones Tecnológicas;24;188;Cerrado;Carlos Gómez;60;Senior;Baja
+7340;2023-03-12;2023-09-01;5;Seguridad;Servicios Globales;36;106;Abierto;Carlos Gómez;60;Senior;Media
+7393;2023-04-19;2023-06-17;5;Seguridad;Redes Seguras;48;132;Cerrado;Carlos Gómez;60;Senior;Media
+7398;2023-01-29;2023-12-31;5;Seguridad;Inteligencia de Datos;72;163;Abierto;Carlos Gómez;60;Senior;Baja
+7484;2023-05-22;2023-09-19;5;Seguridad;Inteligencia de Datos;72;163;En Progreso;Carlos Gómez;60;Senior;Urgente
+7655;2023-08-04;2023-11-10;2;Software;Visión Futurista;72;176;En Progreso;Carlos Gómez;60;Senior;Alta
+7682;2023-01-10;2023-04-01;4;Hardware;Servicios Globales;36;106;Abierto;Carlos Gómez;60;Senior;Baja
+7740;2023-05-04;2023-06-12;5;Hardware;Soluciones Tecnológicas;24;188;En Progreso;Carlos Gómez;60;Senior;Media
+7769;2023-06-08;2023-10-29;4;Redes;Innovaciones Creativas;48;138;Cerrado;Carlos Gómez;60;Senior;Baja
+7858;2023-04-04;2023-06-16;3;Software;Creatividad y Desarrollo;24;116;En Progreso;Carlos Gómez;60;Senior;Urgente
+8088;2023-01-31;2023-11-06;4;Seguridad;Visión Futurista;72;176;Cerrado;Carlos Gómez;60;Senior;Alta
+8207;2023-02-03;2023-03-02;3;Hardware;Visión Futurista;72;176;En Progreso;Carlos Gómez;60;Senior;Media
+8523;2023-10-02;2023-12-10;2;Redes;Soluciones Tecnológicas;24;188;Abierto;Carlos Gómez;60;Senior;Baja
+8697;2023-04-20;2023-07-29;5;Software;Inteligencia de Datos;72;163;Abierto;Carlos Gómez;60;Senior;Baja
+8710;2023-02-06;2023-08-05;5;Software;Redes Seguras;48;132;Abierto;Carlos Gómez;60;Senior;Baja
+8884;2023-05-05;2023-08-24;3;Software;Sostenibilidad y Progreso;48;199;Abierto;Carlos Gómez;60;Senior;Media
+8936;2023-07-05;2023-08-13;5;Seguridad;Innovaciones Creativas;48;138;Abierto;Carlos Gómez;60;Senior;Urgente
+9050;2023-01-21;2023-11-02;5;Software;Inteligencia de Datos;72;163;Cerrado;Carlos Gómez;60;Senior;Urgente
+9087;2023-03-09;2023-03-29;5;Hardware;Sostenibilidad y Progreso;48;199;Cerrado;Carlos Gómez;60;Senior;Baja
+9104;2023-10-26;2023-11-28;4;Seguridad;Sostenibilidad y Progreso;48;199;Abierto;Carlos Gómez;60;Senior;Urgente
+9207;2023-02-15;2023-07-26;4;Hardware;Creatividad y Desarrollo;24;116;En Progreso;Carlos Gómez;60;Senior;Baja
+9325;2023-09-11;2023-11-28;5;Seguridad;Avances Continuos;36;187;Abierto;Carlos Gómez;60;Senior;Urgente
+9386;2023-01-19;2023-09-25;2;Seguridad;Visión Futurista;72;176;Cerrado;Carlos Gómez;60;Senior;Urgente
+9448;2023-09-01;2023-11-12;2;Software;Creatividad y Desarrollo;24;116;Cerrado;Carlos Gómez;60;Senior;Alta
+9535;2023-08-01;2023-12-15;2;Seguridad;Inteligencia de Datos;72;163;Cerrado;Carlos Gómez;60;Senior;Baja
+9592;2023-05-19;2023-10-29;1;Seguridad;Redes Seguras;48;132;Cerrado;Carlos Gómez;60;Senior;Baja
+9632;2023-05-23;2023-07-07;2;Redes;Inteligencia de Datos;72;163;Cerrado;Carlos Gómez;60;Senior;Media
+9773;2023-03-22;2023-05-08;2;Software;Soluciones Tecnológicas;24;188;En Progreso;Carlos Gómez;60;Senior;Urgente
+9774;2023-02-01;2023-03-07;2;Redes;Visión Futurista;72;176;Abierto;Carlos Gómez;60;Senior;Baja
+9775;2023-01-03;2023-02-14;4;Software;Inteligencia de Datos;72;163;En Progreso;Carlos Gómez;60;Senior;Urgente
+9835;2023-05-18;2023-09-15;4;Software;Creatividad y Desarrollo;24;116;Abierto;Carlos Gómez;60;Senior;Alta
+9841;2023-03-05;2023-10-10;1;Redes;Soluciones Tecnológicas;24;188;Cerrado;Carlos Gómez;60;Senior;Baja
+9888;2023-01-05;2023-02-27;3;Redes;Sistemas Ecológicos;24;147;En Progreso;Carlos Gómez;60;Senior;Urgente
+9898;2023-01-12;2023-11-02;1;Seguridad;Creatividad y Desarrollo;24;116;En Progreso;Carlos Gómez;60;Senior;Alta
+9928;2023-08-23;2023-09-08;4;Redes;Innovaciones Creativas;48;138;Cerrado;Carlos Gómez;60;Senior;Baja
+9939;2023-07-18;2023-11-03;4;Software;Innovaciones Creativas;48;138;Abierto;Carlos Gómez;60;Senior;Alta
+9943;2023-06-07;2023-12-02;5;Redes;Sistemas Ecológicos;24;147;Cerrado;Carlos Gómez;60;Senior;Urgente
+9968;2023-09-02;2023-11-13;5;Software;Creatividad y Desarrollo;24;116;Cerrado;Carlos Gómez;60;Senior;Alta
+9972;2023-01-30;2023-03-04;5;Seguridad;Redes Seguras;48;132;Cerrado;Carlos Gómez;60;Senior;Alta
